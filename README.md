@@ -46,7 +46,7 @@ add all imeges related to your blog at folder in [static/images/blog](https://gi
 
 To make a blog post featured, simply add an isFeatured attribute to the yaml header of the blog post. The most recent featured blog post wiil be displayed on the heading row of the blog page, and the rest will be displayed under featured posts in the side nav.
 
-![image](https://user-images.githubusercontent.com/10484295/175046014-f0c963c7-1742-4419-9546-1a1fb35b0375.png)
+![image](https://user-images.githubusercontent.com/10484295/175053170-ff987107-6c98-49c8-96a7-d9e4587f4f3e.png)
 
 [People](content/people) and [Newsroom](content/newsroom) are the same way
 
@@ -75,11 +75,11 @@ Markdown only goes vertical, but this shortcode allows one to add horizontal ele
 You can create columns in your row by using three vertical bars. ( ||| )
 You can fill in your columns with regular markdown, but they can also be empty.
 
-- #### [menu.html](https://github.com/threefoldfoundation/www_threefold_io/blob/zola_development/content/header/_index.md)
+### [Header](/content/header/_index.md) & [Footer](/content/footer/_index.md)
 
-Just like row, menu renders a row with columns split by ( ||| ). However, menu is specifically used to create menu objects for expandible header items. The menu shortcode supports button shortcodes in itself, and provides styling for the menu.
+The header and footer are also created from markdown files in the content directory. In /content/header/\_index.md, each header item is bulleted. If a header item has a row beneath it, the row will be displayed as a sub-menu on click. Otherwise, if header item is a link, it will simply navigate to the linked page.
 
-Our menu(nav) [here](https://github.com/threefoldfoundation/www_threefold_io/blob/zola_development/content/header/_index.md) if you need to add new link just put it like this
+Our header(nav) [here](https://github.com/threefoldfoundation/www_threefold_io/blob/zola_development/content/header/_index.md) if you need to add new link just put it like this
 
 ![image](https://user-images.githubusercontent.com/10484295/175034334-81d494fb-14ed-49e5-8698-ff34743d00e2.png)
 
@@ -87,7 +87,11 @@ if u need to add link with dropdown(menu) just put it inside {% menu() %} yourli
 
  ![image](https://user-images.githubusercontent.com/10484295/175038942-e2074c5f-a361-4a67-983d-d538789bd2de.png)
 
+The footer, likewise, is structured using the row shortcode. However the left section with page summary is built in. To edit the site destcription, one should edit the description (in the yaml header) of the footer md file. To edit the social links, simply add the social outlets name and your link into the socialLinks dictionary attribute on the yaml header of the footer/\_index.md. If a social icon exists for the social outlet, the link wiill be automatically rendered within the icon, displayed in the footer.
 
+- #### menu.html
+
+Just like row, menu renders a row with columns split by ( ||| ). However, menu is specifically used to create menu objects for expandible header items. The menu shortcode supports button shortcodes in itself, and provides styling for the menu.
 
 - #### button.html
 
@@ -112,11 +116,6 @@ Simple annotation shorcode that can be used to create annotation objects in mark
 You can size your markdown images by adding #small, #medium or #large at the end of the images source url.
 See /content/\_index.md for implementation.
 
-### Header & Footer
-
-The header and footer are also created from markdown files in the content directory. In /content/header/\_index.md, each header item is bulleted. If a header item has a row beneath it, the row will be displayed as a sub-menu on click. Otherwise, if header item is a link, it will simply navigate to the linked page.
-
-The footer, likewise, is structured using the row shortcode. However the left section with page summary is built in. To edit the site destcription, one should edit the description (in the yaml header) of the footer md file. To edit the social links, simply add the social outlets name and your link into the socialLinks dictionary attribute on the yaml header of the footer/\_index.md. If a social icon exists for the social outlet, the link wiill be automatically rendered within the icon, displayed in the footer.
 
 ## Resources & References
 
