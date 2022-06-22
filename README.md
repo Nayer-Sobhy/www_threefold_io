@@ -33,14 +33,23 @@ content/careers/index.md or content/careers.md -> yoururl.com/careers
 
 ### Section Templates
 
-#### Blog.html
+#### [Blog.html](content/blog)
 
 The blog page is created by default if there is a blog folder in the content directory. The blog page consists of a featured post row, a paginated grid of posts sorted by recency, and a side nav of post categories and featured posts.
 
 Blog posts or News or people ,partners can have categories, and can be filtered by said categries. To add a new category simply define the posts category in the yaml header of the blog's index.md file. See /content/blog/2022/01/post-1/index.md for example. The side navigation and category based listing will be automatically updated.
-add all imeges related to your blog at folder in static/images/blog (please keep size of image less than 400k) you can use this site for resise online [tinypng](https://tinypng.com/)
 
-To make a blog post featured, simply add an isFeatured attribute to the yaml header of the blog post. The most recent featured blog post wiil be displayed on the heading row of the blog page, and the rest will be displayed under featured posts in the side nav. See /content/blog/2019/03/post-5/index.md for implementation.
+![image](https://user-images.githubusercontent.com/10484295/175045592-21b4f3b3-47c3-49ee-bc9c-09dde0d8d17a.png)
+
+
+add all imeges related to your blog at folder in [static/images/blog](https://github.com/threefoldfoundation/www_threefold_io/tree/zola_development/static/images/blog) (please keep size of image less than 400k) you can use this site for resise online [tinypng](https://tinypng.com/)
+
+To make a blog post featured, simply add an isFeatured attribute to the yaml header of the blog post. The most recent featured blog post wiil be displayed on the heading row of the blog page, and the rest will be displayed under featured posts in the side nav.
+
+![image](https://user-images.githubusercontent.com/10484295/175046014-f0c963c7-1742-4419-9546-1a1fb35b0375.png)
+
+[People](content/people) and [Newsroom](content/newsroom) are the same way
+
 
 #### Section.html
 
@@ -66,9 +75,19 @@ Markdown only goes vertical, but this shortcode allows one to add horizontal ele
 You can create columns in your row by using three vertical bars. ( ||| )
 You can fill in your columns with regular markdown, but they can also be empty.
 
-- #### menu.html
+- #### [menu.html](https://github.com/threefoldfoundation/www_threefold_io/blob/zola_development/content/header/_index.md)
 
 Just like row, menu renders a row with columns split by ( ||| ). However, menu is specifically used to create menu objects for expandible header items. The menu shortcode supports button shortcodes in itself, and provides styling for the menu.
+
+Our menu(nav) [here](https://github.com/threefoldfoundation/www_threefold_io/blob/zola_development/content/header/_index.md) if you need to add new link just put it like this
+
+![image](https://user-images.githubusercontent.com/10484295/175034334-81d494fb-14ed-49e5-8698-ff34743d00e2.png)
+
+if u need to add link with dropdown(menu) just put it inside {% menu() %} yourlink {%% end %%} 
+
+ ![image](https://user-images.githubusercontent.com/10484295/175038942-e2074c5f-a361-4a67-983d-d538789bd2de.png)
+
+
 
 - #### button.html
 
