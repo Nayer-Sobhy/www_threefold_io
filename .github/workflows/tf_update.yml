@@ -1,17 +1,17 @@
 name: Threefold_io
 on: 
   push:
-    branch: [ zola_development ]
+    branch: [ zola_production ]
 
 jobs:
   job_one:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: pushing latest change on www3.threefold.io
+    - name: pushing latest change on www.threefold.io
       uses: appleboy/ssh-action@master
       with:
-        host: www3.threefold.io
+        host: www.threefold.io
         username: root
         key: ${{ secrets.TF_SECRET }}
         port: 22
