@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - blog</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-10T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/blog/atom.xml</id>
+	<entry xml:lang="en">
+		<title>🇮🇳 How Would Decentralization of the Internet Help India?</title>
+		<published>2023-01-10T00:00:00+00:00</published>
+		<updated>2023-01-10T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/decentralization-india/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/decentralization-india/</id>
+		<content type="html">&lt;p&gt;ThreeFold support team member Ashish wrote a piece recently about how the decentralization of the Internet would (will) help his home country. Read it &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&#x2F;blog&#x2F;decentralised-internet-india&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;nice-example-of-how-we-can-decentralize-and-diversify-the-communication-about-threefold&#x2F;3680&quot;&gt;a great example&lt;&#x2F;a&gt; of how anybody can get involved in the communication around ThreeFold.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Remember: a decentralized movement is all about decentralized action &amp;amp; participation. The more the members of the community talk about ThreeFold from our own unique perspectives, the more exposure &amp;amp; momentum we gain.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

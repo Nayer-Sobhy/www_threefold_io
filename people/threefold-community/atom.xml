@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - threefold_community</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/people/threefold-community/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-09T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/people/threefold-community/atom.xml</id>
+	<entry xml:lang="en">
+		<title>ThreeFold: An Organisation Building a Decentralized Internet</title>
+		<published>2022-11-09T00:00:00+00:00</published>
+		<updated>2022-11-09T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/an-org-building-a-decentralized-internet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/an-org-building-a-decentralized-internet/</id>
+		<content type="html">&lt;h2 id=&quot;threefold-an-organisation-building-a-decentralized-internet&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-an-organisation-building-a-decentralized-internet&quot; aria-label=&quot;Anchor link for: threefold-an-organisation-building-a-decentralized-internet&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold: An Organisation Building a Decentralized Internet&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Disclaimer: This blog has been written by ThreeFold community member Drew Smith, and was originally a Reddit post. The team found so much value within it that we felt it was important to give it a permanent space within the ThreeFold Blogs collection, and Drew agreed to this. Besides a few grammatical corrections and minor contextual tweaks, the content has not been edited – and you can find the original post &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;user&#x2F;DrewSmith214&#x2F;comments&#x2F;yhym2f&#x2F;an_organization_building_a_decentralized_internet&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Greetings fellow decentralization lovers, I am in search of people looking to contribute to what is now the largest decentralized network in the world, working towards the goal of providing a decentralized internet that breaks down barriers to information and compute resource access. Our network provides digital equality to all users while placing the control of their data back into their hands.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;The project I’m discussing is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;&quot;&gt;Threefold.io&lt;&#x2F;a&gt;, this is a project that currently has nearly 3000 Bare-Metal** **nodes in 64 countries allowing anyone in the world to deploy an industry standard VPS on the decentralized infrastructure with no involvement of the centralized cloud providers, This is a network meant to be used by everyone that can be expanded by anyone. You can check out a current map of the nodes online on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;dashboard.grid.tf&#x2F;explorer&#x2F;statistics&quot;&gt;ThreeFold Explorer&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;The ThreeFold Grid consists of three synergistic layers: The Nodes, The Network, and the BlockChain.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Nodes:&lt;&#x2F;strong&gt; These are hardware that gives its grid its power, The requirements for running a 3Node are a bare metal x86_64 machine and a reliable internet connection. These nodes can be hosted in a variety of environments spanning at home deployments to rented-space DC’s. This includes DC’s themselves being able to bring capacity online so long as it’s a fully bare metal device.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can find &lt;strong&gt;&lt;em&gt;plug and play solutions&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; for bringing a 3Node online on the [3Node marketplace](https:&#x2F;&#x2F;marketplace.3node.global&#x2F;index.php?dispatch= categories.view&amp;amp;category_id=167), this marketplace includes node offerings from both the organizations itself as well as multiple independent businesses that have become certified 3Node Resellers.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;If you’re familiar with the concepts of building a server&#x2F;pc you can also bring your hardware online as &lt;strong&gt;&lt;em&gt;D.I.Y 3Node&lt;&#x2F;em&gt;&lt;&#x2F;strong&gt; this allows you to contribute any additional hardware you may have in your deployment to the support of both the grids network and compute capacity. you can find documentation on D.I.Y nodes on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;diy-nodes-guide&#x2F;837&quot;&gt;Forums&lt;&#x2F;a&gt; or in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__diy_guide&quot;&gt;Wiki&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Each node is booted using a fully in house developed autonomous operating system that automates both node deployment and workloads being deployed on the node after its online, called &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;zos&quot;&gt;Zero-OS&lt;&#x2F;a&gt;. This OS is a hypervisor environment that accepts commands from and is managed by the block-chain.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Network(s):&lt;&#x2F;strong&gt; The grid is supported by multiple internal and external networks that allow for the nodes to function as a decentralized data center. This is made of two major components.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z-Net&lt;&#x2F;strong&gt;- is an internal private overlay network between VMs, Kubernetes Nodes, Containers and the grid. This network allows for minimal usage of Public ipv4 space while still allowing for global deployment solutions encompassing multiple 3Nodes.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Planetary Network-&lt;&#x2F;strong&gt; This is a peer to peer end to encrypted network solution based on opensource technologies (yggdrasil) that allow grid users to create, develop and overlay networks designed to protect users ability to communicate and access information. You can find the github Repo &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;planetary_network&quot;&gt;here&lt;&#x2F;a&gt;, with 3000 endpoints all controlled by a single DAO, the potential exists to create the most reliable peer to peer mesh in existence.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Public IPv4-&lt;&#x2F;strong&gt; Threefold farmers have the ability to add Public Ipv4 to the grid in addition to their compute capacity, these IPs can be deployed as gateway addresses in support of the grid, or rented by end users for their workloads, at the time of this writing the threefold grid has 1114 Public Ipv4 addresses available for use. you can find documentation on adding I.P addresses to the grid &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;diy-public-node-guide&#x2F;3340&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The BlockChain:&lt;&#x2F;strong&gt; the blockchain technologies built into the Threefold Grid represent what makes the grid truly unique and allows it to be utilized to support customer facing workloads or provide a decentralized compute resource pool. grid utilization is supported and created through two avenues&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Individuals:&lt;&#x2F;strong&gt; can deploy any workload they need on any node on the grid, if it can run on Linux it can run on the grid, this type of use is supported by the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;play.grid.tf&#x2F;#&#x2F;&quot;&gt;Threefold Playground&lt;&#x2F;a&gt;, a decentralized deployment solution that provides industry standard Linux vps deployments as multiple use case specific deployment solutions for &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;kubernetes.io&#x2F;&quot;&gt;Kubernetes&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;caprover.com&#x2F;&quot;&gt;Caprover&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;joinpeertube.org&#x2F;&quot;&gt;Peertube&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;funkwhale.audio&#x2F;&quot;&gt;Funkwhale&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;mattermost.com&#x2F;&quot;&gt;Mattermost&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.discourse.org&#x2F;&quot;&gt;Discourse&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.taiga.io&#x2F;&quot;&gt;Taiga&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;owncloud.com&#x2F;&quot;&gt;Owncloud&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;presearch.io&#x2F;&quot;&gt;Presearch&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;subsquid.io&#x2F;&quot;&gt;SubSquid&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;casperlabs.io&#x2F;&quot;&gt;CasperLabs&lt;&#x2F;a&gt;, and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;nodepilot.tech&#x2F;&quot;&gt;Node Pilot&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Custom VM images cab be uploaded to the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;hub.grid.tf&#x2F;&quot;&gt;Threefold Hub&lt;&#x2F;a&gt; allowing full deployment customization with any Linux os image supporting cloud-init. Documentation on creating custom images can be found &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;manipulating-cloud-images-for-the-grid&#x2F;3380&quot;&gt;On the Forums&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Storage workloads can be deployed using &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;terraform-provider-grid&quot;&gt;Terraform&lt;&#x2F;a&gt; with offerings of HDD, SSD and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;terraform-provider-grid&quot;&gt;Quantum Safe File Storage&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Solution Providers&lt;&#x2F;strong&gt;: these are developers of user facing services that utilize the grid as their hosting platform. These organizations&#x2F;individuals are able to develop customized solutions that provide needed services in their market and receive rewards for the utilization that their developments bring. A great example of this is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;zonaris.con&#x2F;&quot;&gt;Zonaris&lt;&#x2F;a&gt;, which is a third party organization that is quickly taking the lead in grid solution development. They have recently released an interface that allows end users to deploy &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;streamr.network&#x2F;discover&#x2F;network&#x2F;&quot;&gt;Streamr&lt;&#x2F;a&gt; nodes on the Threefold grid while paying in fiat currency. you can get started with them at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;get.zonaris.com&#x2F;&quot;&gt;Get Zonaris&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This allows developers to invest in only their code while having the infrastructure of a worldwide virtual data center at their disposal to scale their solutions with their business needs.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Solution providers are able to automate their tools being deployed on the grid using &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;terraform-provider-grid&quot;&gt;Terraform&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;p&gt;What this has all truly come together to form is an organization where anyone can contribute to building a more private and secure internet that is designed to allow universal access to information and compute power regardless of the end user’s nationality or beliefs. Threefold truly exists to capitalize on the ideal economies from every corner of the world, in order to provide a better digital future for all.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;What Can You Do?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Much of what you see today at Threefold.io is the work of 100s of decentralized contributors working together towards a common goal. The grid is designed so that anyone can contribute whether you’re a developer, a property owner, an I.S.P, or just someone with a spare computer and a network connection. As it stands the grid is strong and well supported across the world. The biggest impact that can be made today is by developing solutions that leverage the grid and use its resources to bring affordable and accessible hosting to end users.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;There are many discussions happening on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&quot;&gt;Threefold Forum&lt;&#x2F;a&gt; about partnerships with other projects and how we can better support both the crypto landscape and the general internet user base. Even by just joining discussions on the Threefold Forum and providing your input and ideas you can help to make sure that the internet of tomorrow is built for and by the users of tomorrow. but there are lots of ways to contribute:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can purchase the TFT token following &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;this guide&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;You can learn about farming &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__farming_intro&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;You can learn more about the Threefold Cloud and Deploying &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;cloud&#x2F;threefold__cloud_home&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;&lt;em&gt;Written by Drew Smith&lt;&#x2F;em&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

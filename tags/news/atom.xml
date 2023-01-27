@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - news</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/news/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-20T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/news/atom.xml</id>
+	<entry xml:lang="en">
+		<title>🔍 TF Product Focus - Dedicated Nodes on TF Dashboard</title>
+		<published>2023-01-20T00:00:00+00:00</published>
+		<updated>2023-01-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-focus-nodes/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-focus-nodes/</id>
+		<content type="html">&lt;p&gt;Sasha leads us through some updates released as a part of TFGrid v3.8.0, focusing on new improvements implemented to TFDashboard’s Dedicated Node Feature. These include UX and node listing data fetch speed improvements, as well as a feature allowing users to ‘unreserve’ a dedicated node.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Find more &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-product-focus-tfdashboards-dedicated-nodes-tfgrid-v3-8-0&#x2F;3723&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📚 Catch up with the Forum</title>
+		<published>2023-01-19T00:00:00+00:00</published>
+		<updated>2023-01-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/catch-up-forum/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/catch-up-forum/</id>
+		<content type="html">&lt;p&gt;The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;forum&lt;&#x2F;a&gt; has been quite active, find discussions, Q&amp;amp;A’s, recaps, and more:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🔒 Join an important discussion about a proposal to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tft-locked-value-during-deployment&#x2F;3675&#x2F;3&quot;&gt;lock TFT value during deployment&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🎥 Take a look at the recording of the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-technical-help-room&#x2F;3627&quot;&gt;Weekly Technical Help Room&lt;&#x2F;a&gt; hosted by Drew, and tune in next Monday for the next session! You can also find the recording of the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;january-16th-2023-weekly-tech-call-recording&#x2F;3702&quot;&gt;January Community Call&lt;&#x2F;a&gt; to catch up on lots of topics around ThreeFold.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;📄 Thanks to Mik for summarizing and organizing a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;q-a-from-the-weekly-threefold-tech-and-community-calls&#x2F;3711&quot;&gt;Q&amp;amp;A from the Weekly Threefold Tech and January Community Calls&lt;&#x2F;a&gt;, making it easier to find answers to any question addressed.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🩺 Are you wondering about the self-healing &amp;amp; self-driving capabilities of the Grid? Scott clears out any common misconception in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;self-healing-high-availability-and-the-grid-today&#x2F;3705&quot;&gt;this post&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🦣 For those who were wondering about the mastodon server being down, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;url?q=https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-happened-to-the-threefoldcloud-com-sites&#x2F;3712&amp;amp;sa=D&amp;amp;source=docs&amp;amp;ust=1674123620068533&amp;amp;usg=AOvVaw1cWMfcGQJBu_tqJMGlN8ps&quot;&gt;Drew gave us an update&lt;&#x2F;a&gt;! While the server is down, it was not due to a failure of the grid, but rather because it was deployed as a test environment - and the good news is that it was a successful proof-of-concept!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to all of you creating and engaging with content from the forum! Reminder: This is our town hall - you can ask questions, find answers, make proposals, share your opinion and discuss any ThreeFold-related topic. We love seeing it active!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📄 Message to our community</title>
+		<published>2023-01-19T00:00:00+00:00</published>
+		<updated>2023-01-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/message-to-community/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/message-to-community/</id>
+		<content type="html">&lt;p&gt;Find within &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;jan23update.threefold.me&quot;&gt;an important message to our community&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🍿 January 2023 ThreeFold Community Call Recording</title>
+		<published>2023-01-18T00:00:00+00:00</published>
+		<updated>2023-01-18T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-rec-jan-23/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-rec-jan-23/</id>
+		<content type="html">&lt;p&gt;For those who missed it, please find the recording of January’s community call &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;january-2023-q-a-community-call-recording&#x2F;3707&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note the content of this call is for information purposes only and is subject to change as the project evolves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As yesterday was largely focused on questions from the community, we’ll plan another call in a couple of weeks to share more proactively current plans and priorities, the opportunities in front of us right now, why we believe the token price will turn around, and most importantly why what we’re building is so important for the future of the planet and humanity. 🙏&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>👀 January 16th 2023 Weekly Tech Call Recording</title>
+		<published>2023-01-17T00:00:00+00:00</published>
+		<updated>2023-01-17T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec-2/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec-2/</id>
+		<content type="html">&lt;p&gt;Catch up on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;january-16th-2023-weekly-tech-call-recording&#x2F;3702&quot;&gt;this week’s discussion&lt;&#x2F;a&gt; where Drew and Scott answered questions from the community in regards to ease of deploying on the grid, and how the grid will be able to contribute to the world’s digitally integrated future!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As a reminder, Drew hosts these tech help calls weekly on Mondays, so stay tuned for the next one.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📬 ThreeFold Weekly Newsletter</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/subscribe-weeklys/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/subscribe-weeklys/</id>
+		<content type="html">&lt;p&gt;Prefer email communication? Each Friday (new timing for 2023), we send key highlights to our community about the latest in the ThreeFold ecosystem. If you’d like to receive them in your inbox, you can subscribe &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;threefoldweekly&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🌟 Spotlight - Terraform on the ThreeFold Grid</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/terraform-spotlight/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/terraform-spotlight/</id>
+		<content type="html">&lt;p&gt;Looking for a fun weekend activity? Why not try to deploy Terraform on the Grid?&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Terraform is an open-source tool that enables users to define and provision infrastructure using a simple programming language, across multiple cloud providers, and on-premises environments. It automates the process of creating, updating, and deleting resources.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;By using easy-to-follow guides shared by our fellow community member, Drew, you’ll be set up within a few steps! 🙌 &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find them here:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;are-you-ready-to-create-your-first-terraform-deployment-heres-how&#x2F;3670&quot;&gt;Are you Ready To Create Your First Terraform Deployment, Here’s How!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-do-i-create-a-multi-node-terraform-deployment-in-2023-explained&#x2F;3669&quot;&gt;How Do I Create a Multi-Node Terraform Deployment in 2023? Explained&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-deploy-a-terraform-example-configuration-on-the-threefold-grid-from-linux-in-7-steps&#x2F;3672&quot;&gt;How To Deploy A Terraform Example Configuration on the Threefold Grid from Linux in 7 steps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;deploying-an-example-configuration-with-terraform-on-windows-using-putty-in-7-steps&#x2F;3671&quot;&gt;Deploying an Example Configuration with Terraform on Windows Using Putty In 7 Steps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Besides, you can watch the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-tech-hangout-01-09-23-call-recording&#x2F;3683&quot;&gt;Tech Help Call recording&lt;&#x2F;a&gt; to learn from Scott &amp;amp; Drew’s discussion around this topic.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to Drew for these amazing resources!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 January&#x27;s ThreeFold Product Updates</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-jan23/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-jan23/</id>
+		<content type="html">&lt;p&gt;While TF Grid 3.8 is almost ready for testnet release, some super exciting solutions and improvements are in development as a part of TF Grid 3.8.1, including:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🤖 The Farmerbot able to manage capacity planning and power management.&lt;&#x2F;p&gt;
+&lt;p&gt;📃 A Farming &#x2F; Minting Report Feature for farmers to receive clear information about their income.&lt;&#x2F;p&gt;
+&lt;p&gt;💻 A NixOS VM deployment support on the Grid.&lt;&#x2F;p&gt;
+&lt;p&gt;⏸ A workload pause feature for unfunded deployments.&lt;&#x2F;p&gt;
+&lt;p&gt;📲 Some backend changes to improve TF Connect App’s usability.&lt;&#x2F;p&gt;
+&lt;p&gt;👯 The possibility to deploy your own Freeflow Twin via the TF Playground.&lt;&#x2F;p&gt;
+&lt;p&gt;🔧 A new WebWG networking tool, offering a variety of functions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Thanks to Sasha for compiling this information. Check out the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-january-2023&#x2F;3694&quot;&gt;here&lt;&#x2F;a&gt; for all the details!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗣 Community Outreach Handbook</title>
+		<published>2023-01-12T00:00:00+00:00</published>
+		<updated>2023-01-12T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/outreach-handbook/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/outreach-handbook/</id>
+		<content type="html">&lt;p&gt;One goal we have for 2023 is furthering the decentralization of ThreeFold by empowering the community to take action independently. In this spirit, Sam &amp;amp; I compiled relevant information that will be useful for those ready to spread awareness of the project.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Within the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-content-creation-and-outreach-handbook&#x2F;3686&quot;&gt;ThreeFold Content Creation and Outreach Handbook&lt;&#x2F;a&gt;, you’ll find a simple &amp;amp; clear guide. Don’t hesitate to offer suggestions and ask questions in the replies section. As always, we are happy to support! &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Together We Build!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>☎️  Monthly Community Call coming up!</title>
+		<published>2023-01-11T00:00:00+00:00</published>
+		<updated>2023-01-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-jan-2023/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-jan-2023/</id>
+		<content type="html">&lt;p&gt;It is almost time to gather for the first Community Call of 2023! We will be discussing &lt;em&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;community-call-questions-from-the-tf-members&#x2F;3677&quot;&gt;questions raised by the community&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; and exploring our upcoming project: &lt;em&gt;ThreeFold Commercial Grid Services!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Save the date: &lt;strong&gt;Tuesday January 17th at 17:00 CET &#x2F; 11:00 EST&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We will be aiming to have a monthly gathering on the third Tuesday of every month, so you can already mark your agendas ahead of time!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;More details &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;monthly-community-calls-january-call-details&#x2F;3688&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🇮🇳 How Would Decentralization of the Internet Help India?</title>
+		<published>2023-01-10T00:00:00+00:00</published>
+		<updated>2023-01-10T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/decentralization-india/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/decentralization-india/</id>
+		<content type="html">&lt;p&gt;ThreeFold support team member Ashish wrote a piece recently about how the decentralization of the Internet would (will) help his home country. Read it &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&#x2F;blog&#x2F;decentralised-internet-india&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;nice-example-of-how-we-can-decentralize-and-diversify-the-communication-about-threefold&#x2F;3680&quot;&gt;a great example&lt;&#x2F;a&gt; of how anybody can get involved in the communication around ThreeFold.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Remember: a decentralized movement is all about decentralized action &amp;amp; participation. The more the members of the community talk about ThreeFold from our own unique perspectives, the more exposure &amp;amp; momentum we gain.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📚 How To Talk About Deploying on ThreeFold</title>
+		<published>2023-01-03T00:00:00+00:00</published>
+		<updated>2023-01-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/talk-about-deploying/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/talk-about-deploying/</id>
+		<content type="html">&lt;p&gt;Thanks to Drew for creating &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-tell-people-about-deploying-workloads-on-the-threefold-grid&#x2F;3662&quot;&gt;this great resource&lt;&#x2F;a&gt; for anyone in the community that wants to get the word out about deploying workloads on ThreeFold. Take a look, ask questions, offer suggestions and additions, and let’s use this information to bring more people to the community and more utilization to the grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Together we build!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>💫 Here&#x27;s our End of Year Review!</title>
+		<published>2022-12-31T00:00:00+00:00</published>
+		<updated>2022-12-31T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-review-2022/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-review-2022/</id>
+		<content type="html">&lt;p&gt;What a year it has been!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“2022 was a year marked by significant steps on technology, big strides towards decentralization, a commitment to our values (planet, people, and authenticity), time well-spent on the ground, and strong contributions from the community.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;heres-our-2022-review&#x2F;3661&quot;&gt;our 2022 Review&lt;&#x2F;a&gt;, we go over the progress made within the ThreeFold ecosystem across different arenas: Grid, Farming, Technology, Decentralization, TFT, Partnerships, Team on the Ground, Mastodon, the Fediverse &amp;amp; ThreeFold, and Q4 Community Calls.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to you all for being part of this journey, and Happy New Year! ❤️&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📈 End of the Year Grid Growth</title>
+		<published>2022-12-30T00:00:00+00:00</published>
+		<updated>2022-12-30T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-grid-growth/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-grid-growth/</id>
+		<content type="html">&lt;p&gt;As reported in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;grid-stats-new-nodes-utilization-overview&#x2F;3291&#x2F;33?u=gosam&quot;&gt;Scott’s final grid stats update&lt;&#x2F;a&gt; of the year, 2022 showed growth in both number of online nodes and utilization of that hardware.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Via Scott, “Even with the growth of the Grid, we have seen utilization growth outpace it such that total utilization has also increased in percentage terms, though a bit less dramatically than the absolute numbers. Here’s to another year of growth for ThreeFold in 2023 🥂”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to the community of farmers and grid users for your participation in 2022!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 December’s ThreeFold Product Updates</title>
+		<published>2022-12-29T00:00:00+00:00</published>
+		<updated>2022-12-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-dec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-dec/</id>
+		<content type="html">&lt;p&gt;Very exciting progress is being made on TF Grid 3.8.0, expected to be released in a couple of weeks! Some of the awaited features &amp;amp; components explored are the TF Grid monitoring solution, Typescript client update, TF Dashboard upgrades, and TF Playground improvements, amongst others! 🔥&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-product-updates-december-2022-tfgrid-v3-8-0-updates&#x2F;3654&quot;&gt;here&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎥 Watch the recording of the Tech Help Call</title>
+		<published>2022-12-27T00:00:00+00:00</published>
+		<updated>2022-12-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec/</id>
+		<content type="html">&lt;p&gt;If you missed it yesterday, you can watch it today! Find the recording of the Technical Help room hosted by Drew &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;IoPc5mOAI_M&quot;&gt;here&lt;&#x2F;a&gt;, and follow this &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-technical-help-room&#x2F;3627&quot;&gt;thread&lt;&#x2F;a&gt; for information about upcoming sessions!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>❤️ Share what you love about ThreeFold</title>
+		<published>2022-12-23T00:00:00+00:00</published>
+		<updated>2022-12-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/share-your-why/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/share-your-why/</id>
+		<content type="html">&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;end-of-year-community-challenge-my-why-personal-tft-grant&#x2F;3638&quot;&gt;Here’s&lt;&#x2F;a&gt; a call to all ThreeFolders to share why they are involved in the ThreeFold project and what makes them believe in it! I just shared my own answer and would love to read yours!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Ps: In the spirit of the holidays, 200 TFT gifts are available for community members answering on the forum post!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🔥 Hot on the Forum</title>
+		<published>2022-12-22T00:00:00+00:00</published>
+		<updated>2022-12-22T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/hot-on-forum/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/hot-on-forum/</id>
+		<content type="html">&lt;p&gt;The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-technology-ebook-read-and-learn&#x2F;3634&quot;&gt;ThreeFold Technology E-Book&lt;&#x2F;a&gt; is an incredible in-depth resource to learn about the inner workings of the grid and what makes our technology so unique.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look at the recording of the first &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-technical-help-room&#x2F;3627&quot;&gt;Weekly Technical Help Room&lt;&#x2F;a&gt; hosted by Drew, and tune in next Monday for the next session.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Thanks to Mik for creating a topic about the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-threefold-dashboard-dive-in-the-new-internet&#x2F;3635&quot;&gt;ThreeFold Dashboard&lt;&#x2F;a&gt;. Get involved in the discussion about dashboard improvements!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;What’s your “why” when it comes to ThreeFold? Take part in Sam’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;end-of-year-community-challenge-my-why-personal-tft-grant&#x2F;3638&quot;&gt;End of the Year Community Challenge&lt;&#x2F;a&gt; – there’s even a chance to “win” a few TFT.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;By the way, thanks to the 10 most active &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;forum&lt;&#x2F;a&gt; contributors from the past week!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎆 Watch - End-of-Year Community Call!</title>
+		<published>2022-12-21T00:00:00+00:00</published>
+		<updated>2022-12-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-eoy-rec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-eoy-rec/</id>
+		<content type="html">&lt;p&gt;Thanks to those who joined us live for the final team-run community call of the year. For the rest, you can find the recording &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;end-of-year-2022-community-call-recording&#x2F;3636&quot;&gt;here&lt;&#x2F;a&gt;. On we go. Together we build!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note the content of this call is for information purposes only and is subject to change as the project evolves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎥 Watch - Farming Community Call</title>
+		<published>2022-12-09T00:00:00+00:00</published>
+		<updated>2022-12-09T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-farming-rec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-farming-rec/</id>
+		<content type="html">&lt;p&gt;For those who missed last week’s farming community call with Scott, please take a look at the recording &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;december-2022-farming-community-call-recording&#x2F;3567&quot;&gt;here&lt;&#x2F;a&gt;. We look forward to continuing the discussions in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldfarmers&quot;&gt;farmers chat&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;the forum&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note the content of this call is for information purposes only and is subject to change as the project evolves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>👀 Sneak Peak into Mastodon Servers Powered by ThreeFold</title>
+		<published>2022-12-07T00:00:00+00:00</published>
+		<updated>2022-12-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/mastodon-server-powered-by-tf/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/mastodon-server-powered-by-tf/</id>
+		<content type="html">&lt;p&gt;Soon it will be easy to deploy a Mastodon Server (Instance) on top of ThreeFold’s decentralized Internet infrastructure. Sasha from ThreeFold’s Product team is sharing feature highlights in the latest ThreeFold Product Update. Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-focus-mastodon-servers-powered-by-threefold&#x2F;3562&quot;&gt;this forum post&lt;&#x2F;a&gt; for more.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📺 Watch - Building Weblets on ThreeFold</title>
+		<published>2022-12-01T00:00:00+00:00</published>
+		<updated>2022-12-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-weblets-rec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-weblets-rec/</id>
+		<content type="html">&lt;p&gt;Earlier this week, Weynand and Scott introduced the topic of building your own weblets! The session included a demo, and would be relevant for anybody looking to build and monetize on top of ThreeFold. Take a look at the recording and ask questions &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;building-your-own-weblets-community-call-recording&#x2F;3553&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;More to come on this exciting topic!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note the content of this call is for information purposes only and is subject to change as the project evolves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📚 A New Financial System for “Our World”</title>
+		<published>2022-11-29T00:00:00+00:00</published>
+		<updated>2022-11-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/our-world-financial-system/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/our-world-financial-system/</id>
+		<content type="html">&lt;p&gt;ThreeFold co-founder Kristof wrote a Medium article about the problems of today’s financial systems and his thoughts on building better, more balanced systems for the benefit of our planet and all of us. Take a look at the summary and discuss it here or you can read &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@despiegk&#x2F;a-new-financial-system-for-our-world-602605d1f6d7&quot;&gt;the full article&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🤝 Built on ThreeFold - Meet Zonaris</title>
+		<published>2022-11-25T00:00:00+00:00</published>
+		<updated>2022-11-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/meet-zoonaris/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/meet-zoonaris/</id>
+		<content type="html">&lt;p&gt;Started by the Green Edge team, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.zonaris.io&#x2F;&quot;&gt;Zonaris&lt;&#x2F;a&gt; is a decentralized node deployment platform built on top of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“We host your nodes on reliable, decentralised architecture. We don’t believe Web3 nodes should be hosted on Web2 architecture owned and controlled by a handful of trillion-dollar companies … Existing NaaS (“node-as-a-service”) companies use the old AWS&#x2F;Azure services for their nodes which undercuts a central plank of Web3, namely, decentralisation.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The team is hoping to hit 1,000 Streamr nodes on Zonaris soon, driving utilization on the grid – and will also be offering nodes of other projects in the coming months.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 November’s ThreeFold Product Updates</title>
+		<published>2022-11-16T00:00:00+00:00</published>
+		<updated>2022-11-16T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-nov/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-nov/</id>
+		<content type="html">&lt;p&gt;Some super exciting features coming as a part of TF Grid 3.8 (exact release date TBD), including 1. the ability to easily deploy your own Mastodon server 🐘 via a weblet on TF Playground, 2. a power management (savings) 💡 feature for unutilized nodes, and 3. on-chain support for third-party billing – meaning someone who builds a service on the grid can begin to receive payments 💸 from grid users!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-november-2022&#x2F;3517&quot;&gt;here&lt;&#x2F;a&gt; for all the details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎒 What is Mastodon and How Can ThreeFold Support?</title>
+		<published>2022-11-10T00:00:00+00:00</published>
+		<updated>2022-11-10T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-support-mastodon/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-support-mastodon/</id>
+		<content type="html">&lt;p&gt;Since Elon Musk’s takeover of Twitter became official, hundreds of thousands of people have flocked from Twitter to the leading open-source alternative, Mastodon. This is yet another signal that the world is increasingly ready for decentralization and all that ThreeFold enables.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look (and offer feedback &#x2F; additions to) this post about &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;mastodon-threefold-101-what-is-mastodon-and-how-can-threefold-support&#x2F;3494&quot;&gt;Mastodon and how ThreeFold can solve some of its key challenges&lt;&#x2F;a&gt; and explore our growing &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;threefold-grid-utilization&#x2F;fediverse&#x2F;113&quot;&gt;forum category on the Fediverse&lt;&#x2F;a&gt; to learn about some of the efforts ThreeFold and the community are making around this important moment.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🇹🇿 ICT Tanzania Update 3 - Hello OurVerse!</title>
+		<published>2022-11-07T00:00:00+00:00</published>
+		<updated>2022-11-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/ict-tnz-3/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/ict-tnz-3/</id>
+		<content type="html">&lt;p&gt;Here’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;ict-tanzania-update-3-hello-ourverse&#x2F;3482&quot;&gt;part three&lt;&#x2F;a&gt; in our series of updates about the recent ICT Conference in Tanzania.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;During the conference, ThreeFold announced the development of OurVerse – a decentralized and immersive metaverse experience being built on top of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Dig in to learn a bit more about OurVerse and look forward to some demos on a future community call!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🚨 Reserve Your Free Mastodon Server</title>
+		<published>2022-11-07T00:00:00+00:00</published>
+		<updated>2022-11-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/mastodon-server/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/mastodon-server/</id>
+		<content type="html">&lt;p&gt;A lot of people seem to be worried about Twitter with Musk recently taking over. Join the discussion over on our forum: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;a-lot-of-people-seem-to-be-worried-about-twitter-can-something-like-mastodon-and-threefold-help&#x2F;3465&quot;&gt;Can ThreeFold help?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;reserve-your-free-mastodon-server&#x2F;3473&quot;&gt;Reserve your free Mastodon server&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🇹🇿 ICT Tanzania Update 2 - OurWorld Mkusanyiko</title>
+		<published>2022-11-02T00:00:00+00:00</published>
+		<updated>2022-11-02T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/ict-tnz-2/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/ict-tnz-2/</id>
+		<content type="html">&lt;p&gt;Here’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;ict-tanzania-update-2-ourworld-mkusanyiko&#x2F;3459&quot;&gt;part two&lt;&#x2F;a&gt; in our series of updates about last week’s ICT Conference in Tanzania.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We were thrilled to host Tanzanian Minister for Information and Communications Technology Nape Nnauye and his team, along with government and fintech leaders of the region to connect and share around the ThreeFold vision.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎉 Mainnet Upgrade - Complete!</title>
+		<published>2022-10-20T00:00:00+00:00</published>
+		<updated>2022-10-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/mainnet-upgrade-complete/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/mainnet-upgrade-complete/</id>
+		<content type="html">&lt;p&gt;We’re pleased to share that the mainnet upgrade to TF Grid v3.7.1 is complete, related issues have been resolved, and everything is stable. Have fun! And remember the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;bit.ly&#x2F;threefoldtesting&quot;&gt;Grid Testers Chat&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Many thanks to all involved in the work done on this version and the upgrade itself. Rockstars.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 October’s ThreeFold Product Updates</title>
+		<published>2022-10-20T00:00:00+00:00</published>
+		<updated>2022-10-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-oct/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-oct/</id>
+		<content type="html">&lt;p&gt;Take a look at the latest progress on TF Grid 3.8 – with plenty of screenshots – including updates to FreeFlow Twin, the Dashboard &amp;amp; Playground, as well as TFT Bridges to Ethereum and Polygon, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-october-2022&#x2F;3434&quot;&gt;here&lt;&#x2F;a&gt; for all the details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗳 DAO Vote - TF Grid Mainnet to v3.7.1</title>
+		<published>2022-10-11T00:00:00+00:00</published>
+		<updated>2022-10-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/dao-vote-grid-mainnet-v371/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/dao-vote-grid-mainnet-v371/</id>
+		<content type="html">&lt;p&gt;Together with the team’s efforts and testing support from the community, we are now ready to propose a new mainnet upgrade from TFGrid v3.6.1 to TFGrid v3.7.1!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Farmers with active nodes are eligible to participate, and can vote in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;dashboard.grid.tf&#x2F;&quot;&gt;ThreeFold Dashboard&lt;&#x2F;a&gt;. Once logged in, click on “Account” and then “DAO” and the proposal will appear on your screen.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find all of the details &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tfdao-voting-for-tfgrid-v3-7-1-mainnet-upgrade-proposal-is-now-live&#x2F;3413&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We highly encourage all farmers to cast their vote! 25 yes votes are needed to pass this proposal, and voting ends this Sunday night.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🤸‍♀️ Experience the ThreeFold Playground</title>
+		<published>2022-10-07T00:00:00+00:00</published>
+		<updated>2022-10-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/experience-tf-playground/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/experience-tf-playground/</id>
+		<content type="html">&lt;p&gt;Build in a truly decentralized environment with the TF Playground, home to more than 10 (and counting) easy-to-deploy weblets – from Virtual Machines and Kubernetes to CapRover, ownCloud, and Presearch. A sandbox of limitless possibilities awaits for the open source builders of a decentralized tomorrow.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;🏀 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;play.grid.tf&#x2F;&quot;&gt;Mainnet Playground&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;🏐 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;play.test.grid.tf&#x2F;&quot;&gt;Testnet Playground&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;📚 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;manual&#x2F;#&#x2F;manual__manual3_home_new&quot;&gt;ThreeFold Manual&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💬 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;Testers Chat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As a decentralized project, we encourage the community to get involved in spreading the word about what’s possible on the TF Grid – with people in your circles, on social media, etc. Together we build. 🙏&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Have ideas for getting the word out? Have questions or need resources? Please open a topic on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;the forum&lt;&#x2F;a&gt; and we’ll solve it together.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 September’s ThreeFold Product Updates</title>
+		<published>2022-09-28T00:00:00+00:00</published>
+		<updated>2022-09-28T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-sep/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-sep/</id>
+		<content type="html">&lt;p&gt;Take a look at what the team is busy with these days in preparation for the release of TF Grid 3.8. Updates are coming to FreeFlow Twin, the Wallet, Dashboard, TF Chain, the Playground, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-september-2022-tfgrid-v3-8-0-plan&#x2F;3389&quot;&gt;here&lt;&#x2F;a&gt; for all the details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>👷‍♀️ Build on ThreeFold’s Open Infrastructure</title>
+		<published>2022-09-25T00:00:00+00:00</published>
+		<updated>2022-09-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/build-on-tf-open-infrastructure/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/build-on-tf-open-infrastructure/</id>
+		<content type="html">&lt;p&gt;The team has been making significant strides when it comes to the ThreeFold Grid, its capabilities, tools, and the user experience. Last week, Hannah took the time to highlight the grid and its evolution, as well as how developers with different levels of expertise can build on a  decentralization foundation – today!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&#x2F;blog&#x2F;build-on-threefolds-open-infrastructure&#x2F;&quot;&gt;Part I: Introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&#x2F;blog&#x2F;build-on-threefolds-open-infrastructure-part-two&#x2F;&quot;&gt;Part II: For Experts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&#x2F;blog&#x2F;build-on-threefolds-open-infrastructure-part-three&#x2F;&quot;&gt;Part III: Weblets &amp;amp; End Users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold brings a limitless sandbox for open-source developers! Did you know that as of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tfgrid-v3-7-0-is-now-live&#x2F;3375&quot;&gt;v3.7.0&lt;&#x2F;a&gt;, grid users can now easily deploy full Virtual Machines through a weblet on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;play.test.grid.tf&#x2F;&quot;&gt;ThreeFold Playground (Testnet)&lt;&#x2F;a&gt;? Join our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;community of grid testers&lt;&#x2F;a&gt; for support and collaboration.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🚨 Discontinuation of Grid v2 &#x2F; Migrate to v3!</title>
+		<published>2022-09-23T00:00:00+00:00</published>
+		<updated>2022-09-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/discontinue-grid-v2/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/discontinue-grid-v2/</id>
+		<content type="html">&lt;p&gt;Starting next month, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;discontinuation-grid-v2&#x2F;3385&quot;&gt;Grid v2 will be discontinued&lt;&#x2F;a&gt;, along with all platforms in support of this Grid that are no longer needed on v3.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This will ensure the grid is fully updated to its latest version and that all our development resources can be focused on the new grid instead of maintaining the older version.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Keep in mind, minting will only be supported on v3. So, for all v2 farmers, please &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;farming-migration-grid-v2-v3&#x2F;2143&quot;&gt;migrate to v3&lt;&#x2F;a&gt; &lt;strong&gt;before the end of the month&lt;&#x2F;strong&gt; to continue receiving minting payouts.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldfarmers&quot;&gt;farming chat&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;the forum&lt;&#x2F;a&gt; are great resources if you have any questions. &lt;em&gt;&lt;em&gt;&lt;em&gt;Together&lt;&#x2F;em&gt;&lt;&#x2F;em&gt;&lt;&#x2F;em&gt; we build!&lt;&#x2F;em&gt; 💪&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📊 Weekly Stats Show Steady Grid Growth</title>
+		<published>2022-09-20T00:00:00+00:00</published>
+		<updated>2022-09-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/weekly-stats-steady-growth/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/weekly-stats-steady-growth/</id>
+		<content type="html">&lt;p&gt;Welcome to the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;grid-stats-new-nodes-overview&#x2F;3291&#x2F;19?u=gosam&quot;&gt;52 new active 3Nodes&lt;&#x2F;a&gt; to come online over the past week across 14 countries, including Thailand 🇹🇭 Vietnam 🇻🇳 and Ukraine 🇺🇦.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;You can also find stats on utilization, now shown as a percentage relative to total capacity across both mainnet and testnet. Thanks to Scott for keeping us updated here!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;As a reminder, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tfgrid-v3-7-0-is-now-live&#x2F;3375&quot;&gt;Grid v3.7.0 is now live&lt;&#x2F;a&gt; and ready for testing!&lt;&#x2F;em&gt; &lt;em&gt;We invite developers and builders to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;get involved&lt;&#x2F;a&gt; and help advance the grid!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🔍 Explore the TF Dashboard v3.7.0!</title>
+		<published>2022-09-07T00:00:00+00:00</published>
+		<updated>2022-09-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-dashboard-v370/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-dashboard-v370/</id>
+		<content type="html">&lt;p&gt;The &lt;strong&gt;ThreeFold Dashboard&lt;&#x2F;strong&gt; is a one-stop-shop for Grid users and Farmers – with features like TF Grid Stats, TF Wallet, TF Chain, farm management, and many more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Version 3.7.0&lt;&#x2F;strong&gt; will not only come with several UX improvements and bug fixes but also include new features requested by the community.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;To find out more, check out &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;product-focus-series-upcoming-tf-dashboard-v3-7-0&#x2F;3336?u=hannahcordes&quot;&gt;Part 2&lt;&#x2F;a&gt; of our newly-launched Product Focus series on what’s new and planned for the TF Dashboard&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;dashboard.grid.tf&#x2F;&quot;&gt;Visit the TF Dashboard directly&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;Join the TF Grid Tester community&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📊 Weekly Grid Stats - New Nodes + Utilization</title>
+		<published>2022-08-29T00:00:00+00:00</published>
+		<updated>2022-08-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/weeky-grid-stats/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/weeky-grid-stats/</id>
+		<content type="html">&lt;p&gt;For the last few weeks, Scott has been updating the community on new nodes coming online, and now he’s started to track utilization across nets!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Welcome to the 118 new nodes across 20+ countries to come online over the past few weeks, and a big thank you to our grid users &amp;amp; testers!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Utilization&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cores: 479&lt;&#x2F;li&gt;
+&lt;li&gt;RAM: 1191 GB&lt;&#x2F;li&gt;
+&lt;li&gt;SSD: 23,459 GB&lt;&#x2F;li&gt;
+&lt;li&gt;HDD: 2362 GB&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;grid-stats-new-nodes-overview&#x2F;3291&#x2F;11&quot;&gt;Scott’s update&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;And please be reminded of our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldfarmers&quot;&gt;Farmers Chat&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;Grid Testers Chat&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗳 The First Vote of the TF Chain (L1) DAO!</title>
+		<published>2022-08-26T00:00:00+00:00</published>
+		<updated>2022-08-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-chain-dao-vote/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-chain-dao-vote/</id>
+		<content type="html">&lt;p&gt;We’re thrilled to announce that the first TF Chain DAO proposal is now live and ready for voting, focused on the creation of the Gold Certified Farming Policy on TF Chain!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;While we’ve been using DAO votes on the forum (GEPs) to make decisions for some time, this will be the first time that an on-chain vote can directly initiate new functionality in TF Chain.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This is a very exciting step towards true decentralization whereby Grid stakeholders are in direct control of the future of the network!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-first-vote-of-the-threefold-tf-chain-l1-dao-gold-certified-farming&#x2F;3323n&quot;&gt;the full update&lt;&#x2F;a&gt; for all the details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🏊‍♂️ Diving into TF Playground v3.7.0!</title>
+		<published>2022-08-25T00:00:00+00:00</published>
+		<updated>2022-08-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-playground-v370/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-playground-v370/</id>
+		<content type="html">&lt;p&gt;The ThreeFold Playground makes it easy to build (deploy weblets) on top of the ThreeFold Grid. From Virtual Machines to Kubernetes to Presearch Nodes, CapRover, ownCloud, and more – in a truly decentralized environment!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The team is constantly working on improving and evolving the experience. Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-focus-series-tf-playground-v3-7-0&#x2F;3315&quot;&gt;what’s new and next&lt;&#x2F;a&gt; for the TF Playground.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;manual&#x2F;#&#x2F;manual__weblets_home&quot;&gt;Learn more about Weblets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;manual&#x2F;#&#x2F;getstarted&#x2F;manual__tfgrid3_getstarted&quot;&gt;Get started on the TF Grid&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;play.grid.tf&#x2F;&quot;&gt;Visit the Playground directly&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;Join the Grid Tester community&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Huge thanks to the team and testers for all they’ve accomplished so far. Truly unmatched technology!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 Have you tested out FreeFlow Twin (Beta)?</title>
+		<published>2022-08-17T00:00:00+00:00</published>
+		<updated>2022-08-17T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/freeflow-beta-test/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/freeflow-beta-test/</id>
+		<content type="html">&lt;p&gt;FreeFlow Twin (formerly Uhuru) is a digital experience that presents alternatives to centralized social media, messenger, file storage, docs, web browser, and video conferencing.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This is an incredible proof of concept and should be exciting for anybody that’s involved in this project or seeking a decentralized future!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;🧪 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;demo.freeflow.life&#x2F;&quot;&gt;Test FreeFlow Twin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💬 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;lets-test-out-freeflow-twin-formerly-uhuru&#x2F;3299&quot;&gt;Talk about your experience&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;💡 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;twin_aydo&#x2F;issues&quot;&gt;Offer direct feedback via GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 August&#x27;s ThreeFold Product Updates</title>
+		<published>2022-08-12T00:00:00+00:00</published>
+		<updated>2022-08-12T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-aug/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-aug/</id>
+		<content type="html">&lt;p&gt;This month, the team is working towards ThreeFold Grid 3.7! You can look forward to:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Updates to FreeFlow Twin (formerly: Uhuru)&lt;&#x2F;li&gt;
+&lt;li&gt;Node Pilot deployment&lt;&#x2F;li&gt;
+&lt;li&gt;Key user experience improvements&lt;&#x2F;li&gt;
+&lt;li&gt;&amp;amp; more&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt; 
+&lt;p&gt;Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-august-2022&#x2F;3272&quot;&gt;the full update&lt;&#x2F;a&gt; for all the details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 New Partner on the Global 3Node Marketplace!</title>
+		<published>2022-08-03T00:00:00+00:00</published>
+		<updated>2022-08-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/3node-marketplace-hostservice/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/3node-marketplace-hostservice/</id>
+		<content type="html">&lt;p&gt;We’re pleased to welcome a new 3Node partner for Europe on the Global 3Node Marketplace: HostService!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;HostService recently dedicated their company’s strategy to focus on the expansion of the ThreeFold Grid and worked in cooperation with Nelson &amp;amp; Duck Farm Data to launch “The Peking” for European farmers.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look at the &lt;a href=&quot;%5Bhttps:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;global-3node-marketplace-newsletter-2-august-3-2022&#x2F;3242%5D(https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;global-3node-marketplace-newsletter-2-august-3-2022&#x2F;3242)&quot;&gt;full announcement&lt;&#x2F;a&gt; and for European customers you can view or purchase “The Peking” &lt;a href=&quot;%5Bhttps:&#x2F;&#x2F;marketplace.3node.global&#x2F;index.php?dispatch=products.view&amp;amp;product_id=298%5D(https:&#x2F;&#x2F;marketplace.3node.global&#x2F;index.php?dispatch=products.view&amp;amp;product_id=298)&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 ThreeFold Grid v3.6.1 is Live on Mainnet!</title>
+		<published>2022-07-29T00:00:00+00:00</published>
+		<updated>2022-07-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/grid-v361-mainnet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/grid-v361-mainnet/</id>
+		<content type="html">&lt;p&gt;In case you missed it on the chats: as a result of a community vote, TF Grid v3.6.1 is now live on mainnet! Take a tour of the highlights in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-july-2022-tfgrid-v3-6-1-highlights-more&#x2F;3206&quot;&gt;July’s Product Updates&lt;&#x2F;a&gt; or dig into the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;home&#x2F;blob&#x2F;master&#x2F;wiki&#x2F;products&#x2F;v3&#x2F;tfgrid_3.6.1.md&quot;&gt;release notes&lt;&#x2F;a&gt;. Even better, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;manual&#x2F;#&#x2F;&quot;&gt;get started&lt;&#x2F;a&gt; on the grid with the ThreeFold Manual!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Congrats 🎉 to all involved in getting this release live!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Any constructive feedback and suggestions are more than welcome for us to improve our next releases. Join the testing community &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 Uhuru v1.4 Beta is Live!</title>
+		<published>2022-07-27T00:00:00+00:00</published>
+		<updated>2022-07-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/uhuru-v14/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/uhuru-v14/</id>
+		<content type="html">&lt;p&gt;A new version of Uhuru has just been released and is ready for your feedback. Uhuru brings sovereign and secure alternatives to many of the centralized applications, tools, and experiences we use every day!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;v1.4 updates include additional browser support, mobile support improvements, new tools for group chats, chat notifications, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;uhuru-v1-4-beta-has-just-been-released&#x2F;3199&quot;&gt;Full update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;🧪 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;beta.uhuru.me&#x2F;&quot;&gt;Try it out&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗞 On the Upcoming Liquid Delisting</title>
+		<published>2022-07-26T00:00:00+00:00</published>
+		<updated>2022-07-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-delisting/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-delisting/</id>
+		<content type="html">&lt;p&gt;As believers in truly decentralized models, we have long and often-discussed and strategized on how to exist without centralized exchanges. On August 21 2022, TFT will be delisted from the Liquid Exchange, the result of their acquisition earlier this year. Find our full thoughts &lt;a href=&quot;%5Bhttps:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tft-will-be-delisted-on-liquid-what-now-and-what-next&#x2F;3197&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>OpenNebula and ThreeFold Announce Agreement to Explore Cooperation in Open Source and Edge Computing</title>
+		<published>2022-07-12T00:00:00+00:00</published>
+		<updated>2022-07-12T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/opennebula-threefold/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/opennebula-threefold/</id>
+		<content type="html">&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;partners&#x2F;opennebula&quot;&gt;OpenNebula Systems&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;threefold.io&#x2F;&quot;&gt;ThreeFold Tech&lt;&#x2F;a&gt; have signed a cooperation agreement to explore open-source and edge computing applications and joint innovation initiatives.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Under this agreement, ThreeFold Tech and OpenNebula Systems will set up technical collaboration and joint research on edge computing involving the open-source technology developed as part of the H2020 innovation project ONEedge (2019-2022) and the highly-distributed peer-to-peer edge infrastructure available through the ThreeFold Grid in order to create Edge-as-a-Service environments. Both companies will also seek to integrate additional open-source components developed by ThreeFold Tech and OpenNebula Systems, involving the Linux operating system and the Kubernetes platform for container orchestration.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“OpenNebula Systems is seeking to increase the number of cloud&#x2F;edge providers and the associated infrastructure resources available to OpenNebula users through our Provider Catalog,” said OpenNebula System’s VP of Open Source Community Relations, Alberto P. Martí. “We are also exploring with ThreeFold Tech several ways to improve the support of OpenNebula to Linux-based platforms for edge nodes as well as potential enhancement to the integration and support of Kubernetes in OpenNebula, especially for edge deployments.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold Tech co-founder &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;people&#x2F;christopher_hutton&#x2F;&quot;&gt;Chris Hutton&lt;&#x2F;a&gt; commented, “We look forward to offering ThreeFold’s decentralized cloud infrastructure to the OpenNebula community and identifying new uses for ThreeFold Grid capacity in collaboration with OpenNebula Systems and its ecosystem of corporate users, solution providers, and technology and innovation partners. The integration of OpenNebula and Threefold Grid offers an accelerated path to broad scale market adoption with a simple and frictionless multi-cloud integration between Threefold’s edge decentralized infrastructure along with on-premise resources and traditional centralized hyper-scale cloud providers.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold Tech special projects lead, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;people&#x2F;geert_machtelinckx&#x2F;&quot;&gt;Geert Machtelinckx&lt;&#x2F;a&gt; added, “The growth of the ThreeFold Grid decentralized infrastructure is our core focus and such growth needs to go beyond the centralized data center facilities if we are to meet the demand for the next generation web 3.0 application set and beyond. Our collaboration with OpenNebula Systems is instrumental to this objective.” &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;partners&#x2F;opennebula&quot;&gt;OpenNebula Systems&lt;&#x2F;a&gt; and ThreeFold Tech are developing these initiatives in a European Union context, including participation in Horizon Europe consortiums and in the IPCEI on Next Generation Cloud Infrastructure and Services (IPCEI-CIS). Areas of common interest will also be explored through support for the Gaia-X project, including Gaia-X Federation Services (GXFS) and Structura-X, and the SovereignEdge.EU initiative for defining an alternative, sovereign edge cloud stack for Europe.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Read the full press release &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.einnews.com&#x2F;pr_news&#x2F;580733691&#x2F;opennebula-and-threefold-announce-agreement-to-explore-cooperation-in-open-source-and-edge-computing&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>New TF Grid Version on Testnet</title>
+		<published>2022-06-29T00:00:00+00:00</published>
+		<updated>2022-06-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfgrid-36-testnet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfgrid-36-testnet/</id>
+		<content type="html">&lt;p&gt;📣 &lt;strong&gt;ThreeFold Grid v3.6.0 is Live on Testnet!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;TF Grid v3.6.0 is now live on testnet and available for public testing! This update includes TF Playground v1.4.3, the ownCloud Deployer, Uhuru v1.2 (Beta), Planetary Network v0.3.0, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tfgrid-v3-6-0-is-now-live&#x2F;3084&quot;&gt;Full announcement&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;manual&#x2F;#&#x2F;manual__tfgrid_release_3_6_0&quot;&gt;Release notes&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🧪 &lt;em&gt;As a reminder, we’d like to invite you to join our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;TF Grid Tester Community&lt;&#x2F;a&gt; to meet other community members, discuss new improvements, and offer feedback.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;📰 &lt;em&gt;And be sure to dive in to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_22&#x2F;&quot;&gt;the most recent ThreeFold Weekly&lt;&#x2F;a&gt; to get your full update of recent happenings!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Twenty</title>
+		<published>2022-06-07T00:00:00+00:00</published>
+		<updated>2022-06-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly20/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly20/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! June 7th Edition (Volume Twenty)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The latest from the ThreeFold universe: A notable collaboration in South Africa, ThreeFold is off to Consensus in Austin, our updated litepaper, two Grid Enhancement Proposals, a community-initiated poll on farming rewards, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_20&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Partnership Announcement</title>
+		<published>2022-06-02T00:00:00+00:00</published>
+		<updated>2022-06-02T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-ietsa/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-ietsa/</id>
+		<content type="html">&lt;p&gt;🤝 &lt;strong&gt;Partnership Announcement&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“ThreeFold is proud to support IETSA and their efforts to make the decentralised internet more accessible in underserved South African communities,” ThreeFold co-founder Chris Hutton.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“It is our mission to help educate and empower the next-generation workforce and inspire a new generation of digital professionals to lead the charge in the Web 3.0 decentralised era and beyond.“&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;IETSA, ThreeFold partner to expand decentralised internet in SA, offer education in blockchain and Web 3.0, via ITWeb&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.itweb.co.za&#x2F;content&#x2F;Pero3qZ3lkpvQb6m&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Nineteen</title>
+		<published>2022-05-25T00:00:00+00:00</published>
+		<updated>2022-05-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly19/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly19/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! May 24th Edition (Volume Nineteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: Some interviews for the team, wrapping up fruitful gatherings in Egypt, the ThreeFold Podcast is live, don’t miss what’s being worked on for TF Grid V3 Alpha-6, plus reminders for validators and the farming community, and more!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_19&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Recent Interviews &amp; Discussions for the Team</title>
+		<published>2022-05-24T00:00:00+00:00</published>
+		<updated>2022-05-24T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/may-2022-interviews/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/may-2022-interviews/</id>
+		<content type="html">&lt;p&gt;💬 &lt;strong&gt;Recent Interviews &amp;amp; Discussions for the Team&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In case you missed it:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Weynand appeared on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.albawaba.com&#x2F;business&#x2F;uae-tech-podcast-threefold-layer-zero-and-peoples-internet-1477554&quot;&gt;the UAE Tech Podcast&lt;&#x2F;a&gt; to explain how ThreeFold works in layman’s terms and the importance of a “People’s Internet.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Sacha joined &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;mainstaydigital.com&#x2F;verticals&#x2F;macro-visions&#x2F;macro-visions-doing-to-the-internet-what-bitcoin-did-to-money-with-sacha-obeegadoo&#x2F;&quot;&gt;Mainstay Digital&lt;&#x2F;a&gt; to discuss how ThreeFold is doing to the Internet what Bitcoin did to money.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&amp;amp; Scott sat down with &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;coinmonks&#x2F;a-farmers-journey-through-yielding-defi-nodes-and-expanding-the-grid-with-threefold-a70a3e3b98ea&quot;&gt;Kyle Ellicott&lt;&#x2F;a&gt; to talk about the farmer’s journey and the expansion of the ThreeFold Grid.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Q&amp;A with Adnan Fatayerji and CyberNews</title>
+		<published>2022-05-24T00:00:00+00:00</published>
+		<updated>2022-05-24T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-cybernews/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-cybernews/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;This Q&amp;amp;A originally appeared &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cybernews.com&#x2F;security&#x2F;adnan-fatayerji-threefold-the-best-protection-is-ownership-and-sovereignty-over-your-own-online-data&#x2F;&quot;&gt;on CyberNews&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Every action done online leaves a trace of our personal data that can then be accessed by third parties. Unfortunately, this puts our privacy at risk and can lead to dangerous consequences.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If our sensitive information falls into the wrong hands, one can encounter identity theft and suffer enormous financial losses. Thus, it’s essential to explore how the Internet could become a safer place for everyone.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For this reason, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cybernews.com&#x2F;&quot;&gt;CyberNews&lt;&#x2F;a&gt; asked Adnan Fatayerji, the CEO of ThreeFold Foundation, to explain how blockchain technology can empower users and give them ownership over their own online data.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;How did ThreeFold originate? What has your journey been like?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;My journey with ThreeFold began in 2015. I was a serial entrepreneur up to this point, inspired by the energy and opportunity Dubai had to offer when I first arrived more than a decade prior. I had recently co-founded a company that worked with panoramic stitching and used an incredible piece of technology – we got a lot of interest and were quickly acquired.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;At that point, a mutual friend and a business partner introduced me to Kristof de Spiegeleer. He shared his view of the problems with the Internet, with centralized data centers, the Internet’s stack, storage, and computation, and how they needed improvement in ways that serve the underserved around the world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Kristof expressed that he had been trying to resolve these problems for a long time and he thought he had the pieces to the puzzle, especially with the advent of blockchain which offered new and exciting possibilities. He thought we would hit it off, and we did.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We’ve built ThreeFold and even created a new operating system – Zero OS. It is more energy-efficient and runs completely in an autonomous and decentralized way. It’s the first of its kind, built off of Linux.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The ThreeFold journey has been a vast school of knowledge for me while working with incredible co-founders and mentors who have helped build pieces of the IT world as we know it. It has truly changed my life.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Can you tell us a little bit about what you do? What are your main fields of focus at the moment?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For the last five years, I’ve been in charge of the ThreeFold Foundation which is building a global movement around the ThreeFold Grid – a peer-to-peer, open-source, and decentralized Internet. I’m also active in our fundraising, business, and ecosystem development efforts. It’s an honor every day to wake up and be a part of a global movement of people who are trying to build a better Internet for humanity that can uplift and empower.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Currently, we are focused on building Neighborhood Clouds on ThreeFold that allow home and business owners to transform their own neighborhood into a decentralized, distributed data center by becoming a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&quot;&gt;ThreeFold Farmer&lt;&#x2F;a&gt;. Each home, office, or commercial property can host a 3Node – a dedicated server that provides the edge computing and Internet storage needed to run decentralized applications and Internet services.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;3Nodes are interconnected using existing local Internet cable infrastructure. They offer a quantum-safe storage system with the capacity to host a metaverse, gaming, rendering cloud, compute cloud, and a platform for our digital applications that enable our daily digital life. Farmers, in turn, are rewarded every month in ThreeFold Tokens (TFT), a digital currency, for adding capacity to the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We recently announced a historic partnership in Dubai with Paradise Hills Development to provide every homeowner in a 170-home gated community with a pre-installed 3Node. The initiative will provide residents, businesses, developers, and the government with a secure and highly accessible sovereign cloud infrastructure to run a vast array of applications and internet services, as well as store and process their data locally.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;It is evident that open source is an important part of ThreeFold. Would you like to share more about your vision?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Just as Satoshi Nakamoto envisioned the democratization of the financial system through decentralization, ThreeFold is on a similar quest to democratize the Internet with open-source, autonomous, and blockchain technologies. ThreeFold has built the open-source technology behind the decentralized storage and compute capacity of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;More Internet users can benefit from a neutral, peer-to-peer platform on which to store their data and run their applications privately and securely. Moreover, decentralization can help to remove the Internet’s singular potential points of failure which could seriously disrupt the global Internet and Cloud industry.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;A decentralized Internet can also better serve underserved populations of the world, including indigenous populations across the globe. We believe in open-source and we are partnering with technology companies, governments, and indigenous communities to expand the Internet in underserved regions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Do you think the recent global events had an effect on the way people approach the blockchain landscape?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Recent global events have definitely had an effect and spotlighted the fact that we need to consider new approaches to our IT systems with the blockchain landscape being one of them. A good example of the power of blockchain technology along with digital currency is Ukraine’s thriving fundraising. As the war began, a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;i-created-a-dao-for-laughs-want-to-join&#x2F;&quot;&gt;Decentralized Autonomous Organization&lt;&#x2F;a&gt; (DAO) was set up so that the government could accept cryptocurrency directly from donors.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;DAOs have several advantages over traditional organizations. First is the lack of trust needed between the two parties. A traditional organization requires a lot of trust in the people behind it, especially on behalf of investors. With DAOs, only the code needs to be trusted.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The ThreeFold DAO allows autonomous operation of the TFChain and ThreeFold Grid. At ThreeFold, we believe that decentralization is needed across a wide array of systems, including organizations, to build a better Internet. Decentralization typically brings more resilience, equality, and fairness. As such, we apply this in a variety of ways across our own structures and practices.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;On a similar note, the blockchain community needs to look at the vulnerability of the blockchain’s underlying infrastructure. Today, many are run on centralized cloud services and in a time of conflict can be vulnerable to hacks or attacks. I think this is where ThreeFold aligns so well with the blockchain industry since we provide the missing layer needed to be secure, scale, and remain decentralized.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Since blockchain is a relatively new technology, there are still some confusion and myths surrounding them. What misconceptions do you notice most often?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;One of the common misconceptions and misunderstandings about blockchain is that people often think cryptocurrency and blockchain are the same. Blockchain is a ledger and cryptocurrency is an alternative means of financial transaction. Cryptocurrency (or Digital Currency) is powered by blockchain, but blockchain does not need a cryptocurrency to function. 
+Here’s how blockchain and digital currency work on ThreeFold:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Layer 2 (L2): the ecosystem security layer.&lt;&#x2F;strong&gt; The ThreeFold DAO and ThreeFold Token (TFT) live here. It’s our main chain with 100 validators and it secures the multiple Layer 1 (L1) networks. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Layer 1 (L1): the Internet of Blockchains layer.&lt;&#x2F;strong&gt; It’s ultimately scaleable because of thousands or millions of blockchains. It’s like a side chain for the ThreeFold Grid. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Layer Zero (L0): the IT capacity layer and the cloud computer layer.&lt;&#x2F;strong&gt; ThreeFold executors live on this layer, secured by L0 Validators. L0 provides compute, storage, and network resources to L1 and L2.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Furthermore, the ThreeFold Token (TFT) is the first token in the world that gives access to the most comprehensive, decentralized Internet capacity for computing, storage, networking, and soon GPUs. Look at it as &lt;em&gt;the Bitcoin for Internet Capacity&lt;&#x2F;em&gt;. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Users, developers, and enterprises can use TFT to store data, build applications, and create peer-to-peer ecosystems on the ThreeFold Grid. ThreeFold Farmers are rewarded in TFT for contributing capacity to the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;As more companies move their workload to the cloud, are there any details that might be overlooked when making the switch?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;A vastly overlooked detail about the current cloud landscape is that it is energy-hungry and unsustainable given the rate at which our digital demands are growing today. If your company is working to be more environmentally conscious and meet climate goals, cloud hosting might have been overlooked as a contributing factor.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The Internet’s growth is exponential: 5.25 billion people have Internet access and are active users, so that’s about 66% of the world’s population. Since 2000, the number of Internet users has increased by 1,355%. The rate at which hyper-scale data centers need to be built to keep up with hosting these clouds is unrealistic, and their price     tags are exorbitant considering there are more efficient ways to tackle this issue.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With ThreeFold, companies can now literally be their own data centers, without the data security risks, latency and downtime issues, or hosting expenses. We believe that the current centralized cloud infrastructure carries increasing risk and it delivers poorly for underserved populations of the world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;It’s crazy to think that more than 80% of today’s Internet infrastructure is owned by less than 20 organizations. The lack of ownership of our own data and the consequent commercialization of our data is a major concern for both individuals and governments alike. Neutrality and democratization of the Internet are an absolute necessity regarding the future of the Internet and cloud architecture.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;What security measures do you think are crucial both for casual Internet users and large organizations?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Protecting our personal data is crucial for any individual or entity participating online. There are many precautions and measures that can be taken but the best protection is ownership and sovereignty over your own online data.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;From data breaches to DoS attacks to hacked interfaces, cloud computing is under constant attack. ThreeFold’s decentralized cloud offers improved security through a new, secure operating system, Zero OS, that runs on ThreeFold 3Nodes. It has no shell so that farmers – the owners of the capacity that hosts the OS and the workloads – have no access to the data nor the applications running on their hardware.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This OS is booted over the network with cryptographic boot file verification to prevent physical disk access and man-in-the-middle attacks. All nodes have their own IPv6 address and are fully interconnected in the defined network. Additionally, all traffic on the network is encrypted and inaccessible by TF Farmers or hackers.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold also offers a Quantum-Safe File System. This File System can be used inside VMs or Kubernetes. This is an amazing feature because it allows you to store endless amounts of data in a Virtual Machine.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;There’s also added security. Deployment of IT workloads using a so-called “Smart Contract for IT” makes the deployment process resilient to human error and hacking. The system is self-driving and self-healing, therefore removing the human requirement for deploying and operating IT infrastructure or services. This represents a breakthrough in IT.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;What are your predictions for the future of blockchain technology?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Once mainstream organizations become more familiar with the technology and how to use it effectively, adoption will increase. It’s already happening and it’s being merged with other emerging technologies to create scale and efficiency across sectors. We will see a new and more refined era of blockchain technology where functional use cases drive the narrative.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Share with us, what does the future hold for ThreeFold?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold is growing the ThreeFold Grid by enabling a community of thousands of farmers from around the world to participate and own a piece of the Internet. Check out our map to see if your region is lit up yet. We believe that the decentralized Internet is key to a sustainable future so that we can deliver on the true promise of the Internet and make it more widely available and affordable for all.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We are continuously improving the ThreeFold Grid. We just announced the release of ThreeFold Grid V3.0.0 Alpha-5 with significant upgrades, improvements, and fixes. Users can now choose to deploy applications and services on dedicated 3Nodes or reserve an entire 3Node, then use it exclusively to deploy solutions for themselves or other customers.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Starting with V3, the ThreeFold Grid is now operating as a DAO. We have also made it easier for users to buy ThreeFold Tokens by trading their BTC on our official &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;gettft.com&#x2F;gettft&#x2F;&quot;&gt;TFT Shop website&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We are announcing several promising partnerships and use cases in 2022 and are working closely with several nations to help establish a decentralized and sovereign infrastructure that will improve Internet accessibility, security, and locally provisioned capacity. You can learn more about it at threeFold.io.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Eighteen</title>
+		<published>2022-05-18T00:00:00+00:00</published>
+		<updated>2022-05-18T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly18/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly18/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! May 17th Edition (Volume Eighteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Highlights from the past week: The team is gathering with some of the ThreeFold ecosystem, a conversation with Mainstay Digital, updates on TF Grid 3 Alpha-6, progress on deploying a Hydra node on the grid, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_18&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Seventeen</title>
+		<published>2022-05-12T00:00:00+00:00</published>
+		<updated>2022-05-12T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly17/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly17/</id>
+		<content type="html">&lt;p&gt;📰 &lt;em&gt;&lt;em&gt;ThreeFold Weekly! May 10th&lt;&#x2F;em&gt; Edition (Volume Seventeen)&lt;&#x2F;em&gt;*&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: A Grid Enhancement Proposal to update the TF Grid passes and the grid was updated to V3 Alpha-5, TF Grid V3 Alpha-6 is now live on devnet, we’ll be attending Consensus 2022 by CoinDesk, and a lot more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_17&#x2F;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;*&lt;em&gt;This edition of TF Weekly was posted on Tuesday.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold at Consensus 2022</title>
+		<published>2022-05-10T00:00:00+00:00</published>
+		<updated>2022-05-10T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/consensus-2022/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/consensus-2022/</id>
+		<content type="html">&lt;p&gt;📣 &lt;strong&gt;ThreeFold @ Consensus 2022&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In one month from now, the ThreeFold team will be heading to Austin, TX for Consensus 2022 by CoinDesk, where ThreeFold will be a sponsor!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Consensus is the Festival for the Decentralized World – and a decentralized world needs a decentralized Internet – so we are super excited to share ThreeFold with this audience of 15,000+ people.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;We’ll have more to share, including details on a ThreeFold gathering. For now, if you’re interested in heading to Austin, please take advantage of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;events.coindesk.com&#x2F;consensus2022?promo=a7MsHxui&quot;&gt;our discount code&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Sixteen</title>
+		<published>2022-05-05T00:00:00+00:00</published>
+		<updated>2022-05-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly16/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly16/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! May 5th Edition (Volume Sixteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Let’s take a look at what’s new since last week’s update: We launched the TFT fiat gateway testing program (and we’re looking for some more testers), the team is testing the ThreeFold Hub for validators and deligated stakers, two Grid Enhancement Proposals, and more. (Whew!)&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_16&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Fifteen</title>
+		<published>2022-04-26T00:00:00+00:00</published>
+		<updated>2022-04-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly15/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly15/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! April 26th Edition (Volume Fifteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: ThreeFold Grid v3.0.0 Alpha-5 is live with tons of upgrades and improvements, we held a community call (+ there’s a recording), the new global 3Node Marketplace is here, fresh YouTube content, and more!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_15&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in CryptoPotato</title>
+		<published>2022-04-25T00:00:00+00:00</published>
+		<updated>2022-04-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-cryptopotato/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-cryptopotato/</id>
+		<content type="html">&lt;p&gt;The Internet economy is largely managed by centralized companies that connect servers and storage space to run web content. These companies are responsible for critical decisions that affect the Internet at large. They decide how user data is collected, stored, analyzed, and used, leaving people with little to no privacy or control over their identity and information.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Giant corporations such as Amazon, Microsoft, Meta, and Google have been pioneering the Web 2.0 era, also known as the Cloud era. Over the past 25 years, they have built the most efficient data centers and networks to support the growth of the digital world. However, throughout the last decade, the inherent risks attached to the single points of failures and security issues related to centralized servers and APIs have raised major concerns for Internet users and countries.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With the rising popularity of blockchain and peer-to-peer technologies, a gold rush around the decentralization of the Internet has already started. While many projects have attempted to decentralize the Internet and the Cloud with blockchain technology, a layer-0 is still missing for Web 3.0 and DeFi to scale to mass adoption.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Now, a project called ThreeFold has joined the race after recently &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;apnews.com&#x2F;press-release&#x2F;kisspr&#x2F;technology-middle-east-lifestyle-blockchain-dubai-079a0c910c55187206c58992347a8a1e&quot;&gt;announcing&lt;&#x2F;a&gt; the launch of the first neighborhood cloud in the world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Read the full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cryptopotato.com&#x2F;threefold-building-a-truly-decentralized-internet-infrastructure&#x2F;&quot;&gt;on CryptoPotato&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Today is Earth Day!</title>
+		<published>2022-04-22T00:00:00+00:00</published>
+		<updated>2022-04-22T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/earth-day-2022/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/earth-day-2022/</id>
+		<content type="html">&lt;p&gt;🌍 &lt;strong&gt;Today is Earth Day&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt; 
+&lt;p&gt;A good reminder that we all must do our part to combat climate change. At ThreeFold we believe in “Planet First.” This is why we are working towards a regenerative Internet.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Some ThreeFold Earth Day content for you:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;r0r7GrgoLcI&quot;&gt;ThreeFold is a Sustainable Alternative&lt;&#x2F;a&gt; (Video)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;farming_a_greener_alternative_to_crypto_mining&#x2F;&quot;&gt;Farming – A Greener Alternative to Mining&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097&quot;&gt;ThreeFold on track to be Planet-Positive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;blockheating_intro&#x2F;&quot;&gt;This ThreeFold Farm Keeps Veggies Warm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;for_our_planet&#x2F;&quot;&gt;A Better Solution For Our Planet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;And take a look at a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;looking-for-investments-in-truly-green-farming&#x2F;2260&quot;&gt;couple&lt;&#x2F;a&gt; of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;distributed-farming-with-unsteady-renewable-energy&#x2F;2151&quot;&gt;conversations&lt;&#x2F;a&gt; happening in the forum around green farming!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Fourteen</title>
+		<published>2022-04-19T00:00:00+00:00</published>
+		<updated>2022-04-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly14/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly14/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! April 19th Edition (Volume Fourteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Highlights since last time: ThreeFold was hand-picked as a top five Web3 startup, ThreeFold gatherings in Miami and Amsterdam, urgency around Grid 3 migration, highlights from the community, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_14&#x2F;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;For those who are looking for the recording of today’s community call, it will be shared asap.&lt;&#x2F;em&gt; 🙏&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Highlighted as Top Web3 Startup</title>
+		<published>2022-04-13T00:00:00+00:00</published>
+		<updated>2022-04-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-top-web3/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-top-web3/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold was hand-picked as a top Web3 startup by StartUs Insights – who states “We identify what’s next.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;“[ThreeFold] benefits regular internet users, companies, and developers to improve security and build decentralized communication networks. Besides, [they] reward users to convert devices into nodes, promoting asset integration and, consequently, net neutrality.”&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full coverage &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.startus-insights.com&#x2F;innovators-guide&#x2F;web3-startups&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Thirteen</title>
+		<published>2022-04-05T00:00:00+00:00</published>
+		<updated>2022-04-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly13/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly13/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! April 5th Edition (Volume Thirteen)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Highlights from last week: A Paradise Hills update, a podcast appearance, an update to the wallet, a second Grid Enhancement Proposal passes, a conversation with a rockstar DIY farmer, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_13&#x2F;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in CoinCodex</title>
+		<published>2022-04-04T00:00:00+00:00</published>
+		<updated>2022-04-04T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-coincodex/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-coincodex/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Coverage in CoinCodex today! Taking a look at some of the challenges of today’s Internet (centralization, data privacy, unequal access), how ThreeFold presents the solution, and how anybody can get involved.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“The sole requirements to run a 3Node are access to electricity and network. As such, virtually anyone can join the Grid and aid in the creation of a truly decentralized Internet.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold: Host the Cloud At Your House, via CoinCodex&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;coincodex.com&#x2F;article&#x2F;14083&#x2F;threefold-host-the-cloud-at-your-house&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Twelve</title>
+		<published>2022-03-29T00:00:00+00:00</published>
+		<updated>2022-03-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly12/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly12/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! March 29th Edition (Volume Twelve)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: Great reactions for ThreeFold at World Blockchain Summit Dubai, we hosted a session at Gaia-X’s Hackathon 3, a couple of appearances in the news, a new version of the grid, support for dedicated nodes, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;weekly_vol_12&#x2F;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold Weekly has a new look on our blog. &amp;amp; you can find all earlier editions &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in CoinCheckup</title>
+		<published>2022-03-25T00:00:00+00:00</published>
+		<updated>2022-03-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-coincheckup/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-coincheckup/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“The Internet is one of the greatest inventions of our time. ThreeFold is making it even better with a decentralized Internet powered by Blockchain and owned by the people.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold: Is the Decentralized Web the Future of the Internet?, via CoinCheckup.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;coincheckup.com&#x2F;blog&#x2F;threefold-is-the-decentralized-web-the-future-of-the-internet&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Eleven</title>
+		<published>2022-03-21T00:00:00+00:00</published>
+		<updated>2022-03-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly11/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly11/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! March 21st Edition (Volume Eleven)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Sharing highlights from last week: A Grid Enhancement Proposal, sharing stories from the community, migration reminders and shipping update, plus some notable forum posts you may have missed.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-march-21st-edition-volume-eleven&#x2F;2515&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Ten</title>
+		<published>2022-03-14T00:00:00+00:00</published>
+		<updated>2022-03-14T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly10/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly10/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! March 14th Edition (Volume Ten)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: a historic partnership with Paradise Hills in Dubai, tree planting initiatives are underway, some notable community conversations, interesting reads from the blog, addressing a bug with farming rewards, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-march-14th-edition-volume-ten&#x2F;2439&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in Crypto Daily</title>
+		<published>2022-03-11T00:00:00+00:00</published>
+		<updated>2022-03-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/paradise-hills-crypto-daily/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/paradise-hills-crypto-daily/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Through this historic partnership, Paradise Hills and ThreeFold will provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold Is Bringing The Power Of Blockchain And The Decentralized Cloud To A Dubai Neighborhood, via Crypto Daily.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cryptodaily.co.uk&#x2F;2022&#x2F;03&#x2F;threefold-is-bringing-the-power-of-blockchain-and-the-decentralized-cloud-to-a-dubai-neighborhood&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;More to come, as we’re in talks with other communities to scale this model across the globe.&lt;&#x2F;em&gt; 🌍&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Tree-Planting is Underway for a Planet-Positive Internet</title>
+		<published>2022-03-09T00:00:00+00:00</published>
+		<updated>2022-03-09T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tree-planting/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tree-planting/</id>
+		<content type="html">&lt;p&gt;🌳 &lt;strong&gt;Tree-Planting is underway to enable a planet-positive Internet&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Three big Take Action Global and ThreeFold sponsored tree-planting initiatives have gotten started in Malawi 🇲🇼, Cambodia 🇰🇭, and Sierra Leone 🇸🇱 – and soon in the Philippines 🇵🇭 – with &lt;strong&gt;more than 5,000 trees planted so far&lt;&#x2F;strong&gt;!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;students_trees.jpeg&quot; alt=&quot;Students&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;These actions will help to enable ThreeFold as &lt;strong&gt;the first planet-positive peer-to-peer Internet&lt;&#x2F;strong&gt; infrastructure on earth. Sending so much love to the children and teachers involved in this project. 💚&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For project details and to get involved, visit https:&#x2F;&#x2F;earthproject.org&#x2F;treeplanting&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;More updates to come.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;In case you missed it, check out &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097&quot;&gt;our previously-shared plans&lt;&#x2F;a&gt; to enable a regenerative Internet for all! You can find plenty of details in our three-part series.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Paradise Hills Property Development and ThreeFold to Establish the World’s First Neighborhood Cloud in Dubai</title>
+		<published>2022-03-07T00:00:00+00:00</published>
+		<updated>2022-03-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/paradise-hills/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/paradise-hills/</id>
+		<content type="html">&lt;p&gt;DUBAI, United Arab Emirates | Real Estate developer Paradise Hills and ThreeFold have announced today their plans to add dedicated servers (3Nodes) to approximately 170 homes in the Paradise Hill project, creating the world’s first neighborhood Cloud Network on the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Through this historic partnership, Paradise Hills Development and ThreeFold aim to provide every homeowner of the gated residence with a pre-installed 3Node, a dedicated server that provides the edge computing and internet storage needed to run decentralized applications and internet services. The initiative will provide residents, businesses, developers and the government with a secure and highly available sovereign cloud infrastructure to store and process their data locally.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;3nodehands.jpg&quot; alt=&quot;3Node&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Paradise Hills is set to become the region’s center for true decentralization and the future of tomorrow’s Internet, essentially setting the standard for real estate developments and homeownership globally,” CEO Shaher Mousli of Paradise Hills Development said about the partnership.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“This historic collaboration is the first pilot in a series of initiatives by ThreeFold to help expand the digital landscape of the United Arab Emirates (UAE),” says Adnan Fatayerji, co-founder of ThreeFold. “It will support the development of edge computing, smart cities and IoT, showcasing the power of the private sector to build and drive digital empowerment initiatives in support of the Digital Dubai vision set by the Emirates leadership.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Over the last decade, “data sovereignty” became a key topic globally, with many countries insisting that any data produced locally should be stored on Internet infrastructures within their borders. By bringing ThreeFold’s decentralized Internet infrastructure to real estate properties such as Paradise Hills, the UAE will be home to the first-of-its-kind, self-sovereign, smart city development in the world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Through simple, secure, and scalable technology, ThreeFold empowers millions to invent and explore new experiences,” added ThreeFold co-founder Kristof de Spiegeleer. “We want to empower local businesses, creators, and communities to build a more sustainable and inclusive future.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You and your communities can participate in the expansion and interconnection of the decentralized Internet as well! More information &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Nine</title>
+		<published>2022-03-07T00:00:00+00:00</published>
+		<updated>2022-03-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly9/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly9/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! March 7th Edition (Volume Nine)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Highlights from last week in ThreeFold: our participation in Structura-X, tree-planting for a regenerative Internet, validator verifications, grid migration, community discussions to join in on, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-march-7th-edition-volume-nine&#x2F;2371&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;And if you didn’t see &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;news&#x2F;post&#x2F;paradise_hills&#x2F;&quot;&gt;our announcement earlier&lt;&#x2F;a&gt; today, we have some exciting partnership news out of Dubai!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Eight</title>
+		<published>2022-02-28T00:00:00+00:00</published>
+		<updated>2022-02-28T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly8/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly8/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 28th Edition (Volume Eight)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Your weekly ThreeFold digest: The validator verification process is underway, farming migration continues and Titan shipping picks back up, re-sharing an enlightening conversation, updates on the $TFT and tech (product) side, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-february-28th-edition-volume-eight&#x2F;2315&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;If you missed this weekend’s product planning update, it’s a big one! Take a look &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-planning-updates-march-2022&#x2F;2302?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The Validator Verification Process is Underway</title>
+		<published>2022-02-23T00:00:00+00:00</published>
+		<updated>2022-02-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-verification-process/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-verification-process/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;The ThreeFold Validator Verification Process&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’ve submitted your interest for either an &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l0&#x2F;84&quot;&gt;L0&lt;&#x2F;a&gt; or &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;dao&#x2F;validators-signup-l2&#x2F;83&quot;&gt;L2&lt;&#x2F;a&gt; Validator, we are now pleased to share the verification process with you.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-threefold-validators-verification-process&#x2F;2276&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Limited spots remain&lt;&#x2F;strong&gt; for both L0 and L2 Validators, &lt;strong&gt;so be sure to submit your interest asap&lt;&#x2F;strong&gt; via the links above!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;And if you have any questions about validators still, please refer to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators&quot;&gt;the Validators section&lt;&#x2F;a&gt; of the Library or in particular &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;decentralization&#x2F;validators&#x2F;threefold__validators_faq&quot;&gt;our FAQs&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Seven</title>
+		<published>2022-02-21T00:00:00+00:00</published>
+		<updated>2022-02-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly7/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly7/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 21st Edition (Volume Seven)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last week in ThreeFold: a new powerful demo is live, updates around farming migration and Titan shipping, two awards for our partners at TAG, an exciting visit to Lebanon, major updates to info around the DAO, validators, executors, the three-layer approach, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-february-21st-edition-volume-seven&#x2F;2251&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can find all earlier editions of ThreeFold Weekly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Validator Frequently Asked Questions</title>
+		<published>2022-02-15T00:00:00+00:00</published>
+		<updated>2022-02-15T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-faqs/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-faqs/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;ThreeFold Validator Nodes Update!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We’ve received many questions on our programs for the &lt;strong&gt;L2 and L0 validators&lt;&#x2F;strong&gt; since we opened registrations, so we compiled this &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;all-you-need-to-know-about-our-validator-programs&#x2F;2208?u=hannahcordes&quot;&gt;Validator FAQ&lt;&#x2F;a&gt; for you. In &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;all-you-need-to-know-about-our-validator-programs&#x2F;2208?u=hannahcordes&quot;&gt;this post&lt;&#x2F;a&gt;, you will also find more information on the next steps like verifying applications and deploying the validators.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;all-you-need-to-know-about-our-validator-programs&#x2F;2208?u=hannahcordes&quot;&gt;Validator FAQ &amp;amp; Next Steps&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;We’re looking forward to driving the decentralization of the ThreeFold Grid with all of you. If you have further questions, please let us know in the comments.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;about-the-validators-signup-l2-category&#x2F;1862&quot;&gt;More about L2 Validators&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;about-the-validators-signup-l0-category&#x2F;1863&quot;&gt;More about L0 Validators&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Six</title>
+		<published>2022-02-13T00:00:00+00:00</published>
+		<updated>2022-02-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly6/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly6/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 13th Edition (Volume Six)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Your weekly digest what’s happening around the ThreeFold ecosystem! Last week in ThreeFold: farmers should migrate to V3, an important partnership revival, the Weblet Playground, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-february-13th-edition-volume-six&#x2F;2180&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can find all earlier editions of ThreeFold Weekly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Realizing a Planet-Positive Internet</title>
+		<published>2022-02-09T00:00:00+00:00</published>
+		<updated>2022-02-09T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tag-planet-positive/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tag-planet-positive/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Together with Take Action Global 🤝 we are taking real action to make the ThreeFold Grid the first planet-positive 🌍 Internet infrastructure in the world.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Take a look at our three-part series to explore these efforts:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097&#x2F;3&quot;&gt;Pt I: ThreeFold on track to be planet-positive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;supporting-initiatives-to-regenerate-the-planet&#x2F;2110&quot;&gt;Pt II: Supporting initiatives to regenerate the planet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;driving-regeneration-with-tag&#x2F;2120&quot;&gt;Pt III: Driving regeneration with Take Action Global&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can support a planet-positive Internet by becoming a farmer! All you have to do is connect capacity to the grid and you’re effortlessly contributing to the regeneration of our planet, as this model will allow all farms to become planet positive by default.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;shop.threefold.tech&#x2F;&quot;&gt;Buy a Certified 3Node&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__diy_guide&quot;&gt;Build a DIY 3Node&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Five</title>
+		<published>2022-02-07T00:00:00+00:00</published>
+		<updated>2022-02-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly5/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly5/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! February 7th Edition (Volume Five)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Let’s take a look at some of the most important happenings in the ThreeFold universe from last week – grid migration, ownCloud powered by ThreeFold, momentum for TFT, validator node registrations (limited spots remain!), and more!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-february-7th-edition-volume-five&#x2F;2099&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can find all earlier editions of ThreeFold Weekly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Validator Reservations Progress</title>
+		<published>2022-02-03T00:00:00+00:00</published>
+		<updated>2022-02-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-reservation-update/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/validator-reservation-update/</id>
+		<content type="html">&lt;p&gt;Since opening ThreeFold Validator Node reservations earlier in the week, there has been strong interest from the community – applications are coming in, TFT are being accumulated – and limited spots remain!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;L2 Validators (20 left)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-validator-node&#x2F;1864&quot;&gt;Reserve a L2 Validator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;about-the-validators-signup-l2-category&#x2F;1862&quot;&gt;More about L2 Validators&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;L0 Validators (25 left)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l0-validator-nodes&#x2F;1866&quot;&gt;Reserve a L0 Validator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;about-the-validators-signup-l0-category&#x2F;1863&quot;&gt;More about L0 Validators&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Be amongst the first ThreeFold Validators contributing to the decentralization and expansion of the Internet – and get rewarded for it! Join in now.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Validator Node Update</title>
+		<published>2022-01-31T00:00:00+00:00</published>
+		<updated>2022-01-31T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/validators-open/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/validators-open/</id>
+		<content type="html">&lt;p&gt;⚡ &lt;strong&gt;ThreeFold Validator Node Update&lt;&#x2F;strong&gt; ⚡&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In support of the establishment of ThreeFold’s DAO we have officially opened registrations for the first L2 and L0 validators.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;L2 Validator Node registration forum post: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l2-validator-node&#x2F;1864&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;L0 Validator Node registration forum post: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l0-validator-nodes&#x2F;1866&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This marks an important step towards realizing the promise of a decentralized Internet owned by the people.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Four</title>
+		<published>2022-01-30T00:00:00+00:00</published>
+		<updated>2022-01-30T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly4/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly4/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! January 30th Edition (Volume Four)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Another week has come to an end, so it’s time for a recap of this week‘s key updates from the ThreeFold ecosystem.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-january-30th-edition-volume-four&#x2F;1908&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Three</title>
+		<published>2022-01-23T00:00:00+00:00</published>
+		<updated>2022-01-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly3/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly3/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! January 23rd Edition (Volume Three)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As we head into another week, let’s look at the week that was, around the ThreeFold ecosystem. Some nice Sunday reading!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-january-23rd-edition-volume-three&#x2F;1813&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;A warm hello and thank you to both new and long-time community members, the pioneers of the People’s Internet.&lt;&#x2F;em&gt; 🙏&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Special Visit for the Team in Dubai</title>
+		<published>2022-01-23T00:00:00+00:00</published>
+		<updated>2022-01-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/underserved-dubai/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/underserved-dubai/</id>
+		<content type="html">&lt;p&gt;Last week we received a visit from Tina Taylor, Dr Michael A. Stubblefield and Tunica-Biloxi Chairman Marshall Pierite in Dubai to study the deployment plan of a regenerative and inclusive Internet infrastructure for HBCUs and Native American communities. We’re thrilled about this potential collaboration, and hope to share more on this exciting opportunity very soon! 🌎 🚀&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>CMSWire Asks ThreeFold About the Metaverse</title>
+		<published>2022-01-21T00:00:00+00:00</published>
+		<updated>2022-01-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/metaverse-news/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/metaverse-news/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For people to safely be in the metaverse – it all starts by not letting the technology fall into the hands of centralized parties. The metaverse will need a decentralized Internet infrastructure – and it needs to have collaborative ownership.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Check the article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.cmswire.com&#x2F;digital-workplace&#x2F;where-the-metaverse-and-digital-workplace-meet&#x2F;&quot;&gt;here&lt;&#x2F;a&gt; via CMSWire.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;The post discusses the metaverse and the future of work. Have you seen what we’re working on with DigiCorp Labs? &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;digithreelabs.com&#x2F;&quot;&gt;DigiThree&lt;&#x2F;a&gt; is preparing enterprises for the decentralized metaverse.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume Two</title>
+		<published>2022-01-15T00:00:00+00:00</published>
+		<updated>2022-01-15T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly2/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly2/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;ThreeFold Weekly! January 15th Edition&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Delivering you the key updates from the ThreeFold ecosystem this week – deep dive meetups, grid migration reminders, ThreeFold in the news, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-january-15th-edition&#x2F;1763&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Crypto Daily Calls ThreeFold a Hidden Gem</title>
+		<published>2022-01-13T00:00:00+00:00</published>
+		<updated>2022-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/hidden-gem/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/hidden-gem/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“With ThreeFold’s plans for 2022, we can expect major developments in the blockchain industry and beyond to happen on their infrastructure this year.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Just like Bitcoin is decentralizing global financial systems, ThreeFold will decentralize the Internet and cloud at large. With a solid team of cloud experts behind and many partners looking at building on top of their decentralized Internet with their mainnet launch, the moment to buy TFT is now.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;While The Market Is Struggling, This Hidden Gem Is About To Take Off, via Crypto Daily.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cryptodaily.co.uk&#x2F;2022&#x2F;01&#x2F;while-the-market-is-struggling-this-hidden-gem-is-about-to-take-off&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’re looking for ways to get TFT, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;look no further&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! Volume One</title>
+		<published>2022-01-07T00:00:00+00:00</published>
+		<updated>2022-01-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly1/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfweekly1/</id>
+		<content type="html">&lt;p&gt;📰 &lt;strong&gt;Introducing: ThreeFold Weekly!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;It was an &lt;em&gt;active&lt;&#x2F;em&gt; first week of 2022 with three deep dive meetups and developments on farming &amp;amp; grid, with TFT and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-weekly-january-7th-edition&#x2F;1707&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;We’re launching weekly updates as an easy way to keep the community up to speed with all that’s happening in the ThreeFold universe each week, from the ThreeFold Foundation Team.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Mentioned in the News</title>
+		<published>2021-12-21T00:00:00+00:00</published>
+		<updated>2021-12-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-computecoin-bloomberg/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-computecoin-bloomberg/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Today, data processing infrastructure is in short supply throughout Africa… ”700 new data centers“ would have to be built to meet current demand in Africa… &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;To connect end-users in Africa&lt;&#x2F;strong&gt; to a pipeline of instantaneous processing capacity, Computecoin is &lt;strong&gt;joining forces&lt;&#x2F;strong&gt; with a few other key players such as Crust and ThreeFold. CCN’s unique protocol will optimize computing resources provided by Crust’s Web3.0 storage platform and &lt;strong&gt;ThreeFold’s p2p network&lt;&#x2F;strong&gt; and &lt;strong&gt;ensure the computing resources are efficiently deployed&lt;&#x2F;strong&gt; through the CCN network.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;via Bloomberg Business&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.bloomberg.com&#x2F;press-releases&#x2F;2021-12-21&#x2F;helping-africa-go-digital-a-metaverse-startup-is-working-with-an-ngo-to-expand-digital-infrastructure-in-africa&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold and Take Action Global in the News</title>
+		<published>2021-12-17T00:00:00+00:00</published>
+		<updated>2021-12-17T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-tag-martech/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-tag-martech/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“The collaboration with ThreeFold is a perfect fit with our shared goal to bring access to the world and inspire change by providing opportunities for students to take action on social good causes through education and technology. We want to raise the bar of education by having experts teach the students and by initiating teacher training with help of their advanced technology,” Koen Timmers, Executive Director of Take Action Global.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;ThreeFold and Take Action Global Partner to Bring Internet Access to 1 Billion People Across the Globe, via MarTech Series&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;martechseries.com&#x2F;technology&#x2F;threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Learn more about &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.takeactionglobal.org&#x2F;&quot;&gt;Take Action Global&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>DigiThree Labs is live!</title>
+		<published>2021-11-18T00:00:00+00:00</published>
+		<updated>2021-11-18T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/digithree-site/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/digithree-site/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;DigiThree Labs is live!&lt;&#x2F;strong&gt; 🚀&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;DigiThree combines ThreeFold’s peer-to-peer technology and the vast benefits of the DigiByte blockchain to protect and elevate enterprises into the metaverse, our digital future.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🌐 https:&#x2F;&#x2F;digithreelabs.com&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Announcing DigiThree Labs</title>
+		<published>2021-10-28T00:00:00+00:00</published>
+		<updated>2021-10-28T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/digithree/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/digithree/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;ThreeFold and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;digicorplabs.com&quot;&gt;DigiCorp Labs&lt;&#x2F;a&gt; have joined forces to form DigiThree Labs&lt;&#x2F;strong&gt;, bringing together ThreeFold and DigiByte technologies and strong shared beliefs around decentralization, security, and privacy.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;DigiThree will deliver secure and private next-level solutions for people and enterprises, for a better tomorrow. Built on the DigiMetaverse, a decentralized foundational layer for the Metaverse.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;More to come. 👀&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Find the news &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&#x2F;status&#x2F;1453759609911619591&quot;&gt;on Twitter&lt;&#x2F;a&gt; as well! We’d love your support in getting the word out.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Liquid Receives $120 Million in Debt Financing From FTX</title>
+		<published>2021-08-26T00:00:00+00:00</published>
+		<updated>2021-08-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-ftx/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-ftx/</id>
+		<content type="html">&lt;p&gt;Related to last week’s Liquid news:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;strong&gt;Today, Liquid announced “the closing of a US$120,000,000 debt financing” from FTX Trading Ltd, owner and operator of top tier exchange FTX&lt;&#x2F;strong&gt;, and “that they have entered good faith discussions in pursuit of further collaborative opportunities.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+While we cannot speculate on what these further collaborative opportunities might be and how they could impact tokens listed on Liquid, it is certainly good news for Liquid to have such support from FTX.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Full coverage &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;liquid-exchange-receives-120-000-000-in-debt-financing-from-top-tier-ftx&#x2F;1159&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Liquid Hacked, TFT Not Affected</title>
+		<published>2021-08-19T00:00:00+00:00</published>
+		<updated>2021-08-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-hack-one/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-hack-one/</id>
+		<content type="html">&lt;p&gt;We wanted to update the community that Liquid, an exchange on which TFT is listed, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Liquid_Global&#x2F;status&#x2F;1428176357515612165?s=09&quot;&gt;shared this morning&lt;&#x2F;a&gt; that warm wallets on the exchange were compromised in a hack.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;strong&gt;It appears that Stellar-based assets (e.g. TFT) were not stolen.&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Please take note:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚫 To ensure safety of funds, please do not deposit any crypto assets to your Liquid wallets until further notice.&lt;&#x2F;li&gt;
+&lt;li&gt;🚫 Liquid has halted all crypto withdrawals while we assess the impact.&lt;&#x2F;li&gt;
+&lt;li&gt;✅ Fiat withdrawals and deposits remain available.&lt;&#x2F;li&gt;
+&lt;li&gt;✅ Other services on Liquid, including trading and Liquid Earn, remain available.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+You can find the full incident report &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blog.liquid.com&#x2F;warm-wallet-incident&quot;&gt;here&lt;&#x2F;a&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Liquid is investigating and will provide updates as they have them. We’ve also reached out to them directly and will share more as we know. 🙏&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in Smartereum</title>
+		<published>2021-06-30T00:00:00+00:00</published>
+		<updated>2021-06-30T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/smartereumjune2021/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/smartereumjune2021/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold is Audaciously Building a New Decentralized Internet&lt;&#x2F;strong&gt; (via Smartereum)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“… The ThreeFold project is led by a 65-[person] team of disruptors with a common goal: to put sovereign control of the internet in everybody’s hand.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+It goes without saying that these visionaries desire a true democracy of the internet: an internet of the people, by the people and for all people everywhere.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;smartereum.com&#x2F;189750&#x2F;threefold-is-audaciously-building-a-new-decentralized-internet&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in Yahoo! News</title>
+		<published>2021-06-26T00:00:00+00:00</published>
+		<updated>2021-06-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/yahoonewsjune21/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/yahoonewsjune21/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold Set To Disrupt Status Quo With a P2P Internet Powered by the People&lt;&#x2F;strong&gt; (via Yahoo! News)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“Overall, Threefold aims to help humanity thrive, save the planet, and make the internet accessible to everyone, including people living in remote locations.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Now when you factor in their partnerships with other decentralized corporations, this goal seems achievable in no distant time. One can only imagine what they accomplish in the near future given the uniqueness of their project and the quality of the team behind it.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;news.yahoo.com&#x2F;news&#x2F;threefold-set-disrupt-status-quo-051457787.html?guccounter=1&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Coverage in Bankless Times</title>
+		<published>2021-06-16T00:00:00+00:00</published>
+		<updated>2021-06-16T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/greener-tech-strategy/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/greener-tech-strategy/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold’s Green Technology Strategy to a Fairer, More Sustainable World&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“We have the potential to offset energy usage 100 per cent by the end of 2021, and our goal is to take two times more carbon out of the air than we put in,” says, Kristof de Spiegeleer, co-founder of ThreeFold.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.banklesstimes.com&#x2F;2021&#x2F;06&#x2F;14&#x2F;threefolds-green-technology-strategy-to-a-fairer-more-sustainable-world&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to read more about ThreeFold energy savings, dive into &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__energy_savings&quot;&gt;our wiki&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>See How ThreeFold Compares to Dfinity</title>
+		<published>2021-06-11T00:00:00+00:00</published>
+		<updated>2021-06-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/dfinity-threefold-news/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/dfinity-threefold-news/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The Internet revolution is upon us. Kudos to Dfinity for their Internet Computer movement. See how ThreeFold compares and offers “a more holistic environment for developers.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;tgdaily.com&#x2F;web&#x2F;6-dfinity-threefold-are-leading-an-internet-decentralization-revolution&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

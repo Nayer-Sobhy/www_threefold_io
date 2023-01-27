@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - roel_van_sabben</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/people/roel-van-sabben/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-07-23T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/people/roel-van-sabben/atom.xml</id>
+	<entry xml:lang="en">
+		<title>This ThreeFold Farm Keeps Veggies Warm</title>
+		<published>2021-07-23T00:00:00+00:00</published>
+		<updated>2021-07-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/blockheating-intro/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/blockheating-intro/</id>
+		<content type="html">&lt;p&gt;Somewhere in the Netherlands, a ThreeFold Farm is supporting the growth of vegetable crops such as tomatoes, peppers and cucumbers. By directing the excess heat generated from the hardware operations to the greenhouse next door, they are able to achieve an incredible model that benefits both hardware and vegetables. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Jeroen Burks, CEO of Blockheating, tells us everything we need to know about their sustainable farming operations. As far as he can remember, Jeroen has always been a protagonist of the “no waste” approach. He started by recycling material previously used by the tech industry, mainly in the cloud market. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“By default, most data center operations replace their power supplies every 3 years, no matter the state they are in. They are being replaced to counter any possible downtime.” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By refurbishing and repurposing “old” power units from data centers, he gives them a second life as electric tractor chargers, lithium ION pack chargers, and more. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“You just need to trick the unit into thinking it is still powering servers, add some cables here and there, and it is ready for duty.” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+His quest towards sustainability started when he was challenged on a pilot project. His friend had bought a new building and was looking for the most sustainable approach to heating it. Jeroen came up with the idea of putting two server racks in the basement and using the heat from that operation, to heat the offices and spaces above. While this project was a success, Jeroen realised that it could be way more efficient, if done with other structures. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+He quickly engaged with a second pilot project where he used two server racks to heat a small greenhouse. This model turned out to be a great combination, which benefited both hardware, as well as farming operations. And so sprouted ‘Blockheating’ – a data center that provides heat for tomatoes, peppers and cucumbers. Why specifically these vegetables? Well, the Netherlands has a fair amount of greenhouses cultivating them, and these ‘veggies’ need that heat during summer nights. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Right now Blockheating has around 400 compute nodes with direct cooling that stores all the heat in a buffer throughout the day, which is then released into the greenhouses during the night hours.
+“By doing it the way we do, we grow the internet grid, help grow vegetables and curb fossil fuel usage – in carbon negative compute power!” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Right now, Blockheating has a portion of their data center dedicated to ThreeFold Farming for a few reasons:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The alignment of values is huge&lt;&#x2F;li&gt;
+&lt;li&gt;ThreeFold Farming is easy to manage&lt;&#x2F;li&gt;
+&lt;li&gt;ThreeFold Farming counters wasteful behavior of internet resources, so it’s a triple win&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+Blockheating envisions to scale up-to three data centers of this kind, in an interconnected way, with a fiber ring between them. By doing so, they will be able to increase their offering and have a larger impact on countering the wasteful patterns of the cloud industry. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+ThreeFold is proud to have Blockheating as a ‘State-of-the-Art’ Farmer and Partner, and hopes to see many more people and companies inspired by Blockheating around the world, to expand the ‘People’s Internet’ in a regenerative way. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find out more about Blockheating here: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blockheating.com&#x2F;&quot;&gt;https:&#x2F;&#x2F;blockheating.com&#x2F;&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Find out more about our partners here: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;partners&quot;&gt;https:&#x2F;&#x2F;threefold.io&#x2F;partners&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Introducing Certified Farming for a More Secure ThreeFold Grid</title>
+		<published>2021-07-07T00:00:00+00:00</published>
+		<updated>2021-07-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/introducing-certified-capacity/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/introducing-certified-capacity/</id>
+		<content type="html">&lt;p&gt;Last month, we went live with Titan V2.1, and we’re thrilled to count +1,000 orders already from all over the world.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+While orders keep on coming in, we are happy to launch the Certified Farming Program. Certification brings more security to 3Nodes and hence to the ThreeFold Grid, while also providing more rewards to Farmers.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;more-security-for-everyone&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#more-security-for-everyone&quot; aria-label=&quot;Anchor link for: more-security-for-everyone&quot;&gt;🔗&lt;&#x2F;a&gt;More Security For Everyone&lt;&#x2F;h2&gt;
+&lt;p&gt;While anyone can connect hardware to the ThreeFold Grid, some workloads require the highest level of security standards. Certified hardware can only be booted by Zero-OS and allows for 100% tamper-proof capacity. With certification, ThreeFold is pushing the limits further and creating a new global standard for hardware security.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+There are key benefits for Farmers to certify their capacity: 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get a certified capacity label: Some developers and enterprises will seek for the highest levels of security. With the certified label, you will be able to provide capacity for their workloads at a higher price.&lt;&#x2F;li&gt;
+&lt;li&gt;Improved hardware security: While DIY farming already provides incredible security, certified farming is 100% tamper-proof. Now you can bring more security to the ThreeFold Grid and to the people using it. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We’re building a more secure future for our digital lives. This will happen! 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;P.s. If you’re already a farmer and would like to be featured on our websites please &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;cW6uFUhkohSw81KT6&quot;&gt;fill out this form.&lt;&#x2F;a&gt; Let’s introduce the world to the farming community behind this awesome project!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Introducing New Farming Rewards</title>
+		<published>2021-07-07T00:00:00+00:00</published>
+		<updated>2021-07-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/new-farming-rewards/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/new-farming-rewards/</id>
+		<content type="html">&lt;p&gt;With the forthcoming launch of ThreeFold Grid 3.0 later this year, the world is set to go peer-to-peer. With many use-cases being lined up, we updated the Farming Rewards to incentivize Farmers to expand the ThreeFold Grid further across the world.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;new-farming-logic-introducing-network-rewards&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#new-farming-logic-introducing-network-rewards&quot; aria-label=&quot;Anchor link for: new-farming-logic-introducing-network-rewards&quot;&gt;🔗&lt;&#x2F;a&gt;New Farming Logic - Introducing Network Rewards&lt;&#x2F;h2&gt;
+&lt;p&gt;The new Farming Rewards logic can be found &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;info&#x2F;threefold#&#x2F;threefold__farming_reward&quot;&gt;&lt;strong&gt;HERE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+You will see that the farming rewards were simplified, and are now calculated according to the compute and storage units (CU &amp;amp; SU) provided to the ThreeFold Grid. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Also, as of this summer, Farmers will be able to earn more TFT for the Network traffic happening on their 3Nodes. The amount of data coming in and out of their CU and SU will determine extra rewards in the form of Network Units (NU).
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Certified NU: 0.3 TFT per GB per month&lt;&#x2F;li&gt;
+&lt;li&gt;DIY NU: 0.2 TFT per GB per month&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;how-do-i-get-certified&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-do-i-get-certified&quot; aria-label=&quot;Anchor link for: how-do-i-get-certified&quot;&gt;🔗&lt;&#x2F;a&gt;How do I get Certified?&lt;&#x2F;h2&gt;
+&lt;p&gt;All 3Nodes bought from ThreeFold after June 5 2021 are eligible for certified farming. We will send instructions to everyone that purchased a Titan v2.1 on how to upgrade to a certified 3Node next week. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+For people that already bought an earlier batch of nodes, we are thinking of a solution for becoming certified, as our hardware partners need the physical 3Node to certify the hardware.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;important-notes&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#important-notes&quot; aria-label=&quot;Anchor link for: important-notes&quot;&gt;🔗&lt;&#x2F;a&gt;Important notes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;All certified hardware is 100% dedicated to the ThreeFold Grid. While DIY nodes can be booted with a different Operating System, this is not possible with a Certified 3Node.&lt;&#x2F;li&gt;
+&lt;li&gt;All certified hardware is automatically subject to the 3.0 Farming Logic. Read more &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;info&#x2F;threefold#&#x2F;threefold__farming_reward&quot;&gt;&lt;strong&gt;HERE&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;P.s. If you’re already a farmer and would like to be featured on our websites please &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forms.gle&#x2F;cW6uFUhkohSw81KT6&quot;&gt;fill out this form.&lt;&#x2F;a&gt; Let’s introduce the world to the farming community behind this awesome project!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Q2 3Node Batch is Sold Out! Q3 Pre-registration is Live!</title>
+		<published>2021-06-04T00:00:00+00:00</published>
+		<updated>2021-06-04T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/q2-batch-sold-out/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/q2-batch-sold-out/</id>
+		<content type="html">&lt;p&gt;😮 Wow!😮
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;This morning our team woke up to 400+ emails to register for our Titan V2 3Node batch after &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;channel&#x2F;UCPRC2wIfZtAlzCa_6iKE46w&quot;&gt;Tactical Investing&lt;&#x2F;a&gt; covered our project.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;strong&gt;All of our Titan V2 3Nodes sold out!&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Although our last batch sold out, we are taking new registrations for the next batch already. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Pre-register &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;next3nodebatch.threefold.io&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>3Node Pre-Register Q2 Batch Closing Soon</title>
+		<published>2021-06-03T00:00:00+00:00</published>
+		<updated>2021-06-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/q2-batch-closing-soon/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/q2-batch-closing-soon/</id>
+		<content type="html">&lt;p&gt;Our next batch of Titan V2 3Nodes will ship in a matter of weeks. 
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;strong&gt;Cheers!&lt;&#x2F;strong&gt; 🥂 - to all that have pre-registered already and are making the internet a more sustainable and more private place!
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;strong&gt;Hurry up!&lt;&#x2F;strong&gt; 🏃🏽‍♀️ - to all of you still looking for an easy way to become a ThreeFold Farmer.
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+You can order your Titan v2 on our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;shop.threefold.tech&#x2F;index.php?route=product&#x2F;product&amp;amp;path=59&amp;amp;product_id=53&quot;&gt;pre-register page&lt;&#x2F;a&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;em&gt;And yes, all Titan’s come with one of those rad stickers.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Why Anyone Should Consider Becoming A (ThreeFold) Farmer</title>
+		<published>2020-05-03T00:00:00+00:00</published>
+		<updated>2020-05-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/why-become-a-farmer/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/why-become-a-farmer/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The ThreeFold Foundation is changing the way how &quot;we&quot; as a whole approach the internet and its underlying technology. We believe building the internet back from the ground up is the only way to dismantle the monster it has grown into – a polluting greed-machine that allows people’s data to be abused for money all while just being accessible to just half of the earth’s inhabitants.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+And the best part is, you can have a part in the global shift towards a more sustainable, inclusive, and respectful internet by becoming a ThreeFold Farmer.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;so-what-are-farmers&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#so-what-are-farmers&quot; aria-label=&quot;Anchor link for: so-what-are-farmers&quot;&gt;🔗&lt;&#x2F;a&gt;So what are farmers?&lt;&#x2F;h2&gt;
+&lt;p&gt;Simply put: Farmers are people that add capacity to the ThreeFold Grid for anyone to use.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-this-capacity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-is-this-capacity&quot; aria-label=&quot;Anchor link for: what-is-this-capacity&quot;&gt;🔗&lt;&#x2F;a&gt;What is this “capacity”?&lt;&#x2F;h2&gt;
+&lt;p&gt;Capacity is the raw building blocks needed for any internet grid: CPU (processors), Hard Drives, Solid-state drives, memory, etc. Capacity can then be rented by developers and engineers that would like to run their applications on the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-in-it-for-me&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-is-in-it-for-me&quot; aria-label=&quot;Anchor link for: what-is-in-it-for-me&quot;&gt;🔗&lt;&#x2F;a&gt;What is in it for me?&lt;&#x2F;h2&gt;
+&lt;p&gt;As mentioned in the previous paragraph, capacity is rented. This means people that put capacity on the ThreeFold Grid are getting paid by anybody that uses their capacity. But there is more, ThreeFold also incentivizes farmers to add capacity by giving them tokens simply for adding the capacity to the ThreeFold Grid. The amount they receive depends on the specifications of the capacity they put online (how much, how powerful, etc). These tokens are then gradually released over the course of 60 months. So in short, you get paid to do this.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-else&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-else&quot; aria-label=&quot;Anchor link for: what-else&quot;&gt;🔗&lt;&#x2F;a&gt;What else?&lt;&#x2F;h2&gt;
+&lt;p&gt;Capacity for the ThreeFold Grid can be added in all shapes and sizes. It could be a small box no larger than a modem that you put in your office or home, or could be a fully-fledged data center node. The idea is that the grid becomes spread out as much as it can be, as this has some huge benefits for all users and the environment.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Less power waste: Less energy is needed to cool all these smaller nodes that are far away from each other, than putting the same resources in a giant room together and having them sit on top off, and beside each other (this is what happens now in large scale data centers).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Less bandwidth waste: The closer the capacity is to the end-user, the less unnecessary miles it has to travel. (e.g. a text message in a messaging app might travel from the Netherlands to a data center in America to then forward it to the person living down the street). When concentrating on decentralization and having nodes everywhere in the world this problem resolves itself. And data will take the shortest route possible.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;More Privacy: This decentralized approach makes it so that there is no “all-seeing eye” within the network – unlike the current setup where tech giants basically own all their users’ data by putting it in their own data centers.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;More Accessibility: Due to the fact that these resources can be added in small form-factors, it makes it possible to now put internet resources anywhere in the world where there’s a network to plug into (cables in the ground). And this makes it that now people that have limited-to-no funds have access to what the UN declared a human right: the internet. ut more than that, education, connection, entertainment, all the internet brought the western world over the past decade.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;To find out more about how you can become a farmer, please visit ThreeFold’s website &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.threefold.io&quot;&gt;www.threefold.io&lt;&#x2F;a&gt;. Our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;&quot;&gt;wiki&lt;&#x2F;a&gt; or register to for first access to our next batch of 3Node here: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;pre-register.threefold.io&#x2F;&quot;&gt;https:&#x2F;&#x2F;pre-register.threefold.io&#x2F;&lt;&#x2F;a&gt;. We are currently collecting interest for all types of nodes that anyone can host in their home, office, or anywhere else with a power outlet and internet connection. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Decentralizing the Internet</title>
+		<published>2019-08-21T00:00:00+00:00</published>
+		<updated>2019-08-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/decentralizing-the-internet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/decentralizing-the-internet/</id>
+		<content type="html">&lt;h2 id=&quot;decentralization&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#decentralization&quot; aria-label=&quot;Anchor link for: decentralization&quot;&gt;🔗&lt;&#x2F;a&gt;Decentralization&lt;&#x2F;h2&gt;
+&lt;p&gt;In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enables a much easier integration of independent players into the sharing economy.&lt;&#x2F;li&gt;
+&lt;li&gt;Eliminates the need for extensive management and structure of marketplace operators.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-current-internet-is-centralized&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-current-internet-is-centralized&quot; aria-label=&quot;Anchor link for: the-current-internet-is-centralized&quot;&gt;🔗&lt;&#x2F;a&gt;The current Internet is centralized&lt;&#x2F;h2&gt;
+&lt;p&gt;Despite the growth in popularity for decentralized systems, organizations, and currencies, the Internet remains centralized. The centralization within the Internet industry brought many barriers to entry. Indeed, to compete in the highly competitive market of Internet capacity dominated by big IT companies, massive investment, and IT development are needed.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+But what is really scary is that the current industry exploits the market tremendously. Data is officially the most valuable asset on earth for a few years, and about 20 companies rule over more than 80% of the cloud industry. In other words - these companies together have more than 80% of the world’s information. In recent years, we noticed the dangers that can arise with the wrong intentions within the data industry with the ‘Cambridge Analytica Scandal’, also highlighted in the movie &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=iX8GxLP1FHo&quot;&gt;‘The Great Hack’.&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+ThreeFold has been developing technology that allows the decentralization of the Internet infrastructure - removing the need for data centers, and allowing anyone to take part in the Internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). The more decentralized the Internet gets, the more secure and effective it will become. The already is the largest grid of compute and storage in the world.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-participate&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-to-participate&quot; aria-label=&quot;Anchor link for: how-to-participate&quot;&gt;🔗&lt;&#x2F;a&gt;How To Participate&lt;&#x2F;h2&gt;
+&lt;p&gt;The process of becoming a ThreeFold Farmer is very straightforward. Anyone can join the ThreeFold Grid by downloading the ThreeFold Zero-OS onto their nodes and connecting them to the ThreeFold Grid.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By doing this you will become an operator of a “micro data center” and with that earn ThreeFold Tokens. With or without experience in the field, anyone can become a ThreeFold Farmer. By becoming a ThreeFold Farmer, you empower a new neutral Internet that belongs to humanity - not corporations.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+You can build your server (3node) and configure it, but also options for people with less technical knowledge are available. Please see &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;pre-register.threefold.io&quot;&gt;pre-register.threefold.io&lt;&#x2F;a&gt; to see how easy it is for anyone to become a ThreeFold Farmer.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Blog written in 2019, updated January 2021.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

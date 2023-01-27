@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - digital_twin</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/digital-twin/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-09-03T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/digital-twin/atom.xml</id>
+	<entry xml:lang="en">
+		<title>An Interview with Jimber</title>
+		<published>2021-09-03T00:00:00+00:00</published>
+		<updated>2021-09-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/jimber-interview-news/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/jimber-interview-news/</id>
+		<content type="html">&lt;p&gt;Recently, Scott (from the TF Foundation) interviewed Jonas Delrue from Jimber, the team developing P2P solutions like video chat and office workspace, using the Digital Twin platform. Digital Twin is a use case on top of the ThreeFold Grid.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+💬 You can find the interview &lt;em&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;interview_with_jimber&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;em&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+It’s quite a fascinating discussion and gives insight on the technical hurdles and motivations for developing private, decentralized, and open source alternatives to popular products from major corporations.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Watch the P2P File Browser Demo!</title>
+		<published>2021-07-29T00:00:00+00:00</published>
+		<updated>2021-07-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/filebrowser-demo/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/filebrowser-demo/</id>
+		<content type="html">&lt;p&gt;Today, we’re excited to share with you &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=oT_dKuvF6Ng&quot;&gt;a demo of the ultra-secure peer-to-peer file browser (storage) solution&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; that’s being built on top of the ThreeFold Grid!
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This is part of a series of demos showcasing a little piece of what we’re building at the ThreeFold – private, secure, peer-to-peer alternatives to many of the tools and experiences we all use today.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Last week, we shared a demo of the self-hosted video solution, which you can find &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;news&#x2F;post&#x2F;video_chat_demo&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+See you next time! 👋&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>This ThreeFold Farm Keeps Veggies Warm</title>
+		<published>2021-07-23T00:00:00+00:00</published>
+		<updated>2021-07-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/blockheating-intro/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/blockheating-intro/</id>
+		<content type="html">&lt;p&gt;Somewhere in the Netherlands, a ThreeFold Farm is supporting the growth of vegetable crops such as tomatoes, peppers and cucumbers. By directing the excess heat generated from the hardware operations to the greenhouse next door, they are able to achieve an incredible model that benefits both hardware and vegetables. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Jeroen Burks, CEO of Blockheating, tells us everything we need to know about their sustainable farming operations. As far as he can remember, Jeroen has always been a protagonist of the “no waste” approach. He started by recycling material previously used by the tech industry, mainly in the cloud market. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“By default, most data center operations replace their power supplies every 3 years, no matter the state they are in. They are being replaced to counter any possible downtime.” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By refurbishing and repurposing “old” power units from data centers, he gives them a second life as electric tractor chargers, lithium ION pack chargers, and more. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“You just need to trick the unit into thinking it is still powering servers, add some cables here and there, and it is ready for duty.” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+His quest towards sustainability started when he was challenged on a pilot project. His friend had bought a new building and was looking for the most sustainable approach to heating it. Jeroen came up with the idea of putting two server racks in the basement and using the heat from that operation, to heat the offices and spaces above. While this project was a success, Jeroen realised that it could be way more efficient, if done with other structures. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+He quickly engaged with a second pilot project where he used two server racks to heat a small greenhouse. This model turned out to be a great combination, which benefited both hardware, as well as farming operations. And so sprouted ‘Blockheating’ – a data center that provides heat for tomatoes, peppers and cucumbers. Why specifically these vegetables? Well, the Netherlands has a fair amount of greenhouses cultivating them, and these ‘veggies’ need that heat during summer nights. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Right now Blockheating has around 400 compute nodes with direct cooling that stores all the heat in a buffer throughout the day, which is then released into the greenhouses during the night hours.
+“By doing it the way we do, we grow the internet grid, help grow vegetables and curb fossil fuel usage – in carbon negative compute power!” 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Right now, Blockheating has a portion of their data center dedicated to ThreeFold Farming for a few reasons:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The alignment of values is huge&lt;&#x2F;li&gt;
+&lt;li&gt;ThreeFold Farming is easy to manage&lt;&#x2F;li&gt;
+&lt;li&gt;ThreeFold Farming counters wasteful behavior of internet resources, so it’s a triple win&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+Blockheating envisions to scale up-to three data centers of this kind, in an interconnected way, with a fiber ring between them. By doing so, they will be able to increase their offering and have a larger impact on countering the wasteful patterns of the cloud industry. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+ThreeFold is proud to have Blockheating as a ‘State-of-the-Art’ Farmer and Partner, and hopes to see many more people and companies inspired by Blockheating around the world, to expand the ‘People’s Internet’ in a regenerative way. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find out more about Blockheating here: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blockheating.com&#x2F;&quot;&gt;https:&#x2F;&#x2F;blockheating.com&#x2F;&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Find out more about our partners here: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;partners&quot;&gt;https:&#x2F;&#x2F;threefold.io&#x2F;partners&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Watch the Self-Hosted Video Chat Demo!</title>
+		<published>2021-07-20T00:00:00+00:00</published>
+		<updated>2021-07-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/video-chat-demo/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/video-chat-demo/</id>
+		<content type="html">&lt;p&gt;👀 &lt;strong&gt;Check out a little piece of what we’re building at ThreeFold!&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;VlxLHxEL1WI&quot;&gt;self-hosted video chat solution&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; is just one component of a full suite of tools you’ll be able to deploy for yourself soon on the ThreeFold Grid!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Response - The Internet is Destroying Our Brains, but We Can&#x27;t Quit</title>
+		<published>2021-07-01T00:00:00+00:00</published>
+		<updated>2021-07-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/internet-destroying-brain/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/internet-destroying-brain/</id>
+		<content type="html">&lt;p&gt;The other day, I came across &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;africa.businessinsider.com&#x2F;strategy&#x2F;the-internet-is-destroying-our-brains-but-we-cant-quit-its-a-factory-were-forced-to&#x2F;z4drxf5&quot;&gt;a poignant article&lt;&#x2F;a&gt; written by &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_pem_pem&quot;&gt;P.E. Moskowitz&lt;&#x2F;a&gt; entitled “The internet is destroying our brains, but we can’t quit. It’s a factory we’re forced to work in without any pay.” As someone who started out in social media advertising (read: trying to capture peoples’ attention to get them to buy or do something often by using their data against them), worked in influencer marketing in its early days, and has now gone 180º to help to build a decentralized Internet by people and for people (where people are digitally sovereign), it really resonated with me.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+It’s commonly-discussed (see: The Social Dilemma) and quite obvious if you use or have used the Internet and specifically social media, that we are addicted to being online. In fact, we’re actually even chemically triggered by social media and other online experiences. Said Jeff Orlowski, director of The Social Dilemma, “Social media powerhouses like Facebook, Twitter and Instagram are “designed” to exploit users’ brain chemistry in order to keep them glued to their phones… They were designed to get us to come back. It’s to figure out how to reverse-engineer what we’re most vulnerable to, most susceptible to, to come back. And what we are seeing is a dopamine response in the brain.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In their article, Moskowitz points out how the Internet is not just like a toxic relationship or junk food, where you can leave or stop yourself from eating, rather it’s “an all-encompassing technology, our main economic engine, the tool we are forced to use to meet others and mediate our entire lives.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The truth is that the Internet &lt;em&gt;has&lt;&#x2F;em&gt; become more than an addiction, it’s become a necessity to keep up in today’s increasingly-digital world. Yet the Internet is not even accessible to about 40% of the global population – and for those who &lt;em&gt;do&lt;&#x2F;em&gt; have access, it does not serve us. It’s actually the other way around. We are the product.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“We produce the memes, tweets, posts, and pictures that keep us tethered to the internet, and then that content is monetized in the form of advertisements - revenue users help produce, but do not usually see a penny of,” says Moskowitz. We have become cogs in a machine that uses us for its own benefit. Or as they call it, “a factory we’re forced to work in without any pay.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+“Our entire society has been reformulated around the internet, much like it was centered around the factory during the Industrial Revolution. If there’s an Amazon Web Services outage, much of our society stops functioning. Without the internet, we couldn’t find jobs, or, at this point, even friends.”&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;so-what-do-we-do&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#so-what-do-we-do&quot; aria-label=&quot;Anchor link for: so-what-do-we-do&quot;&gt;🔗&lt;&#x2F;a&gt;So, what do we do?&lt;&#x2F;h2&gt;
+&lt;p&gt;Moskowitz is correct in their thinking when they say the following, “A solution to our current internet-use crisis cannot come at an individual level anymore than one person quitting their job would solve capitalism’s poor working conditions. If we want any hope of making the internet less stressful, less back-breaking, and more fulfilling, content creators, gig economy workers, and even casual internet users need to push for a systemic solution.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Simply pending less time on the Internet or using certain apps instead of others is not going to make much of a difference in the end. There are billions of people on the Internet today to make up for the loss. And the underlying system is still massively flawed and can be manipulated. Bold, widespread, systemic change is indeed what we need. A revolution, perhaps.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As pointed out recently &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;tgdaily.com&#x2F;web&#x2F;6-dfinity-threefold-are-leading-an-internet-decentralization-revolution&#x2F;&quot;&gt;in TGDaily&lt;&#x2F;a&gt;, ThreeFold is that revolution.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+ThreeFold is the engine for a &lt;em&gt;new&lt;&#x2F;em&gt; Internet, driven by a movement of people who care about a better future. With more than two decades of direct knowledge of the Internet and Cloud industries, we flipped today’s Internet on its head. We rebuilt the architecture from the ground up, with people and our planet at the center of our focus. Instead of relying on centralized hyper-scale data centers owned by a few private corporations, we provide the opportunity for people across the world with access to a network connection and electricity to plug in hardware and provide local capacity, and earn income while they are at it.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In our model, we prioritize simplicity, security, efficiency, and privacy. The technology runs autonomously, removing human error and malicious intent from the equation. Connections are peer-to-peer, meaning no middlemen get in the way of our content, our transactions, or other data. And importantly, people own their data. What we produce is ours. We decide where it gets stored and we decide who can access it (and for what value). In fact, it’s basically impossible from a technical standpoint for anybody to access someone’s data without their consent – including us.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+On top of the technology, we provide experiences. People will have one single log-in and verifiable identity, and gain access to the tools (experiences) they need for communication and for work. As we are a decentralized movement, soon, anybody will be able to build anything they like on top of ThreeFold – but it is our vision and belief that the Internet should not be addictive. Rather a tool for all of humanity to connect, learn, and prosper – with people at the center, not treated as products.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+To the author’s concern, content creators and gig economy workers would clearly benefit from such a digital world as well. Of course services like Airbnb or Uber or Etsy or even YouTube provide value as they are crowded marketplaces both for providers and customers. That said, they profit from people, typically on both sides of the transaction. In a peer-to-peer world, we can create fair and equal marketplaces where the content or product is owned completely by the person listing it there and the value goes 100% directly from person to person. This means no hidden fees, no uncertainty over ownership, no censorship or control from a third party. Of course it’s not all predetermined at this moment, but what I can say is that our biggest concerns in what we create are and will always be fairness and equality (and sustainability &#x2F; regeneration). So, together, we will bring all of this tolife in the best interest of people.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;join-the-movement&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#join-the-movement&quot; aria-label=&quot;Anchor link for: join-the-movement&quot;&gt;🔗&lt;&#x2F;a&gt;Join the Movement&lt;&#x2F;h2&gt;
+&lt;p&gt;In their article, Moskowitz concluded that “perhaps it is only a matter of time before enough of us say ‘enough,’ and protest the internet’s totalizing grasp on our labor and our lives.” But where does protest lead without a viable solution? Maybe this is the type of systemic change Moskowitz could imagine and could stand behind. It’s not a band-aid approach, rather a total re-imagination and re-execution of today’s flawed and manipulative Internet. It’s an Internet by people, for people. Instead of working in the factory, we become the factory co-owners – and the Internet works for us.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+If you believe in what we are building, we invite you to join the movement:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farming&quot;&gt;Become a farmer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldnews&quot;&gt;Stay updated on ThreeFold News&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;Join the conversation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldtesting&quot;&gt;Test the technology&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&quot;&gt;Follow us on Twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__how_to_buy_and_sell&quot;&gt;Buy the ThreeFold Token&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We are a growing group of people from around the world who not only believe what many of you believe, but we are doing something about it. Let’s grow the People’s Internet, together.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold’s Planet Positive Plan</title>
+		<published>2021-05-15T00:00:00+00:00</published>
+		<updated>2021-05-15T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/threefold-regenerates/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/threefold-regenerates/</id>
+		<content type="html">&lt;p&gt;There’s no question that climate change is one of the biggest, if not the biggest threats facing humanity today. If we care at all about future generations and the health of our planet, we have no choice but to address these threats, and fast. That’s why one of our biggest aims is to lower the energy usage of our digital lives. But ThreeFold is taking not just a sustainable approach, we’re setting the plan for a planet positive Internet.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Recently, we released information on how our infrastructure saves up-to-90% on energy consumption compared to existing models. We achieve this mainly thanks to an extremely efficient storage system and the concept of a Digital Twin.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+From &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__energy_savings_storage&quot;&gt;a storage standpoint&lt;&#x2F;a&gt;, we reduce energy by avoiding copies, implementing a multi-layer system, not using fast disks, through read&#x2F;write caching, and more. With &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__energy_savings_digital_twin&quot;&gt;Digital Twin&lt;&#x2F;a&gt;, we have taken a very different approach to how we exist in today’s digital world. Rather than existing 100 times in a huge system of client-server architecture, now we exist only once. We believe that we can run 25 Digital Twins with &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__bulb_comparison_twin&quot;&gt;the same energy&lt;&#x2F;a&gt; as used by one light bulb.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Saving energy is one thing, but there will still be remaining energy. This needs to be offset by carbon credits. Now, in order to regenerate our planet, we &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;threefold__carbon_negative&quot;&gt;work together with Take Action Global&lt;&#x2F;a&gt; to let students farm carbon credits. This has the potential to offset energy usage 100% by the end of 2021, and we have, as an aim to take 2x more carbon out of the air than we put in.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Our planet needs better solutions across industries. No more talking. Now is the time to act.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Not your average blockchain project</title>
+		<published>2021-04-20T00:00:00+00:00</published>
+		<updated>2021-04-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/a-different-approach-to-blockchain/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/a-different-approach-to-blockchain/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;p&gt;Sometimes we’re compared to blockchain projects. We love blockchains and have many partners there – CasperLabs, DigiByte, Polygon, and Dash, to name a few – but that’s just not what we are. Here’s a few ways we are different than the “typical” blockchain project.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;threefold-is-actually-much-more-than-a-blockchain&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-is-actually-much-more-than-a-blockchain&quot; aria-label=&quot;Anchor link for: threefold-is-actually-much-more-than-a-blockchain&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold is actually much more than a blockchain&lt;&#x2F;h2&gt;
+&lt;p&gt;ThreeFold is not actually even a blockchain project, rather it uses blockchain technology by combining it with other cutting-edge solutions. It’s way more that just a blockchain alternative to a public cloud. &lt;!--  --&gt;ThreeFold started everything from scratch – built a super-lightweight and shell-less operating system, and a fully autonomous (self-driving and self-healing) architecture to enable a true peer-to-peer infrastructure.  With zero intermediaries on the ThreeFold Grid,  that leads to high efficiency and minimum complexity.&lt;!--  --&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The blockchain database (BCDB) acts as a registry for the workloads on the Threefold Grid. Workloads can only be accessed and managed with the private key of the data owner. The BCDB can prove to any party that their workloads are executed exactly as intended and that their data is untouched.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In most distributed systems, data is stored multiple times to guarantee redundancy. This leads to a lot of unnecessary overhead and is also not the most secure mechanism. ThreeFold uses a dispersed storage algorithm to store the workloads on the ThreeFold Grid. &lt;!--  --&gt;The dispersed storage algorithm breaks data into shards and stores them on different nodes.&lt;!--  --&gt; This enables two things – first, performance efficiency (no need for consensus to run compute and storage) and second, energy efficiency (as there’s no more need for data duplication).
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;As mentioned up top, we have many partners in the space and we are working with them to bring true decentralization to their blockchains.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;threefold-had-no-ico-nor-ieo-it-pre-farmed-its-tokens&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-had-no-ico-nor-ieo-it-pre-farmed-its-tokens&quot; aria-label=&quot;Anchor link for: threefold-had-no-ico-nor-ieo-it-pre-farmed-its-tokens&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold had no ICO nor IEO. It pre-farmed its tokens&lt;&#x2F;h2&gt;
+&lt;p&gt;ThreeFold didn’t have an ICO or IEO. ICOs and IEOs are fundraising schemes for blockchains to sell tokens to investors either directly (ICO) or through regulated exchanges (IEO). Instead, ThreeFold pre-farmed (ThreeFold’s sustainable alternative to mining) its tokens prior to going to the market and listed them on several exchanges, public and decentralized.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This allowed ThreeFold to incentivize its early contributors, while also securing the ongoing development of the project until the launch of the Threefold Grid 2.0 in April 2020. Pre-mining is also an organic approach to the market, in line with ThreeFold’s values and vision of delivering products over using hype.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;product-over-hype&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#product-over-hype&quot; aria-label=&quot;Anchor link for: product-over-hype&quot;&gt;🔗&lt;&#x2F;a&gt;Product over Hype&lt;&#x2F;h2&gt;
+&lt;p&gt;In some cases, ICOs and IEOs were surrounded with hype. It is always very hard to judge the ability of a project to deliver its promises through a white paper.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Instead of fundraising with a white paper, the technological development remained the primary focus. For 4 years, ThreeFold developed the whole technology stack, starting with an operating-system built from scratch to the autonomous smart contract and virtual system administrator technology that enables a fully-autonomous peer-to-peer Cloud. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In 2020, ThreeFold held the public launch of the ThreeFold Token on Liquid Exchange. At that time, the ThreeFold Grid was already live in its 2nd version.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Today, you can go through the whole Threefold Universe and find ready-to-use products. You can participate in growing the world’s most advanced peer-to-peer Internet infrastructure, or use the peer-to-peer compute and storage capacity available on the P2P Cloud.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Q1 Highlights</title>
+		<published>2021-04-02T00:00:00+00:00</published>
+		<updated>2021-04-02T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfq12021recap/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfq12021recap/</id>
+		<content type="html">&lt;p&gt;Here’s a quick look at the first three months of 2021 for ThreeFold:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+🚀 The TF Grid technology made huge steps forward (v2.4, v2.5, eVDC, QSFS, Marketplace, &amp;amp; more)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+👯‍♀️ Our digital avatar called Digital Twin nears testing phase
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+✅ 3Node Pre-Order Batch 1 of 2021 has closed (welcome, new farmers!)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;info&#x2F;threefold#&#x2F;threefold__q12021recap&quot;&gt;here&lt;&#x2F;a&gt;, with more details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Digital Twin v1 is Coming!</title>
+		<published>2021-02-19T00:00:00+00:00</published>
+		<updated>2021-02-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/digitaltwincoming/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/digitaltwincoming/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Recreate your digital life with Digital Twin.&lt;&#x2F;strong&gt; Where only you own your data, and no one else.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The first version of Digital Twin is coming soon and will bring private and secure messaging and video calling. After that, we’ll bring you a way to store your files – and much more.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Better Understanding of Wealth</title>
+		<published>2021-01-27T00:00:00+00:00</published>
+		<updated>2021-01-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/a-better-understanding-of-wealth/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/a-better-understanding-of-wealth/</id>
+		<content type="html">&lt;h1 id=&quot;a-better-understanding-of-wealth&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-better-understanding-of-wealth&quot; aria-label=&quot;Anchor link for: a-better-understanding-of-wealth&quot;&gt;🔗&lt;&#x2F;a&gt;A better understanding of wealth&lt;&#x2F;h1&gt;
+&lt;br&gt;
+&lt;p&gt;Wealth is more than the accumulation of money and resources. It can be generated in ways other than through conventional financial means. The financial justice warrior, Bernard Liataer, highlighted that to capture the wealth of our societies, our culture and our environments, we have to pay heed to the notion of wealth as well-being.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;But how do we obtain that well-being? We all know the answer to this question – we have a sense of well-being when all of our needs are met. It is not just the basic needs of food, clothing and shelter but also the need to be a creative participant in our community, have a voice in our own destiny, and pursue our own spiritual development unhindered by social sanction. Developing real wealth implies making choices that enable all members of the community to attain well-being. Achieving sustainable wealth implies meeting the present’s needs without compromising the ability of future generations to meet their own needs.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Digital Twin has been created while taking into consideration the different types of community capital that need to be achieved to create real wealth: &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;Natural Capital - It includes the community environment that produces more assets. Our today’s economies failed to measure, understand and account for the true value of nature’s riches - clean air and water, soil and pollination for food, the social, intrinsic and spiritual values of natural beauty. Digital Twin will be the tool for us to place a proper value on Natural capital finally. &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Technological Capital – It includes how we harness our intellectual resources to create tools, systems, machines, arts, skills, and materials designed to improve our lives. This is what Digital Twin is all about - providing the required technology to enhance our lives and those of our communities’ members through collective efforts and intelligence. Digital Twin is only the foundation for this future global well-being. People will support education and creativity throughout the world and give access to material information required to create additional innovative technologies.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Social Capital – It recognizes the economic importance of all the ways we are connected: the relationships, our networks and values we share and the cooperative systems, and all its different components we use for interacting. Nowadays, our social capital is threatened through the repetitive act of violence, betrayal of trust, exclusion or less sharing and caring towards our fellow humans. Digital Twin has been created to encourage the easy sharing and exchange of resources and cooperate with each other on a platform.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Historical and Cultural Capital – Through history, we have learned, and now we are transmitting our cultural understanding and recommendation about the economic and financial system to others through an open-source, public and transparent peer-to-peer exchange protocol.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;Human Capital – It includes all capabilities that people have to learn, invent, create, work, care for each other, and contribute to the community. This is the reason why Digital Twin has been created - A project to benefit us all.
+&lt;br&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Financial Capital – It is the creation of real wealth through the availability of liquidity resources through a multi-currency system and Savings &amp;amp; Investments made by individuals and institutions. By strengthening and increasing this type of capital, our peer-to-peer platform believes that it is the obvious path to a successful economic development.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&gt;
+&lt;p&gt;All of these forms of capital produce the critical flows of assets through the economic system. Capital is the foundation, the reproductive system, the greenhouse that grows a healthy economy. This has been one of the fundamental beliefs of Digital Twin - For the well-being of worldwide communities. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Actually, you are the product</title>
+		<published>2021-01-27T00:00:00+00:00</published>
+		<updated>2021-01-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/actually-you-are-the-product/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/actually-you-are-the-product/</id>
+		<content type="html">&lt;h1 id=&quot;actually-you-are-the-product&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#actually-you-are-the-product&quot; aria-label=&quot;Anchor link for: actually-you-are-the-product&quot;&gt;🔗&lt;&#x2F;a&gt;Actually, you are the product&lt;&#x2F;h1&gt;
+&lt;br&gt;
+&lt;p&gt;Now more than ever with this global pandemic happening since late 2019, our lives are being shaped by our interaction with the digital world - work meetings on Zoom followed by Skype or Messenger Video Call with your family before a quick run with your favourite running app and a google search for your next meal. Technologies and services offer us a lot and greatly improve our daily lives. But what’s the real cost of these tools we rely on so much? &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;A lot of companies, especially those offering free services, collect data about you. It might be data you knowingly and willingly share to enjoy the benefits of the service (name, age, email address,..) or data that you might not realize you are sharing, like your approximate location through your IP address or your social network identifier or apps accessing your contacts. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;While some of this data, and its collection, may appear harmless to some, what happens behind the scenes is a real source of concern as the data collection is only the first step in a long and opaque process. Adtech companies combine this information and create an assumed picture of you that we may call a digital doppelganger - Your “digital secret identity”. Actually, you may have hundreds or thousands of different doppelgangers held by companies you’ve never heard of. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Our data are so valuable that big tech giants spend so much time and effort building the platform that is useful for us and giving those platforms to us for free. Well, this data is collected for a single purpose: to better predict your behaviour and target you with ads. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Real example: &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Imagine a person who has never talked about their political views online, never shared anything related to politics, never donated any money and never mentioned anything even in their private emails. Now the algorithms models that had been developed can analyse his&#x2F;her Facebook likes or the music he&#x2F;she listen to and with high accuracy can predict their political affiliation, and then being the target of unnecessary ads. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;P.S: This is not only for political affiliation. It stands out for every products and service using these marketing tools. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Technology isn’t just hardware and software; it’s a fundamental component of every aspect of our lives and society. Inventions need to be created with social impact in mind. The invention should not be driven solely by profit, and the long-term effects should not be ignored and unknowable. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;If you are not paying for it, you are not the customer. You are the product being sold. It’s a powerful phrase, a modern dialogue to get people rethinking their relationship to social media. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;With Digital Twin, regain your freedom where you will live your digital life securely and privately. Now, you will have one and unique digital identity to interact in human-to-human way with your peers, edit, manage and store your documents, publish your web and make automatic payments. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;With Digital Twin, only you own your data and no one else.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Why should I care? </title>
+		<published>2021-01-27T00:00:00+00:00</published>
+		<updated>2021-01-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/why-should-i-care/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/why-should-i-care/</id>
+		<content type="html">&lt;h1 id=&quot;why-should-i-care&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-should-i-care&quot; aria-label=&quot;Anchor link for: why-should-i-care&quot;&gt;🔗&lt;&#x2F;a&gt;Why should I care?&lt;&#x2F;h1&gt;
+&lt;br&gt;
+&lt;p&gt;Do you remember when you could create your own safe space and decide what others see and know? Now, whether you are at home, in the middle of a city, or hiking a mountain, you’re never really alone. More and more, the technology we used is connected to the internet. Cars, fridges, energy meters, even baby monitors send out data about you and your family 24&#x2F;7 beyond your control.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;h2 id=&quot;behind-the-scene&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#behind-the-scene&quot; aria-label=&quot;Anchor link for: behind-the-scene&quot;&gt;🔗&lt;&#x2F;a&gt;Behind the scene&lt;&#x2F;h2&gt;
+&lt;br&gt;
+&lt;p&gt;This data is collected for spurious purposes: to better predict your behaviour and target you with ads. The targeted advertising ecosystem, using trackers included in the sites you visit and Software Development Kits (SDKs) in the apps you use, aims to get a better picture of you to present you with more relevant ads.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;But it doesn’t stop there. The ad tech ecosystem has one main feature: connecting companies to you through an opaque and technically complex infrastructure, allowing almost anyone to enter the data collection and exchange market. Moreover, this means any companies can participate in processes such as Real-Time Bidding (an automated process that enables advertisers to target particular groups of people on different websites, videos, apps without having to negotiate prices directly), only to collect data and never display ads. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;This means that companies, such as two AdTech companies that track your activities on a different set of sites, can grab data from each other to consolidate the data and profiles they have on people. Consequently, companies participating in this ecosystem (or sometimes on their own) can sell your data to clients that may not be using it to try and sell you stuff. This is the unhealthy and unsustainable digital cycle that we live in.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;br&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Given these examples, it is not hard to imagine that your personal data can be used to influence the price of products and services proposed to you, particularly from companies and institutions. &lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;So, let’s join forces together and, as a community, reclaim our freedom and get back ownership of your data. With Digital Twin, you are at the centre of your digital world. No one else. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

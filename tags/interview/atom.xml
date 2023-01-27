@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - interview</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/interview/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-04-05T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/interview/atom.xml</id>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! April 5th, 2022 (Vol 13)</title>
+		<published>2022-04-05T00:00:00+00:00</published>
+		<updated>2022-04-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/weekly-vol-13/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/weekly-vol-13/</id>
+		<content type="html">&lt;h2 id=&quot;major-threefold-news&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#major-threefold-news&quot; aria-label=&quot;Anchor link for: major-threefold-news&quot;&gt;🔗&lt;&#x2F;a&gt;Major ThreeFold News:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Last week, Gulf Land Property hosted the  &lt;strong&gt;Paradise Hills Award Gala with over 160 people&lt;&#x2F;strong&gt;  including home owners, contractors and supporting project developers. During the Gala, ThreeFold’s  &lt;strong&gt;Adnan Fatayerji and Weynand Kuijpers&lt;&#x2F;strong&gt;  had the chance to present ThreeFold to the audience with an overwhelmingly positive response and support. Moreover, the two co-founders accepted  &lt;strong&gt;an award for ThreeFold&lt;&#x2F;strong&gt;  as an  &lt;strong&gt;integral technology partner&lt;&#x2F;strong&gt;  of Paradise Hills Development and establishing the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;news&#x2F;post&#x2F;paradise_hills&#x2F;&quot;&gt;world’s first community-driven cloud&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;ThreeFold co-founder  &lt;strong&gt;Adnan Fatayerji&lt;&#x2F;strong&gt;  joined the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;wu-vf1H-zQ0&quot;&gt;BlockHash Podcast&lt;&#x2F;a&gt; to share all about ThreeFold and to discuss decentralization. It’s a great interview,  &lt;strong&gt;covering all ThreeFold essentials&lt;&#x2F;strong&gt; . Well done, Adnan!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;community-updates&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#community-updates&quot; aria-label=&quot;Anchor link for: community-updates&quot;&gt;🔗&lt;&#x2F;a&gt;Community updates:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mik&lt;&#x2F;strong&gt;  from Canada shared about his experiences as a DIY farmer and how he is  &lt;strong&gt;leading the way&lt;&#x2F;strong&gt;  by providing  &lt;strong&gt;big-time support&lt;&#x2F;strong&gt;  for the ThreeFold Farming community. Watch the inspiring conversation between Mik and Sam &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=IE5E1mCVdqk&amp;amp;t=2s&quot;&gt;here&lt;&#x2F;a&gt;. &lt;em&gt;If you’re a community member interested in sharing your story in a similar format, let us know in the comments below &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;looking-for-farmer-stories-to-share-with-the-world&#x2F;2398?u=hannahcordes&quot;&gt;this post&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;A big thank you to those who registered to become validators of the ThreeFold Grid for being vital members of our community and securing the Grid! There are only  &lt;strong&gt;8 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l2-validator-node&#x2F;1864&quot;&gt;L2&lt;&#x2F;a&gt; and 1 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l0-validator-nodes&#x2F;1866&quot;&gt;L0&lt;&#x2F;a&gt; validator spots remaining&lt;&#x2F;strong&gt;. Take a look &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;stake_tft_become_validator&#x2F;&quot;&gt;here&lt;&#x2F;a&gt; if you’d like to learn how to stake TFT and become a validator.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;technology-developments&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#technology-developments&quot; aria-label=&quot;Anchor link for: technology-developments&quot;&gt;🔗&lt;&#x2F;a&gt;Technology Developments:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We’ve launched a new and improved  &lt;strong&gt;3.0 wallet in the TF Connect app&lt;&#x2F;strong&gt; which includes a TF Chain wallet. Take a look at &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-connect-wallet-v3&#x2F;2565&quot;&gt;this post&lt;&#x2F;a&gt; to find all the details.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;threefold-grid&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-grid&quot; aria-label=&quot;Anchor link for: threefold-grid&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold Grid: &lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;gep-farming-start-price-april-2022&#x2F;2585?u=hannahcordes&quot;&gt;new Grid Enhancement Proposal&lt;&#x2F;a&gt;, the Grid Council proposed the &lt;strong&gt;farming start price of 0.08 USD in April&lt;&#x2F;strong&gt;. Thank you all for voting, this GEP has &lt;strong&gt;passed with 89%&lt;&#x2F;strong&gt; of our community voting in favour, meaning the farming start price for April will be 0.08 USD. Please remember that the minting payout for March 2022 will be executed on the 8th of April instead of the 5th of April.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Have you migrated your 3Nodes from V2 to V3 yet?&lt;&#x2F;strong&gt; If not, please do it asap as &lt;strong&gt;it’s our collective responsibility&lt;&#x2F;strong&gt; to fully bring the ThreeFold Grid to its latest version. Also, it’s crucial for you to log in V3 farming rewards, so finish the migration process via ThreeFold Connect as explained &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;farming-migration-grid-v2-v3&#x2F;2143?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Titan 3Node orders continue to be shipped all over the world. If you have specific questions about your order, please get in touch with the support team!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Until next time, ThreeFolders! 🙌 &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can find the latest edition &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;weekly_vol_12&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;. For older editions of ThreeFold Weekly, go to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;our forum&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Interview on the BlockHash Podcast</title>
+		<published>2022-03-30T00:00:00+00:00</published>
+		<updated>2022-03-30T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-blockhash-pod/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-blockhash-pod/</id>
+		<content type="html">&lt;p&gt;🎙 &lt;strong&gt;Podcast Alert&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In case you missed it, ThreeFold co-founder Adnan Fatayerji just finished up an interview on the BlockHash Podcast.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;youtu.be&#x2F;wu-vf1H-zQ0&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;This is a great share for audiences outside of the ThreeFold community as the interview covered the full scope of the project. Well done, Adnan!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Weekly! March 29th, 2022 (Vol 12)</title>
+		<published>2022-03-29T00:00:00+00:00</published>
+		<updated>2022-03-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/weekly-vol-12/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/weekly-vol-12/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;We have a new format for ThreeFold Weekly, now on our blog. If you’d like to review any of the first eleven editions, please find them on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;our forum&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;major-threefold-news&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#major-threefold-news&quot; aria-label=&quot;Anchor link for: major-threefold-news&quot;&gt;🔗&lt;&#x2F;a&gt;Major ThreeFold News:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Members of the ThreeFold team attended the &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;mobile.twitter.com&#x2F;threefold_io&#x2F;status&#x2F;1507009092165853185&quot;&gt;World Blockchain Summit&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; in Dubai. Over two days we exchanged with countless people and their reactions were unanimous – ThreeFold is undeniably one of the most exciting projects in the blockchain space. We’re excited to join many more events this year to drive the ThreeFold movement forward!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;world_blockchain_summit.png&quot; alt=&quot;World Blockchain Summit 2022 in Dubai&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Yesterday, we participated in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;gitlab.com&#x2F;gaia-x&#x2F;gaia-x-community&#x2F;gx-hackathon&#x2F;gx-hackathon-3&#x2F;-&#x2F;wikis&#x2F;GX-Hackathon-3#track-6-deployment-of-ecosystems-minimal-viable-gaia-x-track&quot;&gt;6th track&lt;&#x2F;a&gt; of the &lt;strong&gt;Gaia-X Hackathon&lt;&#x2F;strong&gt;. Our tech gurus Geert and Weynand presented &lt;strong&gt;ThreeFold&lt;&#x2F;strong&gt; and guided participants through the deployment of workloads on ThreeFold Cloud in a &lt;strong&gt;hands-on session&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold was &lt;strong&gt;featured in the news twice&lt;&#x2F;strong&gt; last week:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;authority-magazine&#x2F;the-future-is-now-kristoff-de-spiegeleer-of-threefold-on-how-their-technological-innovation-will-7acc0e51c365&quot;&gt;The Future Is Now: Kristof De Spiegeleer Of ThreeFold On How Their Technological Innovation Will Shake Up The Tech Scene&lt;&#x2F;a&gt; (Interview with Authority Magazine)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;coincheckup.com&#x2F;blog&#x2F;threefold-is-the-decentralized-web-the-future-of-the-internet&#x2F;&quot;&gt;ThreeFold: Is the Decentralized Web the Future of the Internet?&lt;&#x2F;a&gt; (Coverage on CoinCheckup Blog)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;community-updates&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#community-updates&quot; aria-label=&quot;Anchor link for: community-updates&quot;&gt;🔗&lt;&#x2F;a&gt;Community updates:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kyle Ellicott and Kristof de Spiegeleer discussed &lt;strong&gt;how ThreeFold is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5xzwg-CdJNk&quot;&gt;decentralizing the Internet&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; and how it is more relevant than ever before.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;We’re collecting &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;looking-for-farmer-stories-to-share-with-the-world&#x2F;2398?u=hannahcordes&quot;&gt;farmer stories&lt;&#x2F;a&gt; to &lt;strong&gt;share about the people behind ThreeFold&lt;&#x2F;strong&gt; – a globally diverse community united around the mission of building an open-source, peer-to-peer Internet, owned by humanity.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Only &lt;strong&gt;8 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l2-validator-node&#x2F;1864&quot;&gt;L2&lt;&#x2F;a&gt; and 3 &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;procedure-to-register-your-l0-validator-nodes&#x2F;1866&quot;&gt;L0&lt;&#x2F;a&gt; validator spots remain&lt;&#x2F;strong&gt;. We are grateful to know that the people behind the validators believe in a decentralized future and want to take part in a meaningful way. Learn how to stake TFT and become a validator &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;stake_tft_become_validator&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;technology-developments&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#technology-developments&quot; aria-label=&quot;Anchor link for: technology-developments&quot;&gt;🔗&lt;&#x2F;a&gt;Technology Developments:&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;announcement-of-tfgrid-3-0-0-a5&#x2F;2522?u=hannahcordes&quot;&gt;ThreeFold Grid version 3.0.0 A5&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; was released on Devnet. Testnet will follow soon.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;TF Grid v3.0 A5 will support &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;dedicated-node-support&#x2F;2521&quot;&gt;dedicated nodes&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;threefold-grid&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-grid&quot; aria-label=&quot;Anchor link for: threefold-grid&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold Grid: &lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hurry up and migrate your 3Nodes from V2 to V3&lt;&#x2F;strong&gt;. As a &lt;strong&gt;decentralized community, it’s our collective responsibility&lt;&#x2F;strong&gt; to ensure we’re powering the latest version of our technology for feature and security reasons. Follow the migration process via ThreeFold Connect &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;farming-migration-grid-v2-v3&#x2F;2143?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Please remember that the minting payout for March 2022 will be executed on the 8th of April instead of the 5th of April.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;We created a &lt;strong&gt;new &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;new-pricing-calculator-and-suggested-price-change&#x2F;2520&quot;&gt;pricing calculator&lt;&#x2F;a&gt; for TF Grid deployments&lt;&#x2F;strong&gt; and are looking for &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;pricing-for-tfgrid&#x2F;2518&#x2F;3&quot;&gt;feedback&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;3Node deliveries to all parts of the world continue. If you ordered a Titan recently, please fill in this  &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;farming-migration-grid-v2-v3-open-unshipped-orders&#x2F;2144&quot;&gt;specific migration process&lt;&#x2F;a&gt; to ensure quick delivery.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;See you next week, everyone!  🙌 &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;You can find all earlier editions of ThreeFold Weekly along with the ThreeFold Product Updates &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;41&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Interviewed by Authority Magazine</title>
+		<published>2022-03-25T00:00:00+00:00</published>
+		<updated>2022-03-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-authority-mag/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-authority-mag/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Learn more about ThreeFold through the Lens of Co-Founder and Tech visionary Kristof de Spiegeleer. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“Today it’s like a war on data as it became more valuable than oil and that’s what needs to go back to the people. Our data should be ours and on an Infrastructure we co-own.” 🌎&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;The Future Is Now: Kristof De Spiegeleer Of ThreeFold On How Their Technological Innovation Will Shake Up The Tech Scene, via Authority Magazine.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full interview &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;authority-magazine&#x2F;the-future-is-now-kristoff-de-spiegeleer-of-threefold-on-how-their-technological-innovation-will-7acc0e51c365&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Conversation with Jeroen Douglas</title>
+		<published>2022-02-22T00:00:00+00:00</published>
+		<updated>2022-02-22T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/jeroen-conversation/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/jeroen-conversation/</id>
+		<content type="html">&lt;p&gt;👂 &lt;strong&gt;Lend us your ear!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Is it possible to make a password-free Internet for one dollar owned by data smallholders? How to overcome the digital divide and reclaim the Internet from big tech?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;An enlightening conversation between ThreeFold co-founder Weynand Kuijpers and Solidaridad Network (ThreeFold partner) Executive Director Jeroen Douglas. 👇&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.buzzsprout.com&#x2F;1733439&#x2F;10113617&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Recently, we re-engaged with Solidaridad around their Fair Data initiative. &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;solidaridad-revival&#x2F;2158&quot;&gt;Take a look&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Satoshi Street Bets x ThreeFold AMA</title>
+		<published>2021-06-14T00:00:00+00:00</published>
+		<updated>2021-06-14T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/satoshi-street-bets/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/satoshi-street-bets/</id>
+		<content type="html">&lt;p&gt;Last week, ThreeFold team members Weynand Kuijpers, Maximilian Rang, and Nickolay Babenko joined Satoshi Street Bets for an Ask Me Anything (AMA) to share ThreeFold with their community and expand awareness for the project.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;They covered a wide range of topics including ThreeFold’s beginnings, the vision, some comparisons to other projects, and really went deep into the technology.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;You can listen to the AMA recording &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AIDRHaxZmzU&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt; And you can find Satoshi Street Bets on Telegram &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;satoshistreetbets&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold on Corporate Unplugged Podcast</title>
+		<published>2021-03-16T00:00:00+00:00</published>
+		<updated>2021-03-16T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-corporateunplugged/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-corporateunplugged/</id>
+		<content type="html">&lt;p&gt;Listen to ThreeFold co-founder Kristof de Spiegeleer &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;corporateunplugged.com&#x2F;kristof-de-spiegeleer&#x2F;&quot;&gt;on the Corporate Unplugged podcast&lt;&#x2F;a&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Corporate Unplugged puts the light on impact makers in business, with past guests such as Simon Sinek &amp;amp; Seth Godin.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Join the Conversation - The Cyber Pandemic is Here</title>
+		<published>2021-01-28T00:00:00+00:00</published>
+		<updated>2021-01-28T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cyber-pandemic-convo/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cyber-pandemic-convo/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The cyber pandemic is here, but it’s not too late!
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Join in on an important discussion next Wednesday with ThreeFold founder, Kristof De Spiegeleer.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Registration: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;swiss-social.com&#x2F;events&#x2F;&quot;&gt;Here&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Related links:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=oe3y-OdNSsw&quot;&gt;The Cyberpandemic has begun&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.interpol.int&#x2F;en&#x2F;News-and-Events&#x2F;News&#x2F;2020&#x2F;INTERPOL-report-shows-alarming-rate-of-cyberattacks-during-COVID-19&quot;&gt;INTERPOL report on COVID-19 cyberattacks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.gcsp.ch&#x2F;global-insights&#x2F;why-cybersecurity-matters-more-ever-during-coronavirus-pandemic&quot;&gt;Why cybersecurity matters more than ever&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

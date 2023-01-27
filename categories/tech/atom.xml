@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - tech</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/categories/tech/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-08-17T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/categories/tech/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Zero People IT is the Future</title>
+		<published>2020-08-17T00:00:00+00:00</published>
+		<updated>2020-08-17T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/zero-people-it-is-the-future/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/zero-people-it-is-the-future/</id>
+		<content type="html">&lt;h2 id=&quot;introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#introduction&quot; aria-label=&quot;Anchor link for: introduction&quot;&gt;🔗&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;the-cost-of-complexity-in-traditional-it&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-cost-of-complexity-in-traditional-it&quot; aria-label=&quot;Anchor link for: the-cost-of-complexity-in-traditional-it&quot;&gt;🔗&lt;&#x2F;a&gt;The “cost” of complexity in traditional IT&lt;&#x2F;h3&gt;
+&lt;p&gt;Classic IT infrastructure setup is complex and is not cost-effective. Applications need a specific environment to operate in, built by integrating different technology components from different vendors. Elements of such a setup are operating systems, storage systems, networks, security systems, authentication systems, and more.&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Putting components together is called (system) integration, and integration requires agreement on how these components will fit together and the knowledge to do it.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This complexity and need for integration originate from the way the IT industry historically developed. With time more and more layers appeared to bring new possibilities. Additional layers masked existing problems. Instead of fixing the underlying issues, several third parties needed to be involved, adding complexity and increased costs (such as license costs, upgrades, updates, etc.). Complexity has become a business model.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;where-can-we-get-inspiration-to-do-it-a-different-way&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#where-can-we-get-inspiration-to-do-it-a-different-way&quot; aria-label=&quot;Anchor link for: where-can-we-get-inspiration-to-do-it-a-different-way&quot;&gt;🔗&lt;&#x2F;a&gt;Where can we get inspiration to do it a different way?&lt;&#x2F;h2&gt;
+&lt;p&gt;What if we could build IT architectures in a different way.  What if we would not accept component solution approaches anymore and start over with a completely blank sheet of paper?  Would we then come up with a different way of actually building automation, architectures, and business models?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;looking-at-nature-for-inspiration&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#looking-at-nature-for-inspiration&quot; aria-label=&quot;Anchor link for: looking-at-nature-for-inspiration&quot;&gt;🔗&lt;&#x2F;a&gt;Looking at nature for inspiration&lt;&#x2F;h3&gt;
+&lt;p&gt;Let’s start by looking for inspiration in nature. Suppose we consider IT systems to be a complex system. Are there parallels that we can draw between systems that exist in nature (and have evolved and improved over thousands of years) and those within the IT industry?
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In nature, we see two kinds of systems (societies): centralized and decentralized systems.  Examples of centralized systems are herds, groups, or schools of animals living together where there is a hierarchy in the way they organize themselves. For decentralized systems, we can look at beehives and anthills.  Organizing efforts and benefits are distinct and come at a different cost.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;centralized-systems-in-nature&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#centralized-systems-in-nature&quot; aria-label=&quot;Anchor link for: centralized-systems-in-nature&quot;&gt;🔗&lt;&#x2F;a&gt;Centralized systems in nature&lt;&#x2F;h3&gt;
+&lt;p&gt;In centralized systems, there is governance of activities, wealth positions, and so forth.  Think of a group of lions or chimpanzees.  There is always an alpha male who is dominant in the whole group.  He is the only that enjoys all of the benefits because the entire group&#x2F;structure works towards his wishes.  He gets to mate with most female group members because the system believes that he has the strongest genes to help the group to survive in the future. The dominant male also gets most of the food gathered by the group, and if he doesn’t get it, he will claim it by showing his dominance and fight for it.  All the others are working towards this alpha male, and all the other males in the group will occasionally challenge the alpha male for dominance.&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This is very similar to how the IT industry has been operating to date:  there are a few alpha males in the industry - one for each sector that can be recognized (for example, in the Cloud Industry, you have Amazon, Google, Microsoft, and on the system integration front you have Dell, Siemens, CA Technologies).  They end up with the majority of businesses available in their specific markets. When challenged by new companies, they fight them (in every way possible, including killing them or acquiring them). And in analogy to the animal group, these alpha male companies have a lot of organizations that work with them, usually called “partners” or “channels.”&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;decentralized-systems-in-nature&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#decentralized-systems-in-nature&quot; aria-label=&quot;Anchor link for: decentralized-systems-in-nature&quot;&gt;🔗&lt;&#x2F;a&gt;Decentralized systems in nature&lt;&#x2F;h3&gt;
+&lt;p&gt;For decentralized systems on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Decentralised_system&quot;&gt;Wikipedia&lt;&#x2F;a&gt;, we learn; “One of the most well-known examples of a “natural” decentralized system is one used by insect colonies such as Ants. In these insect colonies, control is distributed among the biological agents who act upon local information and local interactions to create complex and universal behavior collectively. While individually exhibiting simple behaviors, these agents achieve universal goals such as feeding the colony or raising the brood using dynamical mechanisms like non-explicit communication and exploiting their closely coupled action and perception systems. Without any form of central authority, these insect colonies achieve their universal goals by performing required tasks and by responding to changing conditions in their external environment. They also adjust the number of workers performing each task to ensure the completion of all tasks. For example, ant colonies guide their global behavior (in terms of foraging, patrolling, brood care, and nest maintenance) using a pulsing, shifting web of Spatio-temporal patterned interactions that rely on antennal contact rate and olfactory sensing. While these interactions consist of both interactions with the environment and each other, ants do not direct the behavior of other ants. They thus never have a “central controller” dictating what is to be done to achieve global goals.“
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+So nature has provided us with solid examples of centralized and decentralized systems.  For much of what works in the modern world, we have ended up using the centralized model governing enterprises and countries.  Various industries have also adopted the centralized model where there is a pyramid structure, and everything works towards the alpha males.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;a-different-approach-to-creating-and-operating-it-workloads&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-different-approach-to-creating-and-operating-it-workloads&quot; aria-label=&quot;Anchor link for: a-different-approach-to-creating-and-operating-it-workloads&quot;&gt;🔗&lt;&#x2F;a&gt;A different approach to creating and operating IT workloads&lt;&#x2F;h2&gt;
+&lt;p&gt;What if we can develop a new concept for creating, deploying, and operating IT workloads.  What if we say goodbye to the centralized way of controlling IT workloads.  Can we develop an idea that works in a decentralized way?&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-concept&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-concept&quot; aria-label=&quot;Anchor link for: the-concept&quot;&gt;🔗&lt;&#x2F;a&gt;The concept&lt;&#x2F;h3&gt;
+&lt;p&gt;To build this concept, we will draw the use of the human way of operating a large ship. The crew of a vessel has different roles, which we will call the &lt;em&gt;coordinators&lt;&#x2F;em&gt;. Some of these coordinators could be a captain, officers, engineers, and oilers.  These coordinators have in-depth knowledge of their specific tasks but usually lack a detailed understanding of the other roles. In the “hive” of a ship, the specific requests to get tasks done are sent to coordinators who will receive, interpret, execute their particular tasks, and report the (non-) progress of these tasks or subtasks.  For example, the captain will create and agree to a schedule of maintenance tasks for the engine room. These are daily, weekly and monthly tasks that should be completed by the engineers and oilers. The engineers and oilers do not get continuous input from the captain. They get one instruction to follow the schedule and know what needs to be done for every task. The intermediate state (what is complete and what still needs to be addressed) is stored by the coordinators executing the tasks. This is the most efficient way of accomplishing tasks.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jumping-to-the-it-industry&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#jumping-to-the-it-industry&quot; aria-label=&quot;Anchor link for: jumping-to-the-it-industry&quot;&gt;🔗&lt;&#x2F;a&gt;Jumping to the IT industry&lt;&#x2F;h3&gt;
+&lt;p&gt;If we bring this concept to the IT world, we conclude that today’s IT systems are built in a significantly different way.  Most architectures (if not all) have a central facility that stores &lt;em&gt;all&lt;&#x2F;em&gt; information and &lt;em&gt;all&lt;&#x2F;em&gt; states of activity in a so-called central ‘database.’ A general norm within IT. However, these types of architectures are inefficient and are very complex - like the ship analogy -  a central command room (database) is created where every coordinator needs to report back. (1) The current level of activity, (2) the completion (state) of tasks, (3) the proper understanding of upcoming tasks by the coordinator to accomplish tasks in-progress or future - hence leading to the undesirable outcome of complexity due to centralization. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In the ship example, we deem this type of functioning&#x2F;workflow inefficient; however, in the IT world, it is a common way of doing it.  Furthermore, IT infrastructures usually have different databases to store “state” in different parts of the IT architecture.  The analogy would translate to different command rooms that orchestrate different functions on the ship in our ship. This, in turn, introduces the need for another role in starting coordinating between the different command rooms to ensure that all information is shared and communicated. Taking this pattern forward leads to an endless loop of adding interfaces, layers, bridges between different parts of the system that all store information, multiple times, and in different ways.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;datastores&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#datastores&quot; aria-label=&quot;Anchor link for: datastores&quot;&gt;🔗&lt;&#x2F;a&gt;Datastores&lt;&#x2F;h3&gt;
+&lt;p&gt;By design, a decentralized IT  architecture should not use centralized data storage (databases) for multiple tasks (roles). It instead should feature a similar approach to the way of functioning as in the ‘ship’ example. In this architecture,  roles get short and precise instructions of the jobs to be completed and autonomously execute.  We call these execution engines &lt;em&gt;coordinators&lt;&#x2F;em&gt;.  Coordinators receive instructions, run on instructions and store all information about the current task &lt;em&gt;locally.&lt;&#x2F;em&gt;  They store all the relevant information in a local storage facility (available to the individual coordinators only) and provide information about the state of execution if and when other coordinators ask for a state update.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;magical-coordinator&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#magical-coordinator&quot; aria-label=&quot;Anchor link for: magical-coordinator&quot;&gt;🔗&lt;&#x2F;a&gt;Magical Coordinator&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;requirements-to-let-actor-based-management-work&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#requirements-to-let-actor-based-management-work&quot; aria-label=&quot;Anchor link for: requirements-to-let-actor-based-management-work&quot;&gt;🔗&lt;&#x2F;a&gt;Requirements to let actor based management work&lt;&#x2F;h3&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+* Less complexity
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;State only with the actor itself (no-where else !!!)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Understood language between actors &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Process = recipes of a cook, NOT IN A DB
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;actor-based-it-solutions&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#actor-based-it-solutions&quot; aria-label=&quot;Anchor link for: actor-based-it-solutions&quot;&gt;🔗&lt;&#x2F;a&gt;Actor based IT solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;To simplify common IT architectures, we should look at a   new way of creating such a system that takes the current standards into account:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;No people involved in integrating different components into a single solution&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which, as a consequence, means no revenue generation based on creating and managing complexity.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;No central state &#x2F; operational data storage&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Individual automated actors with specific knowledge for specific tasks&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Independent operating actors completing specific tasks
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Such a system should ideally be owned by many (not just a single organization, bringing centralization back into the equations) that operate IT tasks for many.  We have not seen such a system in existence, but we are as TFTech building and rolling out technology that can do this.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+We believe that IT’s future is in decentralization where specific coordinators (bots) will roam a network of capacity looking for a task to do, making themselves available where needed, creating more of them when the system grows, and allowing the global population to deploy and operate IT workloads.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Decentralizing the Internet</title>
+		<published>2019-08-21T00:00:00+00:00</published>
+		<updated>2019-08-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/decentralizing-the-internet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/decentralizing-the-internet/</id>
+		<content type="html">&lt;h2 id=&quot;decentralization&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#decentralization&quot; aria-label=&quot;Anchor link for: decentralization&quot;&gt;🔗&lt;&#x2F;a&gt;Decentralization&lt;&#x2F;h2&gt;
+&lt;p&gt;In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enables a much easier integration of independent players into the sharing economy.&lt;&#x2F;li&gt;
+&lt;li&gt;Eliminates the need for extensive management and structure of marketplace operators.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-current-internet-is-centralized&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-current-internet-is-centralized&quot; aria-label=&quot;Anchor link for: the-current-internet-is-centralized&quot;&gt;🔗&lt;&#x2F;a&gt;The current Internet is centralized&lt;&#x2F;h2&gt;
+&lt;p&gt;Despite the growth in popularity for decentralized systems, organizations, and currencies, the Internet remains centralized. The centralization within the Internet industry brought many barriers to entry. Indeed, to compete in the highly competitive market of Internet capacity dominated by big IT companies, massive investment, and IT development are needed.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+But what is really scary is that the current industry exploits the market tremendously. Data is officially the most valuable asset on earth for a few years, and about 20 companies rule over more than 80% of the cloud industry. In other words - these companies together have more than 80% of the world’s information. In recent years, we noticed the dangers that can arise with the wrong intentions within the data industry with the ‘Cambridge Analytica Scandal’, also highlighted in the movie &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=iX8GxLP1FHo&quot;&gt;‘The Great Hack’.&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+ThreeFold has been developing technology that allows the decentralization of the Internet infrastructure - removing the need for data centers, and allowing anyone to take part in the Internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). The more decentralized the Internet gets, the more secure and effective it will become. The already is the largest grid of compute and storage in the world.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-participate&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-to-participate&quot; aria-label=&quot;Anchor link for: how-to-participate&quot;&gt;🔗&lt;&#x2F;a&gt;How To Participate&lt;&#x2F;h2&gt;
+&lt;p&gt;The process of becoming a ThreeFold Farmer is very straightforward. Anyone can join the ThreeFold Grid by downloading the ThreeFold Zero-OS onto their nodes and connecting them to the ThreeFold Grid.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By doing this you will become an operator of a “micro data center” and with that earn ThreeFold Tokens. With or without experience in the field, anyone can become a ThreeFold Farmer. By becoming a ThreeFold Farmer, you empower a new neutral Internet that belongs to humanity - not corporations.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+You can build your server (3node) and configure it, but also options for people with less technical knowledge are available. Please see &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;pre-register.threefold.io&quot;&gt;pre-register.threefold.io&lt;&#x2F;a&gt; to see how easy it is for anyone to become a ThreeFold Farmer.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Blog written in 2019, updated January 2021.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Solving the Blockchain Dilemma</title>
+		<published>2018-03-07T00:00:00+00:00</published>
+		<updated>2018-03-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/blockchain-dilemma/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/blockchain-dilemma/</id>
+		<content type="html">&lt;h2 id=&quot;introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#introduction&quot; aria-label=&quot;Anchor link for: introduction&quot;&gt;🔗&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world, with countless use cases.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In general, there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They are consensus algorithms on how transactions are verified and added to the ledger (forever, as blockchains provide an immutable record of events). More on these two types of blockchains below.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockchain-basics&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#blockchain-basics&quot; aria-label=&quot;Anchor link for: blockchain-basics&quot;&gt;🔗&lt;&#x2F;a&gt;Blockchain Basics&lt;&#x2F;h2&gt;
+&lt;p&gt;A blockchain is, as the word says, a chain of blocks of information. These “blocks” contain information on transactions. For instance transactions like the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;private-permissioned-or-public-blockchains&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#private-permissioned-or-public-blockchains&quot; aria-label=&quot;Anchor link for: private-permissioned-or-public-blockchains&quot;&gt;🔗&lt;&#x2F;a&gt;Private, Permissioned or Public Blockchains&lt;&#x2F;h2&gt;
+&lt;p&gt;The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By running blockchain software under the supervision of one entity (private, centralized) you can quite easily make sure the information stored in the blockchain (transactions) are not tempered with by only operating a small number of nodes and deploying them in very safe physical locations (private data-centers, vaults, basements of offices, etc). A private blockchain does not allow unknown entities to join and run the blockchain software.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A permissioned blockchain is operated by known entities such as stakeholders of a given industry. It is a mix of both private and public blockchains. In this type of blockchain network, a participant may not need permission to join the network but needs permission to transact with another network participant.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A public blockchain allows anyone to join the blockchain operation and create a new blockchain node. The blockchain is run by multiple entities (decentralized, public) that have no relationship nor knowledge about each other 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+For these three types of blockchains, there are different mechanisms to protect and guarantee the validity of transactions and make them tamper-proof.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;private-data-and-anonymous-or-pseudo-anonymous-data&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#private-data-and-anonymous-or-pseudo-anonymous-data&quot; aria-label=&quot;Anchor link for: private-data-and-anonymous-or-pseudo-anonymous-data&quot;&gt;🔗&lt;&#x2F;a&gt;Private Data and Anonymous or Pseudo-Anonymous Data?&lt;&#x2F;h2&gt;
+&lt;p&gt;For private blockchains, it is straightforward to see that all data that is stored on private blockchains is private and creates 100% anonymity for its users. The only entity or person that has access to information stored on the blockchain is the blockchain operator. This is comparable to how a bank operates. The bank knows everything about all of its customers and the customers only know about themselves - the non-bank customers do not know a thing.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+On a public blockchain, people can join and operate a blockchain node on which all information of that blockchain is stored. While private blockchains get their security from putting their blockchain nodes in secure buildings operated by trusted people a public blockchain achieves its security from having a large number of nodes that have the same data replicated over and over. A consensus algorithm is required in order to accept new data (new blocks) to the chain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consensus-protocols-for-public-blockchains&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#consensus-protocols-for-public-blockchains&quot; aria-label=&quot;Anchor link for: consensus-protocols-for-public-blockchains&quot;&gt;🔗&lt;&#x2F;a&gt;Consensus Protocols for Public Blockchains&lt;&#x2F;h2&gt;
+&lt;p&gt;The main consensus protocols used today are Proof-of-Work and Proof-of-Stake.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;proof-of-work-high-cost-in-compute-and-energy&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#proof-of-work-high-cost-in-compute-and-energy&quot; aria-label=&quot;Anchor link for: proof-of-work-high-cost-in-compute-and-energy&quot;&gt;🔗&lt;&#x2F;a&gt;Proof of Work (High Cost in Compute and Energy)&lt;&#x2F;h3&gt;
+&lt;p&gt;The proof of work consensus protocol is best explained as a race. The consensus is achieved by having all participating nodes solve a puzzle. The puzzle is a one-way translation of an amount of information consisting of the following items:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;All the data that present the transactions in the block - all the data is known by all participating nodes&lt;&#x2F;li&gt;
+&lt;li&gt;The number of the previous block. Remember a blockchain links blocks of information together.&lt;&#x2F;li&gt;
+&lt;li&gt;A (variable) number. This number is the part that can be changed.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The “work” is done by changing the variable number and see what the translation of all data brings. The translation of all this data is a new number, and the requirement is that that number needs to be smaller than what is known as the “difficulty level”. The difficulty level number has a fixed amount of numbers but when the first digits of the number are zero the overall number is lower. So a higher difficulty is built by having a number that has more zeros at the start in the difficulty number.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Once the block is completed, all nodes will get the complete block of transactional data, everyone knows the previous block number and will start to change the variable number to get output from the puzzle algorithms comparing it to the required difficulty level.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The node that will find the number first will announce that it has found a solution matching the required difficulty level and the variable number of shared with all nodes in the network to verify that his solution is correct. If a large portion of the nodes has verified the solution to be valid the solution is accepted and the block is added to the chain because consensus is reached.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;proof-of-block-stake-low-cost-in-compute-and-energy&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#proof-of-block-stake-low-cost-in-compute-and-energy&quot; aria-label=&quot;Anchor link for: proof-of-block-stake-low-cost-in-compute-and-energy&quot;&gt;🔗&lt;&#x2F;a&gt;Proof of (Block) Stake (Low Cost in Compute and Energy)&lt;&#x2F;h3&gt;
+&lt;p&gt;With proof of stake consensus algorithms, the consensus algorithm does not solve puzzles in a race to be the first. The first step is to identify and allow a certain number of nodes to be part of the blockchain. This is called a permissioned blockchain because you need to have permission to partake. This permission is given by distributing stakes.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Proof of Stake consensus mechanism is solving a puzzle, but the puzzle contains only static elements - not variables - based on different characteristics:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The block number&lt;&#x2F;li&gt;
+&lt;li&gt;The content (part) of blocks a long time ago (&amp;gt;2000 blocks)&lt;&#x2F;li&gt;
+&lt;li&gt;The transaction number (between the first and the last transaction) in the block of the stake transfer transaction all participating nodes needs to&lt;&#x2F;li&gt;
+&lt;li&gt;The current timestamp
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+All these numbers are fixed but the time stamp and every node in the block stake blockchain will solve this puzzle every second until the output of this puzzle matches the required difficulty level. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+To make sure the one node that has solved the puzzle to match the difficulty level cannot introduce information in the block which allows him to tamper with the next blocks this node cannot use his used stake for a period amount of time for creating new blocks.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The fact that the puzzle-solving includes historic block data and once a node is assigned to create the block and put it on a chain will not be able to use that block state for a period of time makes it very costly to try to tamper with the content of the block (and the next blocks). &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-blockchain-dilemma-problem&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-blockchain-dilemma-problem&quot; aria-label=&quot;Anchor link for: the-blockchain-dilemma-problem&quot;&gt;🔗&lt;&#x2F;a&gt;The Blockchain Dilemma Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all. If we list the specifics of both we end up with a table like this:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+| * | Public Blockchains | Private Blockchains |
+|—|—|—|
+| Security | Provided by having a large number of nodes running it | Provided by having them in secure controlled places | 
+| People | Build, managed and controlled by unknown people | Build, managed, and controlled by known people |&lt;br &#x2F;&gt;
+| Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+So what if we want to have a secure, performant, and easy to manage blockchain solution?  This is not what can be delivered by either type of blockchains.  We have to create a new type of blockchain that combines the best of both worlds and delivers.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The key element in finding a solution for this problem is to take the human element out of it.  The fact that when you deploy blockchains solutions in locations without human intervention means that you need to create a different deployment mechanism that takes out people touching code, compiling code, deploying code, and in the end operating the machine in which the code runs.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A way to get around the trusted people problem is to select a platform on which software can be downloaded, compiled, installed, and operated without human intervention.  Such a platform is a unique platform that has not been developed and launched. Such a platform would have to have the following characteristics. To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zero-OS&lt;&#x2F;strong&gt;: A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;3Bot&lt;&#x2F;strong&gt;: A virtual system administrator that is able to perform system administration tasks to make the system operate, self-heal and execute instructions from authenticated and authorized sources.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Zero-Chain&lt;&#x2F;strong&gt;: A ledger or database to store information with regards to authentication, operational and financial transactions.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In such architecture, we can build and deploy a high-performance secure blockchain which are the combined benefits of a public and private blockchain.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

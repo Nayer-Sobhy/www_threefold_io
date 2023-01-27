@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - victoria_obeegadoo</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/people/victoria-obeegadoo/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-20T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/people/victoria-obeegadoo/atom.xml</id>
+	<entry xml:lang="en">
+		<title>🔍 TF Product Focus - Dedicated Nodes on TF Dashboard</title>
+		<published>2023-01-20T00:00:00+00:00</published>
+		<updated>2023-01-20T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-focus-nodes/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-focus-nodes/</id>
+		<content type="html">&lt;p&gt;Sasha leads us through some updates released as a part of TFGrid v3.8.0, focusing on new improvements implemented to TFDashboard’s Dedicated Node Feature. These include UX and node listing data fetch speed improvements, as well as a feature allowing users to ‘unreserve’ a dedicated node.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Find more &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-product-focus-tfdashboards-dedicated-nodes-tfgrid-v3-8-0&#x2F;3723&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🌟 Spotlight - Terraform on the ThreeFold Grid</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/terraform-spotlight/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/terraform-spotlight/</id>
+		<content type="html">&lt;p&gt;Looking for a fun weekend activity? Why not try to deploy Terraform on the Grid?&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Terraform is an open-source tool that enables users to define and provision infrastructure using a simple programming language, across multiple cloud providers, and on-premises environments. It automates the process of creating, updating, and deleting resources.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;By using easy-to-follow guides shared by our fellow community member, Drew, you’ll be set up within a few steps! 🙌 &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find them here:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;are-you-ready-to-create-your-first-terraform-deployment-heres-how&#x2F;3670&quot;&gt;Are you Ready To Create Your First Terraform Deployment, Here’s How!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-do-i-create-a-multi-node-terraform-deployment-in-2023-explained&#x2F;3669&quot;&gt;How Do I Create a Multi-Node Terraform Deployment in 2023? Explained&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-deploy-a-terraform-example-configuration-on-the-threefold-grid-from-linux-in-7-steps&#x2F;3672&quot;&gt;How To Deploy A Terraform Example Configuration on the Threefold Grid from Linux in 7 steps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;deploying-an-example-configuration-with-terraform-on-windows-using-putty-in-7-steps&#x2F;3671&quot;&gt;Deploying an Example Configuration with Terraform on Windows Using Putty In 7 Steps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Besides, you can watch the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-tech-hangout-01-09-23-call-recording&#x2F;3683&quot;&gt;Tech Help Call recording&lt;&#x2F;a&gt; to learn from Scott &amp;amp; Drew’s discussion around this topic.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to Drew for these amazing resources!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 January&#x27;s ThreeFold Product Updates</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-jan23/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-jan23/</id>
+		<content type="html">&lt;p&gt;While TF Grid 3.8 is almost ready for testnet release, some super exciting solutions and improvements are in development as a part of TF Grid 3.8.1, including:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;🤖 The Farmerbot able to manage capacity planning and power management.&lt;&#x2F;p&gt;
+&lt;p&gt;📃 A Farming &#x2F; Minting Report Feature for farmers to receive clear information about their income.&lt;&#x2F;p&gt;
+&lt;p&gt;💻 A NixOS VM deployment support on the Grid.&lt;&#x2F;p&gt;
+&lt;p&gt;⏸ A workload pause feature for unfunded deployments.&lt;&#x2F;p&gt;
+&lt;p&gt;📲 Some backend changes to improve TF Connect App’s usability.&lt;&#x2F;p&gt;
+&lt;p&gt;👯 The possibility to deploy your own Freeflow Twin via the TF Playground.&lt;&#x2F;p&gt;
+&lt;p&gt;🔧 A new WebWG networking tool, offering a variety of functions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Thanks to Sasha for compiling this information. Check out the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-january-2023&#x2F;3694&quot;&gt;here&lt;&#x2F;a&gt; for all the details!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗣 Community Outreach Handbook</title>
+		<published>2023-01-12T00:00:00+00:00</published>
+		<updated>2023-01-12T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/outreach-handbook/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/outreach-handbook/</id>
+		<content type="html">&lt;p&gt;One goal we have for 2023 is furthering the decentralization of ThreeFold by empowering the community to take action independently. In this spirit, Sam &amp;amp; I compiled relevant information that will be useful for those ready to spread awareness of the project.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Within the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-content-creation-and-outreach-handbook&#x2F;3686&quot;&gt;ThreeFold Content Creation and Outreach Handbook&lt;&#x2F;a&gt;, you’ll find a simple &amp;amp; clear guide. Don’t hesitate to offer suggestions and ask questions in the replies section. As always, we are happy to support! &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Together We Build!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>☎️  Monthly Community Call coming up!</title>
+		<published>2023-01-11T00:00:00+00:00</published>
+		<updated>2023-01-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-jan-2023/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/cc-jan-2023/</id>
+		<content type="html">&lt;p&gt;It is almost time to gather for the first Community Call of 2023! We will be discussing &lt;em&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;community-call-questions-from-the-tf-members&#x2F;3677&quot;&gt;questions raised by the community&lt;&#x2F;a&gt;&lt;&#x2F;em&gt; and exploring our upcoming project: &lt;em&gt;ThreeFold Commercial Grid Services!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Save the date: &lt;strong&gt;Tuesday January 17th at 17:00 CET &#x2F; 11:00 EST&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We will be aiming to have a monthly gathering on the third Tuesday of every month, so you can already mark your agendas ahead of time!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;More details &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;monthly-community-calls-january-call-details&#x2F;3688&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>💫 Here&#x27;s our End of Year Review!</title>
+		<published>2022-12-31T00:00:00+00:00</published>
+		<updated>2022-12-31T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-review-2022/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/eoy-review-2022/</id>
+		<content type="html">&lt;p&gt;What a year it has been!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“2022 was a year marked by significant steps on technology, big strides towards decentralization, a commitment to our values (planet, people, and authenticity), time well-spent on the ground, and strong contributions from the community.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;heres-our-2022-review&#x2F;3661&quot;&gt;our 2022 Review&lt;&#x2F;a&gt;, we go over the progress made within the ThreeFold ecosystem across different arenas: Grid, Farming, Technology, Decentralization, TFT, Partnerships, Team on the Ground, Mastodon, the Fediverse &amp;amp; ThreeFold, and Q4 Community Calls.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Thanks to you all for being part of this journey, and Happy New Year! ❤️&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📣 December’s ThreeFold Product Updates</title>
+		<published>2022-12-29T00:00:00+00:00</published>
+		<updated>2022-12-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-dec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-prod-updates-dec/</id>
+		<content type="html">&lt;p&gt;Very exciting progress is being made on TF Grid 3.8.0, expected to be released in a couple of weeks! Some of the awaited features &amp;amp; components explored are the TF Grid monitoring solution, Typescript client update, TF Dashboard upgrades, and TF Playground improvements, amongst others! 🔥&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-product-updates-december-2022-tfgrid-v3-8-0-updates&#x2F;3654&quot;&gt;here&lt;&#x2F;a&gt; for more details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🎥 Watch the recording of the Tech Help Call</title>
+		<published>2022-12-27T00:00:00+00:00</published>
+		<updated>2022-12-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tech-help-rec/</id>
+		<content type="html">&lt;p&gt;If you missed it yesterday, you can watch it today! Find the recording of the Technical Help room hosted by Drew &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;IoPc5mOAI_M&quot;&gt;here&lt;&#x2F;a&gt;, and follow this &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;weekly-technical-help-room&#x2F;3627&quot;&gt;thread&lt;&#x2F;a&gt; for information about upcoming sessions!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>❤️ Share what you love about ThreeFold</title>
+		<published>2022-12-23T00:00:00+00:00</published>
+		<updated>2022-12-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/share-your-why/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/share-your-why/</id>
+		<content type="html">&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;end-of-year-community-challenge-my-why-personal-tft-grant&#x2F;3638&quot;&gt;Here’s&lt;&#x2F;a&gt; a call to all ThreeFolders to share why they are involved in the ThreeFold project and what makes them believe in it! I just shared my own answer and would love to read yours!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Ps: In the spirit of the holidays, 200 TFT gifts are available for community members answering on the forum post!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Twitter, Mastodon, and Why We’re Evolving the Internet</title>
+		<published>2022-11-21T00:00:00+00:00</published>
+		<updated>2022-11-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/twitter-mastodon/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/twitter-mastodon/</id>
+		<content type="html">&lt;h2 id=&quot;twitter-mastodon-and-why-we-re-evolving-the-internet&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#twitter-mastodon-and-why-we-re-evolving-the-internet&quot; aria-label=&quot;Anchor link for: twitter-mastodon-and-why-we-re-evolving-the-internet&quot;&gt;🔗&lt;&#x2F;a&gt;Twitter, Mastodon, and Why We’re Evolving the Internet&lt;&#x2F;h2&gt;
+&lt;p&gt;With Elon Musk’s acquisition of Twitter becoming official at the end of October, many people have become uncomfortable with the idea of a single controversial billionaire with a lot on his plate having that level of power over a platform used by hundreds of millions of people worldwide – making decisions that look to be putting the company, the platform, and its users in jeopardy, at least in the short term.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As a result of the acquisition and a series of events thereafter, millions of Twitter users have started looking for a replacement, with more than one million people flocking to the leading decentralized Twitter alternative, Mastodon, over the past two weeks.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;mastodon_users.png&quot; alt=&quot;mastodon_users&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;This is not the first time we’ve seen the alarm bells ring, a mass exodus from a top social networking site or communication platform. (And by the way, it won’t be the last.) As an example, last year after WhatsApp announced some changes to its terms of service, tens of millions of new accounts were created on Signal and Telegram. And earlier this year, Facebook reported a loss in daily active users.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The reality is that most platforms are owned &amp;amp; controlled by the few. And it actually goes further than just platforms: the way the infrastructure of the current internet model is built, its foundational layers, are controlled by the few as well. Think about it, as ‘users’ of platforms, browsers, websites, etc., we have become the product, or rather, our data has become the product.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Targeted advertising, cookies, geo-localisation. Agenda setting might have been ignited in the newspaper industry hundreds of years ago, but it definitely reached the Internet. When you search for something on the web, through most browsers &amp;amp; platforms, the outcomes you get are the result of an agenda setting. This means that a few decide which information is more important than the other. Often, this decision is subjective, and influenced by the highest bids to get on top of the list.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;What’s happening with Twitter is just the latest warning of the dangers of the centralized Internet, and the fact that people are leaving is the latest signal that the world is increasingly ready for a decentralized digital world. People aren’t just boycotting social media, they are leaving to go somewhere else considered ‘better’. They are migrating to Mastodon.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;what-makes-mastodon-a-viable-alternative-to-twitter&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-makes-mastodon-a-viable-alternative-to-twitter&quot; aria-label=&quot;Anchor link for: what-makes-mastodon-a-viable-alternative-to-twitter&quot;&gt;🔗&lt;&#x2F;a&gt;What makes Mastodon a viable alternative to Twitter?&lt;&#x2F;h2&gt;
+&lt;p&gt;Mastodon has a lot of the same functionalities as Twitter, such as replies, retweets, favorites, bookmarks and hash tags. However, it is not owned or operated by any one organization. Instead, it’s made up of lots of different servers (also called “instances”), all talking to one another. The service describes itself as a “federated network which operates in a similar way to email.” And as it is open source, Mastodon allows for anyone to download, modify, &amp;amp; install Mastodon on their own servers. Pretty nifty, right?&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;mastodon.png&quot; alt=&quot;mastodon&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Mastodon was created in 2016 by German software developer Eugen Rochko. Unlike most popular social media sites, like Twitter, Facebook, or LinkedIn, Mastodon is a nonprofit. As such, its goal is to benefit the public rather than shareholders. Twitter has built up a reputation for being the “watercooler of the world”. While it would be quite a task for Mastodon to replicate that feat at scale, many people might prefer the latter for a number of reasons, like:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Control over your timeline: No algorithm dictating what you’ll see – and no advertisements&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Not for Sale: “We will never serve ads or push profiles for you to see. That means your data and your time are yours and yours alone.” - Mastodon&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Freedom of moderation: Individual communities may create their own content guidelines, offering a variety of different user experiences. Join a server with the rules you agree with, or host your own!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Decentralization: Each Mastodon server is a completely independent entity, able to interoperate with others to form one global social network. Anybody can deploy Mastodon on their own infrastructure, under no third-party control.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Open Source: Mastodon believes in the right to use, copy, study and change Mastodon as one sees fit, since everyone benefits from contributions from the community.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Interoperable: Built on open web protocols, Mastodon can speak with any other platform that implements ActivityPub. With one account, users get access to a whole universe of social apps—the Fediverse.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;how-do-mastodon-threefold-align&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-do-mastodon-threefold-align&quot; aria-label=&quot;Anchor link for: how-do-mastodon-threefold-align&quot;&gt;🔗&lt;&#x2F;a&gt;How do Mastodon &amp;amp; ThreeFold Align?&lt;&#x2F;h2&gt;
+&lt;p&gt;What is happening with Twitter is a reflection of the entire Internet model. Now, more and more people are opening their eyes to the shared fundamentals of decentralization and open source, which are paradigms shared by ThreeFold &amp;amp; Mastodon.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In a world where centralization is the default way of operating, we tend to be relatively oblivious to what it entails. Being part of a centralized Internet ultimately makes us dependent on the relative few that dictate our digital lives. By moving away, through decentralization, we can take control of our digital lives again.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;twitter_vs_internet.png&quot; alt=&quot;twitter_vs_internet&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Mastodon and the whole Fediverse have already attracted incredible communities with similar values and mindsets as that of ThreeFold and our community. Everyone joining Mastodon is looking for decentralization – whether they know it or not. Really, this mass exodus from Twitter is more proof (a la people leaving Facebook in droves or moving from WhatsApp to other messaging tools) that the world is increasingly ready for decentralization and what ThreeFold enables.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Leaving Twitter for Mastodon is a step in the right direction, but if you are really alarmed by what has been happening with this Twitter saga, we are here to invite you to take action and be a part of a better Internet system. We can build this together!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;how-can-threefold-support-mastodon&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-can-threefold-support-mastodon&quot; aria-label=&quot;Anchor link for: how-can-threefold-support-mastodon&quot;&gt;🔗&lt;&#x2F;a&gt;How can ThreeFold support Mastodon?&lt;&#x2F;h2&gt;
+&lt;p&gt;ThreeFold provides a reliable decentralized infrastructure that Mastodon and the rest of the platforms within the Fediverse need, and we believe that those communities will be very interested in our broader vision as well.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The ThreeFold Movement is collectively building an Internet by the people for the people, from the infrastructure level up to the experiences. You can plug in hardware, join the ThreeFold Grid, and provide decentralized Internet capacity for the communities around you.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;ThreeFold offers three main solutions to the growing Mastodon community:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Deployment&lt;&#x2F;strong&gt;: ThreeFold is making it very easy for anyone and everyone to create their own server through the ThreeFold Playground, so they are in full control. And it’s on decentralized infrastructure.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;True Co-Ownership&lt;&#x2F;strong&gt;: We’ll make it possible to co-own communities via smart contract, so if some nodes leave or go offline, the server is still viable. So any group of people can chip in some money and co-own your own Mastodon server. By creating your own community, as of Grid 3.8, you will also be able to ask people for contributions in order to operate the server, etc. And you can set and maintain your own moderation standards.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;More Flexible (Secure) Login&lt;&#x2F;strong&gt;: Lastly, we’re going to focus on authentication. Today it’s only email based, which means it’s easy for people to hide. ThreeFold could enable different verification options – email-based, TF Connect, and even TF Connect + KYC. So each server can have their own standards.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;br&#x2F;&gt;
+&lt;h2 id=&quot;what-is-threefold-already-doing-to-make-this-happen&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-is-threefold-already-doing-to-make-this-happen&quot; aria-label=&quot;Anchor link for: what-is-threefold-already-doing-to-make-this-happen&quot;&gt;🔗&lt;&#x2F;a&gt;What is ThreeFold already doing to make this happen?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Currently the team is working on an easy-to-deploy weblet so that anybody can easily launch their own instance of Mastodon running on top of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating a plan for people to be able to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-deploy-mastadon-on-the-threefold-grid-today&#x2F;3487&quot;&gt;deploy their own Mastodon servers&lt;&#x2F;a&gt; for free.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Building a website re: Mastodon + ThreeFold.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reached out to the Mastodon team (We have done this officially, but we can do more of it from more angles).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Creating plenty of content on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;threefold-grid-utilization&#x2F;fediverse&#x2F;113&quot;&gt;forum&lt;&#x2F;a&gt; (e.g. open letter to Mastodon community), posting on social media, finding and engaging with public conversations about Mastodon on Twitter (something we can all do).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;We held a Community Call around Mastodon &amp;amp; the Fediverse to discuss in further details what has been mentioned in this blog. Find a recording of it &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;mastodon-the-fediverse-community-call-recording&#x2F;3522&quot;&gt;here&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you support decentralization, you have found a project to contribute to in ThreeFold! Join us on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;our two-way chat&lt;&#x2F;a&gt; or &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&quot;&gt;our forum&lt;&#x2F;a&gt;, and let’s build a new internet together!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Technology as a Tool for Humanity</title>
+		<published>2022-10-28T00:00:00+00:00</published>
+		<updated>2022-10-28T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/tech-as-a-tool-for-humanity/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/tech-as-a-tool-for-humanity/</id>
+		<content type="html">&lt;h2 id=&quot;technology-as-a-tool-for-humanity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#technology-as-a-tool-for-humanity&quot; aria-label=&quot;Anchor link for: technology-as-a-tool-for-humanity&quot;&gt;🔗&lt;&#x2F;a&gt;Technology as a tool for humanity&lt;&#x2F;h2&gt;
+&lt;p&gt;Technology… In today’s world, technology holds a central role. Younger generations in developed countries grow up amidst technological wonders of all sorts, truly immersed in an evolving digital landscape. Any information is a click away, offering immense intellectual capital unlike ever before – and on the other hand, great distraction, misinformation, and potential for division.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Technology is a word dating back to the early 17th century, formed from the Greek &lt;em&gt;tekhnologia&lt;&#x2F;em&gt; meaning ‘systematic treatment,’ itself formed from &lt;em&gt;tekhnē&lt;&#x2F;em&gt; meaning ‘art, craft.’ Technology is the application of knowledge to reach practical goals in a specifiable and reproducible way. The word technology may also mean the product of such an endeavor, as it is mostly used today.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;As technologies enter our world they either add on incrementally to already existing technologies (i.e., tablets) or shake everything up (i.e., television). Technology can be found in most industries and at different levels, ranging from vehicles to home appliances, passing through healthcare, education, and even entertainment. Sometimes technology replaces human labor by replicating it, other times it facilitates processes and makes labor less intensive. Some technology even surpasses human precision.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;While technology has had an important role in the creation of today’s societies, it might have an even greater role for our future. Two opposite pictures could be painted: a utopia or a dystopia. The utopia of a world full of values-driven, well-constructed technologies promises an increased quality of life for all, with digital tools which, for instance, could provide or enable equal educational opportunities for all, mobility everywhere, a universal basic income and the promise of never having to work again (e.g. in the sense of wage labor).&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;On the other hand, a dystopia could be the result of reckless technological advancement. Questions are raised, like, will most jobs be dominated by artificial intelligence (AI) in 20 years? Will privacy become a myth, with personal data being controlled by a handful? Will consumerism rule societies and reinforce social struggles?&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;One technology that has been slowly taking the dystopian route is the Internet. While major Internet and Cloud infrastructure advancements were made since the beginning of the millennium through hyper-scale data centers, the current Internet infrastructure model has many flaws:&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is centralized&lt;&#x2F;strong&gt;: The GAFAM (Google, Amazon, Facebook, Apple and Microsoft) own 80% of the global compute, storage and network infrastructures. Also the global infrastructure is concentrated in the U.S in large majority, as well as Europe and China.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is inefficient&lt;&#x2F;strong&gt;: Most of the data centers are located in the U.S, forcing the rest of the world to connect via Internet sea cables and having their data flowing outside of their borders and back.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is not scalable&lt;&#x2F;strong&gt;: Emerging technologies require the global Internet infrastructure to triple in size in the next 4 years. It took 20+ years to build the current Internet infrastructure. So, we need to build 3 times more in 5 times less time.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is not affordable&lt;&#x2F;strong&gt;: It costs billions of dollars and enormous amounts of energy and time to build, manage and productize hyper-scale data centers. Only the richest countries in the world build data centers and the rest of the world become their clients.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is not private&lt;&#x2F;strong&gt;: Anyone can access Google Chrome or Facebook for free. But as outlined by movies such as the Social Dilemma or The Great Hack, if it is free, you are the product. The web’s Ad model is threatening our privacy and the net neutrality of the global internet.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is not secure&lt;&#x2F;strong&gt;: The current IT stack depends on human error and it has been considered as the major cause of cybersecurity breaches with more than 95% of the cases. Human errors allow attackers to access encrypted channels and sensitive information&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It is not sustainable:&lt;&#x2F;strong&gt; Data centers are extremely power hungry, consuming over 2 trillion gigabytes of storage and consuming around 205 TWh - More than the State of New York. According to statistics, the Internet consumes between 10-20% of global energy resources.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;It cannot support future demand:&lt;&#x2F;strong&gt; To meet projected demand for 2022, more than 4,000 new data centers, costing an estimated $5 trillion, will be needed to build and consume an additional 400 GW&#x2F;h. This is roughly equivalent to Japan’s energy consumption and would place an impossible strain on the global electricity grid. The rising demand for Internet storage is already causing hardware shortages and price hikes.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;p&gt;At ThreeFold, we want to encourage the creation of a utopian future driven by thoughtful technology. Our founders took part in the way the Internet was created, full of beautiful promises, and have seen first-hand how those promises have been corrupted throughout its evolution. By building a new Internet infrastructure from scratch, ThreeFold goes back to those original promises while having learnt from the development mistakes.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Kristof, our CEO, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@despiegk&#x2F;once-upon-a-time-only-30-years-ago-an-experiment-started-called-the-internet-5251e0da6a76&quot;&gt;wrote in a blog&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The Internet allows the expansion of our village life to become a global community. It allows us to act as a global tribe with all information at our fingertips, it offers the possibility to get equal access to all planet resources. It has the promise for global free communication, instant availability of information, unlimited opportunities for growth and education. But what happened to our Beautiful Internet?”&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The Internet allowed us to become more efficient in depriving mother earth from her resources. It allowed us to become more addicted to immediate gratification, examples are social media networks and the adult entertainment industry. Beautiful new possibilities like digital currencies became a gambling game and a source of wealth for the smartest hackers. The communication capabilities of the Internet allowed the few to manipulate the many.”&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;br&gt;
+&lt;p&gt;By putting people, planet and authenticity at the core of the development of our technology, we want to gift societes a remade internet. Features of this technology include sovereignty &amp;amp; decentralization, security &amp;amp; privacy, unlimited scalability, green &amp;amp; self healing properties, cost effectiveness, and reliability. The human is put at the center of our Internet model.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Technology should not be a tool to extort humanity, but one at the service of humanity.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>What is a Digital Twin?</title>
+		<published>2022-10-18T00:00:00+00:00</published>
+		<updated>2022-10-18T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/digital-twin/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/digital-twin/</id>
+		<content type="html">&lt;h2 id=&quot;what-is-a-digital-twin&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-is-a-digital-twin&quot; aria-label=&quot;Anchor link for: what-is-a-digital-twin&quot;&gt;🔗&lt;&#x2F;a&gt;What is a Digital Twin?&lt;&#x2F;h2&gt;
+&lt;p&gt;In the current Internet system, each of us exists many times, each application provider owns &lt;em&gt;our&lt;&#x2F;em&gt; data while offering functionality &lt;em&gt;they&lt;&#x2F;em&gt; own. We become the user. We become the product. Instead, what if we were at the center of our digital lives?&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;The Web4 Digital Twin architecture does just that: it puts us at the center of our digital experience. Indeed, Digital Twin is a user-centric technological platform to build efficient, sovereign and secure digital experiences. Digital Twin technology empowers people and businesses to exchange information and value without any intermediaries, while making applications more scalable, efficient and secure than on any other web paradigm such as Web2, Web3 or Web5. Digital Twins require a decentralized Internet infrastructure and run perfectly on top of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;your-digital-twin-is-a-mirror-of-yourself&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#your-digital-twin-is-a-mirror-of-yourself&quot; aria-label=&quot;Anchor link for: your-digital-twin-is-a-mirror-of-yourself&quot;&gt;🔗&lt;&#x2F;a&gt;Your Digital Twin is a mirror of yourself!&lt;&#x2F;h2&gt;
+&lt;p&gt;Your Digital Twin runs on a location of your choice, which becomes your personal Internet Gateway. Each Twin is owned by only one owner, who in the end is more like the human mirror to the Twin. The Twin has lots of capabilities and is available for its “human mirror” 24 hours a day, 7 days a week. Experiences are being built which use the capabilities of the Twin. A Twin owns your data and your identity, all stored in such a way it can never be corrupted or lost. Thus, you own your data, your identity and your digital skills for all your life.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;your-digital-twin-has-capabilities&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#your-digital-twin-has-capabilities&quot; aria-label=&quot;Anchor link for: your-digital-twin-has-capabilities&quot;&gt;🔗&lt;&#x2F;a&gt;Your Digital Twin has Capabilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Twins are powerful and have many capabilities which are used when they enter an experience. Here are the capabilities of the Digital Twin:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communicate
+&lt;ul&gt;
+&lt;li&gt;Chat, video conference, send messages to anyone.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Create
+&lt;ul&gt;
+&lt;li&gt;Create content, any content (metaverse, video, websites, …)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Share and Promote
+&lt;ul&gt;
+&lt;li&gt;Share your creations to the rest of the world&lt;&#x2F;li&gt;
+&lt;li&gt;Promote your products and services&lt;&#x2F;li&gt;
+&lt;li&gt;Share your knowledge and help others to grow&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Discover and Learn
+&lt;ul&gt;
+&lt;li&gt;Find information, alternative indexing engine (neutral)&lt;&#x2F;li&gt;
+&lt;li&gt;Know what is truthful and what is not (proof of authenticity)&lt;&#x2F;li&gt;
+&lt;li&gt;Learn and become smarter&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Economy
+&lt;ul&gt;
+&lt;li&gt;Manage my digital wealth (digital currencies)&lt;&#x2F;li&gt;
+&lt;li&gt;Exchange anything for anything else (money for tokens, services, products)&lt;&#x2F;li&gt;
+&lt;li&gt;Buy&#x2F;Sell goods and services&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborate
+&lt;ul&gt;
+&lt;li&gt;How can I collaborate on documents, images, videos, code, …&lt;&#x2F;li&gt;
+&lt;li&gt;How can I manage a project, plan events, define deadlines&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Organize
+&lt;ul&gt;
+&lt;li&gt;Manage your agenda and time&lt;&#x2F;li&gt;
+&lt;li&gt;Organize your digital content so you can find it back, and it’s nicely organized&lt;&#x2F;li&gt;
+&lt;li&gt;Manage your circles (groups of people)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Protect
+&lt;ul&gt;
+&lt;li&gt;Make sure that only the right people have access to your digital assets&lt;&#x2F;li&gt;
+&lt;li&gt;What happens if you die, make sure your loved ones can inherit your digital assets&lt;&#x2F;li&gt;
+&lt;li&gt;Make sure your digital life is secure (give access to your assets to your circles)&lt;&#x2F;li&gt;
+&lt;li&gt;Give proof of authenticity to assets and information from others&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Develop and Expand
+&lt;ul&gt;
+&lt;li&gt;Code and extend the Twin (improve Twin capabilities for yourself and others)&lt;&#x2F;li&gt;
+&lt;li&gt;Create your own experiences&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;p&gt;The Twin has basic capabilities listed above which are strongly version controlled, but contributions from the global community are more than welcomed. The idea is to create a system which is simply good enough for any possible experience.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;your_digital_twin.png&quot; alt=&quot;Your Digital Twin&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;This is a very different paradigm compared to current web or mobile applications where capabilities are owned by the provider of the application. Besides, rather than survival of the fittest, we believe in a system of collaboration, where we invite everyone to make the system better so it fits us all. We don’t need three chat systems, we need one which is usable by thousands of experiences.&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;p&gt;Developers can create experiences re-using the open source capabilities the Twin offers, also eliminating the need to reinvent features.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;note-on-connection-security&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#note-on-connection-security&quot; aria-label=&quot;Anchor link for: note-on-connection-security&quot;&gt;🔗&lt;&#x2F;a&gt;Note on Connection &amp;amp; Security&lt;&#x2F;h2&gt;
+&lt;p&gt;As a “user”, you can use any browser to access experiences built on top of your Digital Twin. For example, a storage experience that stores data on your Twin or a browser experience that allows you to surf the web from your Twin’s node. When you connect to your Twin, our &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;web4&#x2F;threefold__threefold_connect&quot;&gt;ThreeFold Connect&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; makes sure that the connection is secure. The Twin runs on a node on the ThreeFold Grid, which you are securely connected to. This takes care of a very safe approach and unlimited scalability. We will dive deeper into the Twin’s security and scalability aspects in a future blog!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;digital-twin-in-a-nutshell&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#digital-twin-in-a-nutshell&quot; aria-label=&quot;Anchor link for: digital-twin-in-a-nutshell&quot;&gt;🔗&lt;&#x2F;a&gt;Digital Twin in a nutshell&lt;&#x2F;h2&gt;
+&lt;p&gt;Hopefully, by now you will have a better understanding of the Digital Twin concept. Here is a short recap of everything mentioned so far about it:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have full control over your own digital life.&lt;&#x2F;li&gt;
+&lt;li&gt;Experiences can be created using standard web &amp;amp; native technologies.&lt;&#x2F;li&gt;
+&lt;li&gt;The Digital Twin delivers the web interface to your (secure) browser.&lt;&#x2F;li&gt;
+&lt;li&gt;No need for information to travel to central data centers, all communication is fast and private between Digital Twins: No more client-server.&lt;&#x2F;li&gt;
+&lt;li&gt;All logic of your digital life is 100% private to you running in your Twin.&lt;&#x2F;li&gt;
+&lt;li&gt;This is super efficient and sustainable, +10x power savings.&lt;&#x2F;li&gt;
+&lt;li&gt;No blockchain required for your digital life = more privacy, performance, green
+&lt;ul&gt;
+&lt;li&gt;Exception: blockchain is needed for digital currencies and as a phone book for Digital Twin’s identity.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&gt;
+&lt;p&gt;If you would like to see what the current iteration of the Digital Twin looks like, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;demo.freeflow.life&#x2F;&quot;&gt;try it out&lt;&#x2F;a&gt; yourself with &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;freeflow.life&#x2F;&quot;&gt;FreeFlow Twin&lt;&#x2F;a&gt; in its current beta version! Connect with ThreeFold on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&quot;&gt;Twitter&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;Telegram&lt;&#x2F;a&gt;, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;company&#x2F;threefold-foundatiooon&#x2F;&quot;&gt;LinkedIn&lt;&#x2F;a&gt;, and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;threefold&quot;&gt;Reddit&lt;&#x2F;a&gt; to join our community and stay updated about evolutions of the ThreeFold project and Digital Twin.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

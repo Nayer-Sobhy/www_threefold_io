@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - commmunity</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/commmunity/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-07-27T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/commmunity/atom.xml</id>
+	<entry xml:lang="en">
+		<title>🗓 ThreeFold&#x27;s H1 &amp; H2 2022</title>
+		<published>2022-07-27T00:00:00+00:00</published>
+		<updated>2022-07-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-h1-h2-2022/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tf-h1-h2-2022/</id>
+		<content type="html">&lt;p&gt;Take a look at ThreeFold’s first half of 2022: incredible developments with grid technology, a doubling in the number of connected 3Nodes, the validator program, the Internet of Internets model, key partnerships (e.g. Paradise Hills), and more – and some of what’s planned for the rest of the year.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Onward. Together we build!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Read the full post &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;post&#x2F;threefold_2022_reflect_h1_outlook_h2&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

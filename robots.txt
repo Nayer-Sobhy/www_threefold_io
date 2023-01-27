@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://threefoldfoundation.github.io/www_threefold_io/sitemap.xml

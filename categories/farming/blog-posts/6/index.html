@@ -1,0 +1,4407 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+
+
+
+
+
+
+<head>
+  <link rel="icon" type="image/x-icon" href="https://threefoldfoundation.github.io/www_threefold_io/images/icons/favicon.png">
+  
+  <title>ThreeFold</title>
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io" />
+
+  
+
+  
+  
+  
+  
+  <meta name="twitter:card" content="summary" />
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css" />
+  <!-- Cookie Consent by https://www.FreePrivacyPolicy.com -->
+  <script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.0.0/cookie-consent.js"
+    charset="UTF-8"></script>
+  <script type="text/javascript" charset="UTF-8">
+    document.addEventListener('DOMContentLoaded', function () {
+      cookieconsent.run({ "notice_banner_type": "headline", "consent_type": "express", "palette": "light", "language": "en", "page_load_consent_levels": ["strictly-necessary"], "notice_banner_reject_button_hide": false, "preferences_center_close_button_hide": false, "website_name": "https://threefold.io/", "website_privacy_policy_url": "https://library.threefold.me/info/legal/#/legal__privacypolicy" });
+    });
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N7PNMFH');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100065546-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-100065546-1');
+  </script>
+
+  <!-- Matomo Tag Manager -->
+  <script>
+    var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({ 'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start' });
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.async = true; g.src = 'https://analytics.threefold.io/js/container_KIcuIdn4.js'; s.parentNode.insertBefore(g, s);
+  </script>
+  <!-- End Matomo Tag Manager -->
+  
+  <!-- Crisp -->
+  <script type="text/plain" cookie-consent="tracking">
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "1a5a5241-91cb-4a41-8323-5ba5ec574da0";
+    (function () {
+        d = document;
+        s = d.createElement("script");
+        s.src = "https://client.crisp.chat/l.js";
+        s.async = 1;
+        d.getElementsByTagName("head")[0].appendChild(s);
+    })();
+</script>
+
+  <!-- Crisp without cookies -->
+  <!-- <script type="text/javascript" cookie-consent="tracking">
+    window.$crisp = [];
+    window.CRISP_WEBSITE_ID = "1a5a5241-91cb-4a41-8323-5ba5ec574da0";
+    (function () {
+      d = document;
+      s = d.createElement("script");
+      s.src = "https://client.crisp.chat/l.js";
+      s.async = 1;
+      d.getElementsByTagName("head")[0].appendChild(s);
+    })();
+  </script> -->
+  <!-- end of Crisp-->
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- **** BEGINNING, favicons **** -->
+
+  <!-- generics -->
+
+  <!-- iOS -->
+
+  <!-- Android -->
+
+  <!-- Windows 8, IE 10 -->
+
+  <!-- Windows 8.1 and up, IE 11 -->
+
+  <!-- **** CONCLUSION, favicons **** -->
+
+  <!-- CSS/SCSS -->
+  <link rel="stylesheet" href="https://threefoldfoundation.github.io/www_threefold_io/css/index.css?h=20ad97ee77fb16301977cdf91aa944f0fa15f6000559fed98f1d73b6914edab4" />
+  <style>
+    .space-x-10>:not([hidden])~:not([hidden]){
+      margin-left: calc(1.5rem*calc(1 - var(--tw-space-x-reverse)))!important;
+    }
+    @-moz-document url-prefix() {
+      .lazy:-moz-loading {
+        visibility: hidden;
+      }
+    }
+
+    .ieOnly {
+      display: none;
+    }
+
+    @media all and (-ms-high-contrast: none),
+    (-ms-high-contrast: active) {
+      .ieOnly {
+        display: block;
+      }
+    }
+  @media (min-width: 640px){
+      .sm\:space-x-4>:not([hidden])~:not([hidden]){
+      margin-left: calc(2rem*calc(1 - var(--tw-space-x-reverse)))!important;
+      }
+  }
+  </style>
+  <script type='text/javascript'
+    src='https://platform-api.sharethis.com/js/sharethis.js#property=62556aac80366d0019fc1af2&product=sop'
+    async='async'></script>
+
+  <!-- MailerLite Universal -->
+  <script>
+    (function (m, a, i, l, e, r) {
+      m['MailerLiteObject'] = e; function f() {
+        var c = { a: arguments, q: [] }; var r = this.push(c); return "number" != typeof r ? r : f.bind(c.q);
+      }
+      f.q = f.q || []; m[e] = m[e] || f.bind(f.q); m[e].q = m[e].q || f.q; r = a.createElement(i);
+      var _ = a.getElementsByTagName(i)[0]; r.async = 1; r.src = l + '?v' + (~~(new Date().getTime() / 1000000));
+      _.parentNode.insertBefore(r, _);
+    })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+    var ml_account = ml('accounts', '1778010', 'x2d3d9f8n1', 'load');
+  </script>
+  <!-- End MailerLite Universal -->
+</head>
+
+
+
+<header id="header-container">
+    <div class="z-10 bg-white fixed w-full top-0">
+        <div class="relative z-50 shadow">
+        <div class="mx-auto flex z-50 shadow justify-between items-center px-6 sm:px-4 md:px-6 py-2 lg:px-5 lg:justify-start space-x-10 sm:space-x-4 ">
+            <div>
+                <a href="https://threefoldfoundation.github.io/www_threefold_io" class="flex">
+                    <img class="w-16 h-auto sm:w-15" style="max-width: none;" src="https://threefoldfoundation.github.io/www_threefold_io/images/black_threefold.png" alt="ThreeFold Logo" />
+                </a>
+            </div>
+            <div class="-mr-2 -my-2 lg:hidden">
+                <button id="hamburger-btn" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                    <!-- Heroicon name: menu -->
+                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                </button>
+            <button id="close-hamburger-btn" type="button" class="hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                <!-- Heroicon name: x -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+                </button>
+            </div>
+            <div class="hidden lg:flex-1 lg:flex lg:items-center lg:justify-between lg:space-x-6">
+            <nav class="flex space-x-10">
+
+            
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/mission" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Mission
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/grid" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Grid
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/build" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Build
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/farm" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Farm
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/tft" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      TFT
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    <div class="relative">
+                        
+                    <button type="button" id="ecosystem-menu-btn" class="nav_btn font-medium text-gray-900 hover:text-gray-500 group inline-flex items-center space-x-2 text-lg leading-6 font-normal hover:text-gray-500 focus:outline-none transition ease-in-out duration-150">
+                        <span>Ecosystem</span>
+                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                    </button>
+                    </div>
+
+                  
+            
+            
+            
+                
+                
+                
+                    <div class="relative">
+                        
+                    <button type="button" id="moreinfo-menu-btn" class="nav_btn font-medium text-gray-900 hover:text-gray-500 group inline-flex items-center space-x-2 text-lg leading-6 font-normal hover:text-gray-500 focus:outline-none transition ease-in-out duration-150">
+                        <span>MoreInfo</span>
+                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                    </button>
+                    </div>
+
+                  
+            
+            
+            </nav>
+
+            <div class="hidden md:inline-block md:order-last">
+                <div class="inline-flex">
+                  <ul class="list-none inline-flex mt-5 mr-4 mx-auto">
+                    <li class="ml-4">
+                      <a href="https://t.me/threefoldnews" target="_blank" class="text-black">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="18"
+                          fill="currentColor"
+                          class="bi bi-telegram"
+                          viewBox="0 0 16 16"
+                        >
+                          <path
+                            d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"
+                          />
+                        </svg>
+                      </a>
+                    </li>
+        
+                    <li class="ml-4">
+                      <a
+                        href="javascript:;"
+                        onclick="ml_account('webforms', '3562741', 'n7q9l7', 'show')"
+                        class="text-black"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="far"
+                          data-icon="envelope"
+                          class="h-5 w-5"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                        >
+                          <path
+                            fill="currentColor"
+                            d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"
+                          ></path>
+                        </svg>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="rounded-full border-2 mt-1 border-gray-400">
+                    <a href="https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy" target="_blank" class="mt-2">
+                      <img
+                        src="https://threefoldfoundation.github.io/www_threefold_io/images/gettft_white.png"
+                        class="mr-5"
+                        style="max-width: none;"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+        </div>
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-mission-22-mission-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-grid-22-grid-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-build-22-build-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-farm-22-farm-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-tft-22-tft-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="ecosystem-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <button onclick="window.location.href='/people'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/people">Our People</a>
+<br></p>
+<p class="text-sm">Team, stories, & more</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/partners'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/partners">Our Partners</a>
+<br></p>
+<p class="text-sm">Explore Our Partners</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/community'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/community">ThreeFold Community</a>
+<br></p>
+<p class="text-sm">Welcome To The Fold</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/developer'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/developer">Developer Resources</a>
+<br></p>
+<p class="text-sm">Join The Developer Community</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+<ul>
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="moreinfo-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    <!-- reverse col at mobile -->
+
+    
+
+    <!-- makes row with margins -->
+    
+
+    
+
+    
+
+    <!-- makes row full screen width, strips margins -->
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+     
+
+        <!-- makes row full screen width, strips margins -->
+    
+
+    
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <h4 id="tools">Tools</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/tokens/threefold__threefold_connect')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect">ThreeFold Connect</a>
+<br></p>
+<p class="text-sm">TFT Wallet, 2FA, & More</p>
+</button>
+<button onclick="openInNewTab('https&#58;//dashboard.grid.tf/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://dashboard.grid.tf/">Dashboard</a>
+<br></p>
+<p class="text-sm">Portal & Capacity Explorer</p>
+</button>
+<button onclick="openInNewTab('https&#58;//play.grid.tf')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://play.grid.tf">Weblet Playground</a>
+<br></p>
+<p class="text-sm">Deploy a VM & More</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="resources">Resources</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/">Library</a>
+<br></p>
+<p class="text-sm">Explore the Documentation</p>
+</button>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/manual/#/manual__manual3_home_new')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/manual/#/manual__manual3_home_new">Manual</a>
+<br></p>
+<p class="text-sm">Get Started on the Grid</p>
+</button>
+<button onclick="openInNewTab('https&#58;//github.com/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://github.com/">GitHub</a>
+<br></p>
+<p class="text-sm">Code Library & Documentation</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="dive-deeper">Dive Deeper</h4>
+<button onclick="window.location.href='/blog'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/blog">Blog</a>
+<br></p>
+<p class="text-sm">Explore the Blogs</p>
+</button>
+<button onclick="window.location.href='/newsroom'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/newsroom">Newsroom</a>
+<br></p>
+<p class="text-sm">Check the Latest Updates</p>
+</button>
+<button onclick="openInNewTab('https&#58;//intro.threefold.me')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://intro.threefold.me">Intro Docs</a>
+<br></p>
+<p class="text-sm">Perfect for Newcomers</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="support-help">Support &amp; Help</h4>
+<button onclick="openInNewTab('https&#58;//forum.threefold.io')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://forum.threefold.io">Forum</a>
+<br></p>
+<p class="text-sm">Questions & Feedback</p>
+<button onclick="window.location.href='/support'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/support">Support</a>
+<br></p>
+<p class="text-sm">Speak Live with a Human</p>
+</button>
+<button onclick="window.location.href='/careers'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/careers">Careers</a>
+<br></p>
+<p class="text-sm">Join the Team</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+        <!--
+        Mobile menu, show/hide based on mobile menu state.
+    
+        Entering: "duration-200 ease-out"
+            From: "opacity-0 scale-95"
+            To: "opacity-100 scale-100"
+        Leaving: "duration-100 ease-in"
+            From: "opacity-100 scale-100"
+            To: "opacity-0 scale-95"
+        -->
+    <div id="hamburger" class="hidden fixed mt-16 z-20 top-0 inset-x-0 transition transform origin-top-right lg:hidden">
+        <div>
+            <div class="shadow-xs h-screen bg-white divide-y-2 divide-gray-50">
+                <div class="pb-6 sm:px-12 md:px-16 mt-6 lg:px-20 space-y-6 sm:space-y-8 sm:pb-8 max-h-screen overflow-y-auto">
+
+                    <nav class="flex flex-col justify-around pb-12">
+                    
+
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/mission" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Mission
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/grid" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Grid
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/build" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Build
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/farm" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Farm
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/tft" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    TFT
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                    <button type="button" id="ecosystem-mobile-menu-btn" class="flex flex px-8 py-3 items-start text-left text-gray-900 group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                        <span>Ecosystem</span>
+                                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                                    </button>
+                                    
+                                    <div id="ecosystem-mobile-menu" class="z-50 leading-3 pl-12 pt-6 pb-4 inset-x-0 text-sm transform duration-200 ease-in opacity-0 -translate-y-1 hidden">
+                                        
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <button onclick="window.location.href='/people'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/people">Our People</a>
+<br></p>
+<p class="text-sm">Team, stories, & more</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/partners'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/partners">Our Partners</a>
+<br></p>
+<p class="text-sm">Explore Our Partners</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/community'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/community">ThreeFold Community</a>
+<br></p>
+<p class="text-sm">Welcome To The Fold</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/developer'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/developer">Developer Resources</a>
+<br></p>
+<p class="text-sm">Join The Developer Community</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+<ul>
+
+                                    </div>
+                    
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                    <button type="button" id="moreinfo-mobile-menu-btn" class="flex flex px-8 py-3 items-start text-left text-gray-900 group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                        <span>MoreInfo</span>
+                                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                                    </button>
+                                    
+                                    <div id="moreinfo-mobile-menu" class="z-50 leading-3 pl-12 pt-6 pb-4 inset-x-0 text-sm transform duration-200 ease-in opacity-0 -translate-y-1 hidden">
+                                        
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    <!-- reverse col at mobile -->
+
+    
+
+    <!-- makes row with margins -->
+    
+
+    
+
+    
+
+    <!-- makes row full screen width, strips margins -->
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+     
+
+        <!-- makes row full screen width, strips margins -->
+    
+
+    
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <h4 id="tools">Tools</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/tokens/threefold__threefold_connect')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect">ThreeFold Connect</a>
+<br></p>
+<p class="text-sm">TFT Wallet, 2FA, & More</p>
+</button>
+<button onclick="openInNewTab('https&#58;//dashboard.grid.tf/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://dashboard.grid.tf/">Dashboard</a>
+<br></p>
+<p class="text-sm">Portal & Capacity Explorer</p>
+</button>
+<button onclick="openInNewTab('https&#58;//play.grid.tf')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://play.grid.tf">Weblet Playground</a>
+<br></p>
+<p class="text-sm">Deploy a VM & More</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="resources">Resources</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/">Library</a>
+<br></p>
+<p class="text-sm">Explore the Documentation</p>
+</button>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/manual/#/manual__manual3_home_new')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/manual/#/manual__manual3_home_new">Manual</a>
+<br></p>
+<p class="text-sm">Get Started on the Grid</p>
+</button>
+<button onclick="openInNewTab('https&#58;//github.com/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://github.com/">GitHub</a>
+<br></p>
+<p class="text-sm">Code Library & Documentation</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="dive-deeper">Dive Deeper</h4>
+<button onclick="window.location.href='/blog'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/blog">Blog</a>
+<br></p>
+<p class="text-sm">Explore the Blogs</p>
+</button>
+<button onclick="window.location.href='/newsroom'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/newsroom">Newsroom</a>
+<br></p>
+<p class="text-sm">Check the Latest Updates</p>
+</button>
+<button onclick="openInNewTab('https&#58;//intro.threefold.me')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://intro.threefold.me">Intro Docs</a>
+<br></p>
+<p class="text-sm">Perfect for Newcomers</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="support-help">Support &amp; Help</h4>
+<button onclick="openInNewTab('https&#58;//forum.threefold.io')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://forum.threefold.io">Forum</a>
+<br></p>
+<p class="text-sm">Questions & Feedback</p>
+<button onclick="window.location.href='/support'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/support">Support</a>
+<br></p>
+<p class="text-sm">Speak Live with a Human</p>
+</button>
+<button onclick="window.location.href='/careers'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/careers">Careers</a>
+<br></p>
+<p class="text-sm">Join the Team</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+
+                                    </div>
+                    
+                            
+                            <hr/>
+                        
+                    
+                    
+                    <div class="mx-8 mt-8">
+                        <div class="space-y-8 lg:max-w-sm xl:max-w-sm lg:mr-8 lg:mb-8 xl:col-span-1">
+                          <img class="w-32 h-auto" src="https://threefoldfoundation.github.io/www_threefold_io/images/black_threefold.png" alt="Company name" />
+                          <p class="text-gray-500 text-base leading-6 ">
+                            
+                          </p>
+                          
+
+<div class="flex space-x-4">
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldfoundation" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldtech" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github2</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Twitter</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
+  </svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;t.me&#x2F;threefoldnews" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Telegram</span>
+        
+        <svg data-v-14efe4a7="" xmlns="http://www.w3.org/2000/svg" width="1.6rem" height="1.6rem" fill="currentColor" viewBox="0 0 16 16" class="bi bi-telegram mt-1"><path data-v-14efe4a7="" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"></path></svg>
+        
+        </a>
+
+    
+
+  </div>
+                      </div>
+                    </nav>                    
+                </div>
+            
+        </div>
+        
+        </div>
+    </div>
+
+
+</header>
+
+
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7PNMFH" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- Twitter universal website tag code -->
+  <script>
+    !function (e, t, n, s, u, a) {
+      e.twq || (s = e.twq = function () {
+        s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+      }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+        a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'o745b');
+    twq('track', 'PageView');
+
+
+    // makes all links outside of hostname open in new tab
+    // from: https://stackoverflow.com/a/4425214
+    var links = document.links;
+    var internal_hosts = [
+        'www.threefold.io',
+        'threefold.io',
+        'www2.threefold.io',
+        'localhost',
+        '127.0.0.1'
+    ]
+    for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+        if (!internal_hosts.includes(links[i].hostname)) {
+            links[i].target = '_blank';
+        }
+    }
+  </script>
+  <!-- End Twitter universal website tag code -->
+
+  
+
+
+<header id="header-container">
+    <div class="z-10 bg-white fixed w-full top-0">
+        <div class="relative z-50 shadow">
+        <div class="mx-auto flex z-50 shadow justify-between items-center px-6 sm:px-4 md:px-6 py-2 lg:px-5 lg:justify-start space-x-10 sm:space-x-4 ">
+            <div>
+                <a href="https://threefoldfoundation.github.io/www_threefold_io" class="flex">
+                    <img class="w-16 h-auto sm:w-15" style="max-width: none;" src="https://threefoldfoundation.github.io/www_threefold_io/images/black_threefold.png" alt="ThreeFold Logo" />
+                </a>
+            </div>
+            <div class="-mr-2 -my-2 lg:hidden">
+                <button id="hamburger-btn" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                    <!-- Heroicon name: menu -->
+                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                </button>
+            <button id="close-hamburger-btn" type="button" class="hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                <!-- Heroicon name: x -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+                </button>
+            </div>
+            <div class="hidden lg:flex-1 lg:flex lg:items-center lg:justify-between lg:space-x-6">
+            <nav class="flex space-x-10">
+
+            
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/mission" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Mission
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/grid" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Grid
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/build" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Build
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/farm" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      Farm
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                    <a href="https://threefoldfoundation.github.io/www_threefold_io/tft" class="text-lg leading-6 font-medium text-gray-900 hover:text-gray-500 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                      TFT
+                    </a>
+                    
+                  
+            
+            
+            
+                
+                
+                
+                    <div class="relative">
+                        
+                    <button type="button" id="ecosystem-menu-btn" class="nav_btn font-medium text-gray-900 hover:text-gray-500 group inline-flex items-center space-x-2 text-lg leading-6 font-normal hover:text-gray-500 focus:outline-none transition ease-in-out duration-150">
+                        <span>Ecosystem</span>
+                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                    </button>
+                    </div>
+
+                  
+            
+            
+            
+                
+                
+                
+                    <div class="relative">
+                        
+                    <button type="button" id="moreinfo-menu-btn" class="nav_btn font-medium text-gray-900 hover:text-gray-500 group inline-flex items-center space-x-2 text-lg leading-6 font-normal hover:text-gray-500 focus:outline-none transition ease-in-out duration-150">
+                        <span>MoreInfo</span>
+                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                    </button>
+                    </div>
+
+                  
+            
+            
+            </nav>
+
+            <div class="hidden md:inline-block md:order-last">
+                <div class="inline-flex">
+                  <ul class="list-none inline-flex mt-5 mr-4 mx-auto">
+                    <li class="ml-4">
+                      <a href="https://t.me/threefoldnews" target="_blank" class="text-black">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="18"
+                          height="18"
+                          fill="currentColor"
+                          class="bi bi-telegram"
+                          viewBox="0 0 16 16"
+                        >
+                          <path
+                            d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"
+                          />
+                        </svg>
+                      </a>
+                    </li>
+        
+                    <li class="ml-4">
+                      <a
+                        href="javascript:;"
+                        onclick="ml_account('webforms', '3562741', 'n7q9l7', 'show')"
+                        class="text-black"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          focusable="false"
+                          data-prefix="far"
+                          data-icon="envelope"
+                          class="h-5 w-5"
+                          role="img"
+                          xmlns="http://www.w3.org/2000/svg"
+                          viewBox="0 0 512 512"
+                        >
+                          <path
+                            fill="currentColor"
+                            d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"
+                          ></path>
+                        </svg>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="rounded-full border-2 mt-1 border-gray-400">
+                    <a href="https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy" target="_blank" class="mt-2">
+                      <img
+                        src="https://threefoldfoundation.github.io/www_threefold_io/images/gettft_white.png"
+                        class="mr-5"
+                        style="max-width: none;"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+        </div>
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-mission-22-mission-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-grid-22-grid-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-build-22-build-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-farm-22-farm-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-tft-22-tft-a-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="ecosystem-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <button onclick="window.location.href='/people'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/people">Our People</a>
+<br></p>
+<p class="text-sm">Team, stories, & more</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/partners'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/partners">Our Partners</a>
+<br></p>
+<p class="text-sm">Explore Our Partners</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/community'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/community">ThreeFold Community</a>
+<br></p>
+<p class="text-sm">Welcome To The Fold</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/developer'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/developer">Developer Resources</a>
+<br></p>
+<p class="text-sm">Join The Developer Community</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+<ul>
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="moreinfo-menu" class="nav_menu mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div id="menu" class="mx-8 lg:mx-10 xl:mx-10 px-6 sm:p-6 md:p-8">
+                
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    <!-- reverse col at mobile -->
+
+    
+
+    <!-- makes row with margins -->
+    
+
+    
+
+    
+
+    <!-- makes row full screen width, strips margins -->
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+     
+
+        <!-- makes row full screen width, strips margins -->
+    
+
+    
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <h4 id="tools">Tools</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/tokens/threefold__threefold_connect')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect">ThreeFold Connect</a>
+<br></p>
+<p class="text-sm">TFT Wallet, 2FA, & More</p>
+</button>
+<button onclick="openInNewTab('https&#58;//dashboard.grid.tf/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://dashboard.grid.tf/">Dashboard</a>
+<br></p>
+<p class="text-sm">Portal & Capacity Explorer</p>
+</button>
+<button onclick="openInNewTab('https&#58;//play.grid.tf')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://play.grid.tf">Weblet Playground</a>
+<br></p>
+<p class="text-sm">Deploy a VM & More</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="resources">Resources</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/">Library</a>
+<br></p>
+<p class="text-sm">Explore the Documentation</p>
+</button>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/manual/#/manual__manual3_home_new')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/manual/#/manual__manual3_home_new">Manual</a>
+<br></p>
+<p class="text-sm">Get Started on the Grid</p>
+</button>
+<button onclick="openInNewTab('https&#58;//github.com/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://github.com/">GitHub</a>
+<br></p>
+<p class="text-sm">Code Library & Documentation</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="dive-deeper">Dive Deeper</h4>
+<button onclick="window.location.href='/blog'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/blog">Blog</a>
+<br></p>
+<p class="text-sm">Explore the Blogs</p>
+</button>
+<button onclick="window.location.href='/newsroom'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/newsroom">Newsroom</a>
+<br></p>
+<p class="text-sm">Check the Latest Updates</p>
+</button>
+<button onclick="openInNewTab('https&#58;//intro.threefold.me')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://intro.threefold.me">Intro Docs</a>
+<br></p>
+<p class="text-sm">Perfect for Newcomers</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="support-help">Support &amp; Help</h4>
+<button onclick="openInNewTab('https&#58;//forum.threefold.io')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://forum.threefold.io">Forum</a>
+<br></p>
+<p class="text-sm">Questions & Feedback</p>
+<button onclick="window.location.href='/support'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/support">Support</a>
+<br></p>
+<p class="text-sm">Speak Live with a Human</p>
+</button>
+<button onclick="window.location.href='/careers'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/careers">Careers</a>
+<br></p>
+<p class="text-sm">Join the Team</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+        <!--
+        Mobile menu, show/hide based on mobile menu state.
+    
+        Entering: "duration-200 ease-out"
+            From: "opacity-0 scale-95"
+            To: "opacity-100 scale-100"
+        Leaving: "duration-100 ease-in"
+            From: "opacity-100 scale-100"
+            To: "opacity-0 scale-95"
+        -->
+    <div id="hamburger" class="hidden fixed mt-16 z-20 top-0 inset-x-0 transition transform origin-top-right lg:hidden">
+        <div>
+            <div class="shadow-xs h-screen bg-white divide-y-2 divide-gray-50">
+                <div class="pb-6 sm:px-12 md:px-16 mt-6 lg:px-20 space-y-6 sm:space-y-8 sm:pb-8 max-h-screen overflow-y-auto">
+
+                    <nav class="flex flex-col justify-around pb-12">
+                    
+
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/mission" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Mission
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/grid" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Grid
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/build" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Build
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/farm" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    Farm
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                
+                                <a href="https://threefoldfoundation.github.io/www_threefold_io/tft" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    TFT
+                                </a>
+                                
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                    <button type="button" id="ecosystem-mobile-menu-btn" class="flex flex px-8 py-3 items-start text-left text-gray-900 group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                        <span>Ecosystem</span>
+                                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                                    </button>
+                                    
+                                    <div id="ecosystem-mobile-menu" class="z-50 leading-3 pl-12 pt-6 pb-4 inset-x-0 text-sm transform duration-200 ease-in opacity-0 -translate-y-1 hidden">
+                                        
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <button onclick="window.location.href='/people'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/people">Our People</a>
+<br></p>
+<p class="text-sm">Team, stories, & more</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/partners'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/partners">Our Partners</a>
+<br></p>
+<p class="text-sm">Explore Our Partners</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/community'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/community">ThreeFold Community</a>
+<br></p>
+<p class="text-sm">Welcome To The Fold</p>
+</button>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<button onclick="window.location.href='/developer'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/developer">Developer Resources</a>
+<br></p>
+<p class="text-sm">Join The Developer Community</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+<ul>
+
+                                    </div>
+                    
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                    <button type="button" id="moreinfo-mobile-menu-btn" class="flex flex px-8 py-3 items-start text-left text-gray-900 group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                        <span>MoreInfo</span>
+                                        <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
+                                    </button>
+                                    
+                                    <div id="moreinfo-mobile-menu" class="z-50 leading-3 pl-12 pt-6 pb-4 inset-x-0 text-sm transform duration-200 ease-in opacity-0 -translate-y-1 hidden">
+                                        
+</ul>
+<!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+    
+
+    
+    
+        
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+            
+            
+            
+                
+                    
+                    
+                
+            
+            
+        
+    
+    
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    <!-- reverse col at mobile -->
+
+    
+
+    <!-- makes row with margins -->
+    
+
+    
+
+    
+
+    <!-- makes row full screen width, strips margins -->
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+     
+
+        <!-- makes row full screen width, strips margins -->
+    
+
+    
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative lg:p-4 p-1 flex flex-col sm:grid sm:grid-cols-2 sm:gap-10 xl:flex xl:flex-row lg:items-start" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    <h4 id="tools">Tools</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/tokens/threefold__threefold_connect')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect">ThreeFold Connect</a>
+<br></p>
+<p class="text-sm">TFT Wallet, 2FA, & More</p>
+</button>
+<button onclick="openInNewTab('https&#58;//dashboard.grid.tf/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://dashboard.grid.tf/">Dashboard</a>
+<br></p>
+<p class="text-sm">Portal & Capacity Explorer</p>
+</button>
+<button onclick="openInNewTab('https&#58;//play.grid.tf')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://play.grid.tf">Weblet Playground</a>
+<br></p>
+<p class="text-sm">Deploy a VM & More</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="resources">Resources</h4>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/threefold#/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/">Library</a>
+<br></p>
+<p class="text-sm">Explore the Documentation</p>
+</button>
+<button onclick="openInNewTab('https&#58;//library.threefold.me/info/manual/#/manual__manual3_home_new')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/manual/#/manual__manual3_home_new">Manual</a>
+<br></p>
+<p class="text-sm">Get Started on the Grid</p>
+</button>
+<button onclick="openInNewTab('https&#58;//github.com/')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://github.com/">GitHub</a>
+<br></p>
+<p class="text-sm">Code Library & Documentation</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="dive-deeper">Dive Deeper</h4>
+<button onclick="window.location.href='/blog'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/blog">Blog</a>
+<br></p>
+<p class="text-sm">Explore the Blogs</p>
+</button>
+<button onclick="window.location.href='/newsroom'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/newsroom">Newsroom</a>
+<br></p>
+<p class="text-sm">Check the Latest Updates</p>
+</button>
+<button onclick="openInNewTab('https&#58;//intro.threefold.me')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://intro.threefold.me">Intro Docs</a>
+<br></p>
+<p class="text-sm">Perfect for Newcomers</p>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 mb-6 md:mb-0 md:mx-2">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h4 id="support-help">Support &amp; Help</h4>
+<button onclick="openInNewTab('https&#58;//forum.threefold.io')">
+<p><a rel="nofollow noreferrer" target="_blank" href="https://forum.threefold.io">Forum</a>
+<br></p>
+<p class="text-sm">Questions & Feedback</p>
+<button onclick="window.location.href='/support'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/support">Support</a>
+<br></p>
+<p class="text-sm">Speak Live with a Human</p>
+</button>
+<button onclick="window.location.href='/careers'">
+<p><a rel="nofollow noreferrer" href="https://threefoldfoundation.github.io/www_threefold_io/careers">Careers</a>
+<br></p>
+<p class="text-sm">Join the Team</p>
+</button>
+                
+            </div>
+        
+    
+</div>
+
+                                    </div>
+                    
+                            
+                            <hr/>
+                        
+                    
+                    
+                    <div class="mx-8 mt-8">
+                        <div class="space-y-8 lg:max-w-sm xl:max-w-sm lg:mr-8 lg:mb-8 xl:col-span-1">
+                          <img class="w-32 h-auto" src="https://threefoldfoundation.github.io/www_threefold_io/images/black_threefold.png" alt="Company name" />
+                          <p class="text-gray-500 text-base leading-6 ">
+                            
+                          </p>
+                          
+
+<div class="flex space-x-4">
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldfoundation" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldtech" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github2</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Twitter</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
+  </svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;t.me&#x2F;threefoldnews" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Telegram</span>
+        
+        <svg data-v-14efe4a7="" xmlns="http://www.w3.org/2000/svg" width="1.6rem" height="1.6rem" fill="currentColor" viewBox="0 0 16 16" class="bi bi-telegram mt-1"><path data-v-14efe4a7="" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"></path></svg>
+        
+        </a>
+
+    
+
+  </div>
+                      </div>
+                    </nav>                    
+                </div>
+            
+        </div>
+        
+        </div>
+    </div>
+
+
+</header>
+
+  <div id="content" class="p-4 pt-12 sm:p-12 md:p-16 lg:p-20 overflow-hidden">
+    
+
+<main class="pt-16">
+
+    <div class="flex flex-col md:flex-row">
+        
+
+<div class="text-center main-title px-0 md:w-full md:w-2/3 lg:w-2/3 mx-8 md:mx-12">
+  <h1
+    class="tracking-tight text-5xl text-left text-2xl sm:text-3xl md:text-4xl lg:text-5xl fw-500 leading-snug font-normal mb-10"
+  >
+  
+  
+  
+    The Latest from ThreeFold   
+     - 
+        Farming
+    
+  </h1>
+  <div>
+    <div class="mt-12 grid gap-5 max-w-lg mx-auto lg:grid-cols-2 xl:grid-cols-3 lg:max-w-none"> 
+          
+            
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;decentralizing-the-internet&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;decentralizing-the-internet&#x2F;decentralizing_the_internet.png alt="Decentralizing the Internet Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          Decentralizing the Internet
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          In this article, we discuss the general concept of a ‘decentralized grid’ and how anyone can plug-in capacity to the ThreeFold Grid.
+        </p>
+        
+        <div class="article hidden"><h2 id="decentralization"><a class="zola-anchor" href="#decentralization" aria-label="Anchor link for: decentralization">🔗</a>Decentralization</h2>
+<p>In 1989, the Internet changed the world as we know it with the introduction of the World Wide Web. With time the Internet empowered people to share information in a decentralized way. Shortly after, big companies like Facebook, Google, and Apple emerged, providing many solutions that revolutionized the way we live. The “sharing economy” has grown exponentially over the last 5-10 years. This is thanks to a more simplified information flow and well-developed technology, which:
+<br/>
+<br/></p>
+<ul>
+<li>Enables a much easier integration of independent players into the sharing economy.</li>
+<li>Eliminates the need for extensive management and structure of marketplace operators.
+<br/>
+<br/>
+We are entering a flat-structure economy. An economy where fewer managerial levels are needed for the system to function. New technologies such as blockchain and the Internet of Things facilitate this ongoing trend. Participants can now interact on a peer-to-peer basis, forming marketplaces and organizations according to pre-agreed, programmed contracts.</li>
+</ul>
+<h2 id="the-current-internet-is-centralized"><a class="zola-anchor" href="#the-current-internet-is-centralized" aria-label="Anchor link for: the-current-internet-is-centralized">🔗</a>The current Internet is centralized</h2>
+<p>Despite the growth in popularity for decentralized systems, organizations, and currencies, the Internet remains centralized. The centralization within the Internet industry brought many barriers to entry. Indeed, to compete in the highly competitive market of Internet capacity dominated by big IT companies, massive investment, and IT development are needed.
+<br/>
+<br/>
+But what is really scary is that the current industry exploits the market tremendously. Data is officially the most valuable asset on earth for a few years, and about 20 companies rule over more than 80% of the cloud industry. In other words - these companies together have more than 80% of the world’s information. In recent years, we noticed the dangers that can arise with the wrong intentions within the data industry with the ‘Cambridge Analytica Scandal’, also highlighted in the movie <a rel="nofollow noreferrer" href="https://www.youtube.com/watch?v=iX8GxLP1FHo">‘The Great Hack’.</a>
+<br/>
+<br/>
+ThreeFold has been developing technology that allows the decentralization of the Internet infrastructure - removing the need for data centers, and allowing anyone to take part in the Internet capacity market. Adding capacity to the ThreeFold Grid (TF Grid) makes you a ThreeFold Farmer (TF Farmer). The more decentralized the Internet gets, the more secure and effective it will become. The already is the largest grid of compute and storage in the world.</p>
+<h2 id="how-to-participate"><a class="zola-anchor" href="#how-to-participate" aria-label="Anchor link for: how-to-participate">🔗</a>How To Participate</h2>
+<p>The process of becoming a ThreeFold Farmer is very straightforward. Anyone can join the ThreeFold Grid by downloading the ThreeFold Zero-OS onto their nodes and connecting them to the ThreeFold Grid.
+<br/>
+<br/>
+By doing this you will become an operator of a “micro data center” and with that earn ThreeFold Tokens. With or without experience in the field, anyone can become a ThreeFold Farmer. By becoming a ThreeFold Farmer, you empower a new neutral Internet that belongs to humanity - not corporations.
+<br/>
+<br/>
+You can build your server (3node) and configure it, but also options for people with less technical knowledge are available. Please see <a rel="nofollow noreferrer" href="https://pre-register.threefold.io">pre-register.threefold.io</a> to see how easy it is for anyone to become a ThreeFold Farmer.
+<br/>
+<br/>
+<em>Blog written in 2019, updated January 2021.</em>
+<br/>
+<br/></p>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2019-08-21">
+                    August 21, 2019
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;tft-on-liquid-and-btcalpha&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;tft-on-liquid-and-btcalpha&#x2F;tft_on_liquid_and_btcalpha.png alt="Co-create the new Internet. Participate with TFT! Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          Co-create the new Internet. Participate with TFT!
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          Do you believe that the world needs change? Do you believe in decentralization? Equality? Sustainability?..
+        </p>
+        
+        <div class="article hidden"><h2 id="do-you-believe-that-the-world-needs-change"><a class="zola-anchor" href="#do-you-believe-that-the-world-needs-change" aria-label="Anchor link for: do-you-believe-that-the-world-needs-change">🔗</a>Do you believe that the world needs change?</h2>
+<p>Do you believe in decentralization? Equality? Sustainability?
+<br/>
+<br/>
+Do you believe in circular economies, where everyone is invited to partake and succeed?
+<br/>
+<br/>
+The ThreeFold Token is the currency of the new Internet and brings true solutions to all the above questions. 
+<br/>
+<br/>
+It supports the ThreeFold Foundation - an open ecosystem that is shaping a better world by empowering game-changing technology. ThreeFold is growing a green and conscious peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be autonomous, and providing equal chances to learn, partake and succeed.</p>
+<h2 id="ready-to-support-a-new-internet"><a class="zola-anchor" href="#ready-to-support-a-new-internet" aria-label="Anchor link for: ready-to-support-a-new-internet">🔗</a>Ready to support a new Internet?</h2>
+<p>By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see <a rel="nofollow noreferrer" href="https://library.threefold.me/info/tfgrid/#/tdeoverview">Token Distribution Event</a> for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
+<br/>
+<br/>
+The time has come for us to step up and shape the world we believe is possible. Join us and lets co-create our futures together.
+<br/>
+<br/>
+<em>Get TFT on <a rel="nofollow noreferrer" href="https://app.liquid.com/exchange/TFTBTC">Liquid</a> now.</em>
+<br/>
+<br/>
+<em>Get TFT on <a rel="nofollow noreferrer" href="https://btc-alpha.com/en/exchange/TFT_BTC">BTC-Alpha</a> now.</em>
+<br/>
+<br/>
+On behalf of our planet, humanity and the ThreeFold Community, we thank you for considering empowering a better world.
+<br/>
+<br/></p>
+<p><em>If you need more guidance on buying TFT, please head <a rel="nofollow noreferrer" href="https://library.threefold.me/info/tfgrid/#/how_to_buy">here</a>.</em></p>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                  
+                  <li class="author-list-item"><img alt="Sacha Obeegadoo" src="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;people&#x2F;sacha-obeegadoo&#x2F;sacha_obeegadoo.jpg"
+                      class="w-8 h-8 rounded-full bg-gray-200 border-2 border-white"></li>
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">Sacha Obeegadoo</p>
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2019-06-01">
+                    June  1, 2019
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;new-digital-currency&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;new-digital-currency&#x2F;new_digital_currency.png alt="The need for a sustainable digital currency Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          The need for a sustainable digital currency
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          Cryptocurrencies commonly face some major problems, which can be solved.
+        </p>
+        
+        <div class="article hidden"><h2 id="the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally"><a class="zola-anchor" href="#the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally" aria-label="Anchor link for: the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally">🔗</a>The world needs a new stable &amp; green digital currency, which is usable globally</h2>
+<p>Digital currencies are on the way to global adoption. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges. Benefits of digital currencies include direct peer-to-peer transactions (requiring no intermediaries such as banks), greater trust (secured by cryptography and mathematics), lower friction charges, faster transaction times, and no single point of failure.
+<br/>
+<br/>
+However, cryptocurrencies commonly face some major problems, such as:
+<br/></p>
+<ul>
+<li><strong>Lack of scalability</strong>: The main blockchains today are based on “proof of work” - generating very large and complex prime numbers called “hashes” to record ledger transactions. These proof of work blockchains cannot scale to meet the increasing blockchain transaction volumes. In fact, Ethereum, one of the most popular and well known blockchains has announced it will change from “proof of work” to “proof of stake.”</li>
+<li><strong>Crazy energy requirements</strong>: Computing complex proof of work hashes requires enormous amounts of processing power. Actually, a large portion of today’s hashrate is produced by very large dedicated billion dollar data centers called miners. It is estimated that the energy consumed by digital currency mining is approximately equivalent to the power consumption of the entire country of Denmark.</li>
+<li><strong>Certain perceived reputational issues</strong>: Numerous commentators - particularly in the early years of bitcoin - speculated that unregulated digital currencies could be used to fund illicit activities.</li>
+<li><strong>A general absence of intrinsic value</strong>: The major digital currencies today are not backed by real assets - therefore their value is more surrounded by hype.</li>
+<li><strong>Limited utility</strong>: Today digital currencies are predominantly held by miners and investors. There is very limited use of digital currencies to buy goods and services.
+<br/>
+<br/>
+These are some of the problems we see with cryptocurrencies. The world needs a new stable and green digital currency, which is usable globally. Enter ThreeFold Token.
+<br/>
+<br/></li>
+</ul>
+<p><em>To learn more about the token, please dive into <a rel="nofollow noreferrer" href="https://library.threefold.me/info/tfgrid/#/token">our wiki</a>.</em></p>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                  
+                  <li class="author-list-item"><img alt="Adnan Fatayerji" src="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;people&#x2F;adnan-fatayerji&#x2F;adnan_fatayerji.jpg"
+                      class="w-8 h-8 rounded-full bg-gray-200 border-2 border-white"></li>
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">Adnan Fatayerji</p>
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2019-03-06">
+                    March  6, 2019
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;new-edge-cloud&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;new-edge-cloud&#x2F;new_edge_cloud.png alt="Use cases for the ThreeFold Peer-to-Peer Cloud Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          Use cases for the ThreeFold Peer-to-Peer Cloud
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          Containers, IAAS, Archives, Security, and more..
+        </p>
+        
+        <div class="article hidden"><h2 id="use-cases-for-the-threefold-peer-to-peer-cloud"><a class="zola-anchor" href="#use-cases-for-the-threefold-peer-to-peer-cloud" aria-label="Anchor link for: use-cases-for-the-threefold-peer-to-peer-cloud">🔗</a>Use cases for the ThreeFold Peer-to-Peer Cloud</h2>
+<h3 id="any-docker-service"><a class="zola-anchor" href="#any-docker-service" aria-label="Anchor link for: any-docker-service">🔗</a>Any Docker Service</h3>
+<p>ThreeFold nodes natively run containers - therefore they can run any Docker service.  But it does so in a more efficient way than the current Docker engine - the most used and known container technology platform in the world.</p>
+<h3 id="iaas"><a class="zola-anchor" href="#iaas" aria-label="Anchor link for: iaas">🔗</a>IAAS</h3>
+<p>The ThreeFold node technology enables hardware capabilities to be used for IAAS services in a very efficient way.  Overhead is reduced to a minimum by stripping out unnecessary layers of software that have been implemented over the last decade to patch scaling and performance problems. Our engineers have always looked at the root cause of issues and by innovating at the core algorithm level, solved many issues.
+Examples are:
+<br/>
+<br/></p>
+<ul>
+<li><strong>Less is more</strong>: Scale down the operating system for a virtualization architecture to a minimum and boot it over the network - no local operating system files installed on local storage.</li>
+<li><strong>Look at root causes, no painkiller approach</strong>: Step away from existing storage solutions that require proprietary acceleration hardware and use standard off the shelf, affordable and efficient components with a 100% software-based storage solution that can withstand hardware failures without requiring human intervention - creating a very efficient, reliable and performing storage solution that can operate standalone.
+<br/>
+<br/>
+The platform is secured by using a network boot mechanism that makes it virtually hack resistant as there are no operating system files installed locally. Infrastructure as a service traditionally runs in hyper-scale data centers, remote from the businesses using it. ThreeFold node technology allows you to install, operate and run IAAS services close to your business locations operated by your local IT team.  It operates on a peer-to-peer network - only transferring bits of data that need to be transported to avoid network congestion and traffic bottlenecks.</li>
+</ul>
+<h3 id="archive"><a class="zola-anchor" href="#archive" aria-label="Anchor link for: archive">🔗</a>Archive</h3>
+<p>Data generation is growing exponentially. More data has been generated in the last 2 years than ever before. This creates a big need to archive data. The ThreeFold node technology creates storage and archiving capabilities by using standard hardware and known interfaces (S3, FTP, WebDav, CIFS, and NFS) will be built by developers worldwide and made available.  The low-level storage functionality supports version controlling of the archived data, which keeps all relevant changes without any limitation by using a small amount of actual storage capacity.</p>
+<h3 id="security"><a class="zola-anchor" href="#security" aria-label="Anchor link for: security">🔗</a>Security</h3>
+<p>Data security and reliability are key aspects of any storage system.  The ThreeFold node allows all data to be compressed and encrypted if and when needed. The distributed character of the storage system enables site redundant storage algorithms to be deployed while keeping large data volumes from being stored in a single location. This removes the risk of data being stolen (physically) and prevents a site outage to result in data outage.  The distributed character of the system is in line with the increasing spread of actual data generation.  ThreeFold has sensory equipment everywhere these days, and the overhead of storing all that information in a few central places is enormous. Data collection and storage happens once - reading data to use it for a particular workload happens many times.</p>
+<h3 id="data-mining"><a class="zola-anchor" href="#data-mining" aria-label="Anchor link for: data-mining">🔗</a>Data Mining</h3>
+<p>On traditional server architectures, every application has to set up its servers that run their code in isolated silos, making sharing of data hard. The distributed character of the ThreeFold node technology presents compute and storage capacity everywhere.  This enables large data mining workloads to happen close to the source of the data.  By storing data in a distributed manner, mining can be distributed as well. Distributed compute capacity next to storage capabilities creates the possibility to create data mining operations on local storage (which makes it very fast and efficient) by coding data mining algorithms in programming languages (such as Python, Lua, Javascript, and Golang). Data mining follows distributed data storage.
+<br/>
+<br/>
+Never run into scalability problems again with the ThreeFold node. Data storage can expand horizontally using thousands of distributed nodes to create large storage volumes.</p>
+<h3 id="smart-contracts"><a class="zola-anchor" href="#smart-contracts" aria-label="Anchor link for: smart-contracts">🔗</a>Smart Contracts</h3>
+<p>Smart contracts are applications that run on a decentralized platform, exactly as programmed without any possibility of downtime, censorship, fraud, or third-party interference. These applications run on a blockchain, a powerful shared global infrastructure that can move value around and represent the ownership of that value. Smart contracts enable developers to create markets, store registries of debts (or promises), move funds following past instructions (like a will or a futures contract), and many other things without a middleman or counterparty risk.  ThreeFold nodes run based on smart-contracts.</p>
+<h3 id="self-learning-and-ai"><a class="zola-anchor" href="#self-learning-and-ai" aria-label="Anchor link for: self-learning-and-ai">🔗</a>Self-Learning and AI</h3>
+<p>Blockchains can be seen as databases. By current database standards, traditional blockchains like Bitcoin are terrible: low throughout, low capacity, high latency, poor query support, and so on. But even with these terrible characteristics, blockchains introduced three new and important characteristics:
+<br/>
+<br/></p>
+<ul>
+<li><strong>Decentralized data and shared data control</strong>  leads to more data and better qualitative data which results in better models. Shortening the machine learning time also enables AI to progress at a faster pace.</li>
+<li><strong>Immutable audit trails</strong> improve the trustworthiness of the data, and improves the models’ provenance on training and testing results.</li>
+<li><strong>Native assets</strong> and assets exchanges make training and testing models intellectual property (IP) assets easier - enhancing decentralized data and model exchanges.
+<br/>
+<br/>
+Blockchain technology allows more and better quality data to be presented to machine learning algorithms.  It has been proven (Microsoft researchers - Banko and Brill) that more data — not just a bit more data but way more data — while using the same algorithms results in a lot better machine learning.  Meaning that the future of machine learning is not in trying to create more sophisticated algorithms (which will happen). So by moving AI learning into a blockchain environment we speed up machine learning and in the end create AI.</li>
+</ul>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                  
+                  <li class="author-list-item"><img alt="Sam Taggart" src="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;people&#x2F;sam-taggart&#x2F;sam_taggart.jpg"
+                      class="w-8 h-8 rounded-full bg-gray-200 border-2 border-white"></li>
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">Sam Taggart</p>
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2018-09-12">
+                    September 12, 2018
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+          
+          
+            
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;tech-new-internet&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;tech-new-internet&#x2F;tech_new_internet.png alt="A new approach to the Internet Architecture Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          A new approach to the Internet Architecture
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          The Edge internet needs a different approach. So, we started as from scratch and shaped a totally new approach..
+        </p>
+        
+        <div class="article hidden"><h2 id="threefold-s-technology-does-not-follow-the-traditional-it-model"><a class="zola-anchor" href="#threefold-s-technology-does-not-follow-the-traditional-it-model" aria-label="Anchor link for: threefold-s-technology-does-not-follow-the-traditional-it-model">🔗</a>ThreeFold’s technology does not follow the traditional IT model</h2>
+<p>The Edge internet needs a different approach. So, we started from scratch and shaped a new approach. ThreeFold’s open-source technology addresses the scalability, security, storage, energy, and operating issues by simplifying architectures and not relying on third-party software. This drives down costs and improves efficiencies.</p>
+<h2 id="what-is-threefold-s-technology-toolbox"><a class="zola-anchor" href="#what-is-threefold-s-technology-toolbox" aria-label="Anchor link for: what-is-threefold-s-technology-toolbox">🔗</a>What is ThreeFold’s Technology Toolbox?</h2>
+<p>ThreeFold’s technology is based on three primary building blocks:  Stateless Computing, Self-Healing Technology, and Blockchain technology - this is the core of our “Technology Toolbox“.
+<br/>
+<br/></p>
+<ul>
+<li><strong>Stateless Computing</strong>: a stateless operating system, Zero-OS, enabling distributed hardware to form an Edge Internet grid generating IT storage and compute capacity</li>
+<li><strong>Self-Healing Technology</strong>: controls and operates a distributed cloud and reserves, procures, and executes workloads on the grid using our Jumpscale platform. It delivers autoscaling and automation frameworks that enable self-healing and can be adapted for any kind of IT workload.</li>
+<li><strong>Blockchain Technology</strong>: Via Rivine - our secure, scalable “proof of stake” blockchain, along with our identity management platform, ItsYou.online. Our blockchain technology enables user authentication, access controls, secure workloads, and heightened security.</li>
+</ul>
+<h2 id="enabling-stateless-computing"><a class="zola-anchor" href="#enabling-stateless-computing" aria-label="Anchor link for: enabling-stateless-computing">🔗</a>Enabling Stateless Computing</h2>
+<p>The global decentralized internet will be composed of thousands (millions?) of nodes distributed geographically.  This means the decentralized internet must be powered by a stateless operating system that can be booted via the Internet (as opposed to living on the node locally). This removes the complexity of upgrades, truck rolls, etc. 
+<br/>
+<br/>
+Open-source components have been developed, Zero-OS, for the deployment of bare metal machines functioning as Internet nodes and application hosts.  Our Zero-OS platform runs containerized applications and software code on secure and distributed IT infrastructure.  Zero-OS can be deployed on off-the-shelf hardware by anyone willing to make server and storage capacity available in their markets and within our network.</p>
+<h3 id="the-benefits-of-stateless-computing-are-substantial-including"><a class="zola-anchor" href="#the-benefits-of-stateless-computing-are-substantial-including" aria-label="Anchor link for: the-benefits-of-stateless-computing-are-substantial-including">🔗</a>The benefits of Stateless Computing are substantial, including:</h3>
+<ul>
+<li><strong>Performance</strong>: lightweight OS without overhead for running bare-metal machines.</li>
+<li><strong>Free</strong>: finds the optimal performance of server &amp; storage nodes at no cost.</li>
+<li><strong>Private</strong>: no data footprint remains while workloads move from one node to another.</li>
+<li><strong>Distributed</strong>: capacity is generated without the need for data centers: At The Edge.</li>
+<li><strong>High-available</strong>: easy creation of clusters while applications run in fragmented segments.</li>
+<li><strong>Portability</strong>: moving software from one node to another within the grid is instant.</li>
+<li><strong>Secure</strong>: open-source distributed software with transparent code. No security backdoors</li>
+<li><strong>Sustainable</strong>: energy-efficient OS resulting in very low node power consumption.</li>
+</ul>
+<h2 id="technology-that-is-self-healing-self-driving"><a class="zola-anchor" href="#technology-that-is-self-healing-self-driving" aria-label="Anchor link for: technology-that-is-self-healing-self-driving">🔗</a>Technology that is self-healing &amp; self-driving</h2>
+<p>ThreeFold’s Jumpscale framework and ZeroBot allow the creation of blueprints to auto-deploy applications within the compute environment. The bots are constantly checking the health and uptime of the infrastructure, and runtime environments, to guarantee the performance and availability of applications at all times.</p>
+<h3 id="the-benefits-of-our-self-healing-technology-protocols-include-the-following"><a class="zola-anchor" href="#the-benefits-of-our-self-healing-technology-protocols-include-the-following" aria-label="Anchor link for: the-benefits-of-our-self-healing-technology-protocols-include-the-following">🔗</a>The benefits of our self-healing technology protocols include the following:</h3>
+<ul>
+<li><strong>Self-Healing</strong>: the platform regenerates when health issues that cause downtime for infrastructure and applications are detected. </li>
+<li><strong>Intelligence</strong>: agents capture information from the grid and make intelligent decisions to provide an ideal and optimal host environment for software code and containerized applications.</li>
+<li><strong>Lifecycle Management</strong>: the status of the infrastructure and the lifecycle of running applications are constantly checked and recorded.</li>
+<li><strong>Autoscaling</strong>: the platform automatically scales to meet application and infrastructure performance.</li>
+</ul>
+<h2 id="blockchain-technology-to-execute-workloads-and-applications-via-smart-contracts"><a class="zola-anchor" href="#blockchain-technology-to-execute-workloads-and-applications-via-smart-contracts" aria-label="Anchor link for: blockchain-technology-to-execute-workloads-and-applications-via-smart-contracts">🔗</a>Blockchain Technology to execute workloads and applications via smart contracts</h2>
+<p>The engineers developed new blockchain algorithms based on proof of stake for validation purposes and turned this into our Rivine open-source blockchain software.
+<br/>
+<br/>
+Unlike the “proof of work” blockchains that currently dominate the space, our Rivine blockchain is scalable, green, and secure - and does not rely on huge mining resources.  We run our blockchain on approximately 200 dedicated nodes and do not rely on any third-party software.
+<br/>
+<br/>
+In addition to our blockchain technology, we have also developed ItsYou.Online, an identity, and access management platform.  Itsyou. online uses three-factor authentication to manage access on our network and facilitate execution.</p>
+<h3 id="the-benefits-of-tf-blockchain-technology-and-identity-management-platform-include"><a class="zola-anchor" href="#the-benefits-of-tf-blockchain-technology-and-identity-management-platform-include" aria-label="Anchor link for: the-benefits-of-tf-blockchain-technology-and-identity-management-platform-include">🔗</a>The benefits of TF blockchain technology and identity management platform include:</h3>
+<ul>
+<li><strong>Sustainable</strong>: our algorithms to reach consensus use a minimal amount of energy and electricity compared to other blockchain software and networks.</li>
+<li><strong>Lowest possible cost</strong>: of transactions make it an efficient and fast payment system.</li>
+<li><strong>Neutral</strong>: state of the network and applications are recorded in a transparent and immutable manner.</li>
+<li><strong>Payment fulfillment</strong>: transactions are automatically paid using ThreeFold Tokens.</li>
+<li><strong>Smart Contracts</strong>: fully automated execution of contracts from customers buying Internet IT capacity.
+<br/>
+<br/>
+All of our technology is open-source and can be accessed in the following Github Repos:
+<br/>
+<br/></li>
+</ul>
+<ul>
+<li>Zero-OS: https://github.com/threefoldtech/zos</li>
+<li>Jumpscale: https://github.com/threefoldtech/js-ng</li>
+<li>BCDB : https://github.com/threefoldtech/bcdb</li>
+</ul>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                  
+                  <li class="author-list-item"><img alt="Weynand Kuijpers" src="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;people&#x2F;weynand-kuijpers&#x2F;weynand_kuijpers.png"
+                      class="w-8 h-8 rounded-full bg-gray-200 border-2 border-white"></li>
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">Weynand Kuijpers</p>
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2018-05-12">
+                    May 12, 2018
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+          
+          
+            
+
+
+
+
+
+
+<div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
+  <div class="flex-1 border-b">
+    <a href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;big-datacenter-myth&#x2F;" class="block">
+        
+      
+      <div class="flex-shrink-0">
+        <img class="h-48 w-full mx-auto object-cover" src=https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;blog&#x2F;big-datacenter-myth&#x2F;big_datacenter_myth.png alt="Datacenter Myths Picture" />
+      </div>
+      
+      <div class="flex-1 bg-white p-6 flex flex-col justify-between">
+
+        <h3 class="mt-2 text-xl leading-6 font-medium text-gray-900 text-left not-italic">
+          Datacenter Myths
+        </h3>
+        
+        <p class="mt-3 text-sm font-normal text-gray-500 text-left">
+          Hyperscale realities are very different to what most people think. Myth 1 - Bigger data centers are more efficient.
+        </p>
+        
+        <div class="article hidden"><h2 id="hyperscale-realities-are-very-different-from-what-most-people-think"><a class="zola-anchor" href="#hyperscale-realities-are-very-different-from-what-most-people-think" aria-label="Anchor link for: hyperscale-realities-are-very-different-from-what-most-people-think">🔗</a>Hyperscale realities are very different from what most people think</h2>
+<h3 id="myth-1-bigger-data-centers-are-more-efficient"><a class="zola-anchor" href="#myth-1-bigger-data-centers-are-more-efficient" aria-label="Anchor link for: myth-1-bigger-data-centers-are-more-efficient">🔗</a>Myth 1: Bigger data centers are more efficient</h3>
+<p>There are advantages in building larger-scale data centers, like economies of scale and sheer bulk buying power, but these are not as significant as what people think. The average cost per rack in a hyper-scale data center is $20-35K USD including all energy requirements and safety systems. The cost of hardware per rack is around the $200-300K USD mark.
+<br/>
+<br/>
+What is often forgotten is that anything that is of enormous scale and highly concentrated comes with complexity and specific problems to deal with. For example. resource requirements such as investment, operational costs, knowledge, and people increase significantly with size.
+<br/>
+<br/>
+In reality, keeping things simple, small, and distributed is much more cost-effective than large complex environments.</p>
+<h3 id="myth-2-big-data-centers-can-be-sustainable"><a class="zola-anchor" href="#myth-2-big-data-centers-can-be-sustainable" aria-label="Anchor link for: myth-2-big-data-centers-can-be-sustainable">🔗</a>Myth 2: Big data centers can be sustainable</h3>
+<p>The carbon footprint of a big data center is enormous. To improve the power usage effectiveness (PUE) of most data center farmers have adopted wind, hydro, and/or solar power technologies, which indeed helps drop their PUE by an estimated 20%. But is this leading to more sustainability?
+<br/>
+<br/>
+This 20% looks great on paper and in the farmers’ corporate social responsibility reports. However, it just represents an improvement in the cooling technology and sourcing of energy. It doesn’t actually impact the energy consumed by the equipment that runs in their data centers (servers, storage chassis, physical disks, etc.) which is the equipment responsible for the carbon footprint. PUE only refers to overhead power consumption, i.e. cooling the facility, opening, and closing doors, maintaining power security systems, etc.
+<br/>
+<br/>
+Real improvement lies in deploying technologies that actually consume less power to deliver the actual Internet capacity to run workloads, real CPU chassis, physical disks, and storage cabinets. Improving on how hardware is being more effectively used can have an impact of up to a thousand percent and lead to ten times more power-efficiency.</p>
+<h3 id="myth-3-redundant-systems-have-better-uptime"><a class="zola-anchor" href="#myth-3-redundant-systems-have-better-uptime" aria-label="Anchor link for: myth-3-redundant-systems-have-better-uptime">🔗</a>Myth 3: Redundant systems have better uptime</h3>
+<p>A lot of us believe that systems need redundancy mechanisms to improve their operational uptime and reliability. While it may make sense to IT experts, let’s translate this for the non-IT world?
+<br/>
+<br/>
+To make a car more reliable we add redundancy (as we do in IT). So for the risk of having a puncture, we add one extra tire for all the tires we use continuously. This adds 4 extra tires to the car. Then a decision needs to be made: Do we put those tires in a structure where they are always running along with the primary tires or do we choose not to have them “online” all the time, wearing and tearing in the same way as the primary tires?
+<br/>
+<br/>
+Building such a system would take a large number of engineers to come up with a solution, and would change cars as we know them. Wouldn’t it make more sense to think outside the box and solve the root of the problem by making tires un-deflatable?
+<br/>
+<br/>
+The IT industry has gone overboard with the concept of redundancy, having forgotten to look at the root cause issues. This has spawned a whole new industry of itself, which has a financial interest in creating complicated and expensive redundant systems.</p>
+<h3 id="myth-4-big-companies-optimize-better"><a class="zola-anchor" href="#myth-4-big-companies-optimize-better" aria-label="Anchor link for: myth-4-big-companies-optimize-better">🔗</a>Myth 4: Big companies optimize better</h3>
+<p>Big companies with a certain track record will know better how to optimize as they have more people and resources.
+<br/>
+<br/>
+At first glance, this sounds logical, but in reality, ninety percent of the innovation within the IT space comes from startups. The giant IT companies have a heritage they hardly can overcome. They are locked in old infrastructure designs, and building outside of that infrastructure would be costly, timely, and probably put the breaks on their businesses.
+<br/>
+<br/>
+Real innovation gives way to fix the core symptoms rather than taking the problem pain-killer approach.</p>
+</div>
+
+        <div class="w-full post-card-meta py-3">
+          <div class="avatars">
+            <div class="flex">
+              <div class="flex">
+                <ul class="list-none flex author-list mr-2 pl-0">
+                  
+                </ul>
+              </div>
+              <div class="flex flex-col text-left leading-none uppercase">
+                
+                <p class="text-gray-700 text-xs">
+                  <time datetime="2017-10-12">
+                    October 12, 2017
+                  </time>
+                </p>
+                <p class="flex justify-between lowercase my-2 items-center text-gray-700 text-xs"><span id="time"
+                    class="time"></span>
+                </p>
+              </div>
+              <br />
+            </div>
+          </div>
+        </div>
+    </a>
+  </div>
+
+</div>
+</div>
+
+<style>
+  .border-b {
+    border-bottom-width: 1px !important;
+  }
+</style>
+ 
+         
+    </div>
+    <hr class="mt-6" />
+    <p class="text-center text-sm mt-2 mb-16">
+      
+      <a
+        class="border-transparent"
+        aria-label="First page"
+        href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;categories&#x2F;farming&#x2F;"
+        ><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(1.22465e-16,-2,2,1.22465e-16,0,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(1.22465e-16,-2,2,1.22465e-16,0,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg></a
+      >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a
+        class="border-transparent"
+        aria-label="Previous page"
+        href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;categories&#x2F;farming&#x2F;blog-posts&#x2F;5&#x2F;"
+        ><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(1.22465e-16,-2,2,1.22465e-16,0,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg></a
+      >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a
+        class="border-transparent"
+        aria-label="Next page"
+        href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;categories&#x2F;farming&#x2F;blog-posts&#x2F;7&#x2F;"
+        ><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(-1.22465e-16,-2,-2,1.22465e-16,48,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg></a
+      >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a
+        class="border-transparent"
+        aria-label="Last page"
+        href="https:&#x2F;&#x2F;threefoldfoundation.github.io&#x2F;www_threefold_io&#x2F;categories&#x2F;farming&#x2F;blog-posts&#x2F;8&#x2F;"
+        ><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(-1.22465e-16,-2,-2,1.22465e-16,48,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg><svg width="12px" height="12px" class="inline" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><g transform="matrix(-1.22465e-16,-2,-2,1.22465e-16,48,48)"><path d="M12,0L24,24L0,24L12,0Z" style="fill:rgb(0,170,255);"/></g></svg></a
+      >
+      
+    </p>
+  </div>
+</div>
+
+
+
+        
+<div class="mx-8 md:mx-4 flex flex-col">
+    <div class="flex flex-col mb-12 mr-8 lg:mr-24">
+        <h4 class="text-base not-italic font-medium leading-6 text-gray-600 mb-6"> FILTER POSTS BY</h4>
+        <a id="all" class="mb-3 text-black font-normal" href="/blog">All</a>
+        
+        
+        
+            
+            
+            <a id="aci" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;aci> aci </a>
+        
+            
+            
+            <a id="cloud" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;cloud> cloud </a>
+        
+            
+            
+            <a id="farming" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;farming> farming </a>
+        
+            
+            
+            <a id="foundation" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;foundation> foundation </a>
+        
+            
+            
+            <a id="grid" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;grid> grid </a>
+        
+            
+            
+            <a id="tech" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;tech> tech </a>
+        
+            
+            
+            <a id="technology" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;technology> technology </a>
+        
+            
+            
+            <a id="tftech" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;tftech> tftech </a>
+        
+            
+            
+            <a id="threefold-grid" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;threefold-grid> threefold_grid </a>
+        
+            
+            
+            <a id="threefold-token" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;threefold-token> threefold_token </a>
+        
+            
+            
+            <a id="twin" class="mb-3 text-black font-normal" href=&#x2F;categories&#x2F;twin> twin </a>
+        
+    </div>
+
+
+
+    <div class="lg:pt-6 flex flex-col mb-12 w-64 mr-8 lg:mr-24">
+        <h4 class="text-base not-italic font-medium leading-6 text-gray-600 mb-6"> FEATURED POSTS</h4>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+</div>
+
+<script>
+    function setActiveCategory() {
+        let activeCategory = window.location.pathname.split("/")[2]    
+        if (typeof activeCategory === "undefined") { activeLink = document.getElementById("all") }
+        else { activeLink = document.getElementById(activeCategory)}
+        activeLink.className = activeLink.className.replace("text-black font-normal", "text-black font-semibold");
+    }
+
+    setActiveCategory()
+</script>
+    </div>
+ </main> 
+ 
+ 
+  </div>
+  <div class="p-8">
+    <!--
+  Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
+  Read the documentation to get started: https://tailwindui.com/documentation
+-->
+
+<html>
+    <head /><body>
+        <div class="mt-6 border-t border-gray-200 pt-2"></div>
+        <footer class="bg-white">
+          <div class="max-w-screen-2xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+            <div class="xl:flex xl:gap-4">
+              <div class="space-y-8 lg:max-w-sm xl:max-w-sm lg:mr-8 lg:mb-8 xl:col-span-1">
+                <img class="w-16 h-auto sm:w-15" src="https://threefoldfoundation.github.io/www_threefold_io/images/black_threefold.png" alt="ThreeFold Logo" />
+                <p class="text-gray-500 text-base leading-6 ">
+                  
+                </p>
+                
+
+<div class="flex space-x-4">
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldfoundation" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;github.com&#x2F;threefoldtech" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Github2</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" />
+</svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Twitter</span>
+        
+        <svg class="h-8 w-8" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24">
+    <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
+  </svg>
+        
+        </a>
+
+    
+
+        <a href="https:&#x2F;&#x2F;t.me&#x2F;threefoldnews" target="_blank" class="text-gray-400 hover:text-gray-500">
+        <span class="sr-only">Telegram</span>
+        
+        <svg data-v-14efe4a7="" xmlns="http://www.w3.org/2000/svg" width="1.6rem" height="1.6rem" fill="currentColor" viewBox="0 0 16 16" class="bi bi-telegram mt-1"><path data-v-14efe4a7="" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z"></path></svg>
+        
+        </a>
+
+    
+
+  </div>
+            </div>
+
+            <div class="mt-6 lg:mt-0 w-full px-8 sm:px-12 md:px-16 lg:px-20 footer-cust">
+                <!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+<!-- This fixes link paths in prod -->
+
+
+
+<!-- makes external links in row open in new tabs-->
+
+
+
+
+<!-- Splits body to columns -->
+
+
+
+<!-- aligns columns depending on col number-->
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    <!-- reverse col at mobile -->
+
+    
+
+    <!-- makes row with margins -->
+    
+
+    
+
+    
+
+    <!-- makes row full screen width, strips margins -->
+    
+        
+        
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+     
+
+        <!-- makes row full screen width, strips margins -->
+    
+
+    
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+<div class="relative flex flex-col lg:flex-row items-baseline -mx-8 sm:-mx-12 md:-mx-16 lg:-mx-20" style="" id="">
+
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 m-4 lg:m-0">
+                <!-- handles mermaid markdown content display -->
+                
+                    <h5 id="participate">PARTICIPATE</h5>
+<br>
+<h6 id="talk-to-threefolders"><a rel="nofollow noreferrer" target="_blank" href="https://t.me/threefold">Talk to ThreeFolders</a></h6>
+<h6 id="buy-the-token"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy">Buy the Token</a></h6>
+<h6><a target="_blank" href="" onclick="window.location.href='/farm'">Start Farming</a></h6>
+<h6 id="farming-community"><a rel="nofollow noreferrer" target="_blank" href="https://t.me/threefoldfarmers">Farming Community</a></h6>
+<h6 id="use-the-grid"><a rel="nofollow noreferrer" target="_blank" href="https://dashboard.grid.tf/">Use the Grid</a></h6>
+<h6 id="testing-community"><a rel="nofollow noreferrer" target="_blank" href="https://t.me/threefoldtesting">Testing Community</a></h6>
+<h6 id="threefold-connect-ios"><a rel="nofollow noreferrer" target="_blank" href="https://apps.apple.com/us/app/3bot-login/id1459845885">ThreeFold Connect: iOS</a></h6>
+<h6 id="threefold-connect-android"><a rel="nofollow noreferrer" target="_blank" href="https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&amp;hl=en_US">ThreeFold Connect: Android</a></h6>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 m-4 lg:m-0">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h5 id="knowledgebase">KNOWLEDGEBASE</h5>
+<br>
+<h6 id="threefold-grid"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold#/tfgrid/threefold__tfgrid_home">ThreeFold Grid</a></h6>
+<h6 id="threefold-technology"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold/#/technology/threefold__zos">ThreeFold Technology</a></h6>
+<h6 id="threefold-farming"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold/#/tfgrid/farming/threefold__farming_home">ThreeFold Farming</a></h6>
+<h6 id="threefold-token"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold/#/tokens/threefold__tokens_home">ThreeFold Token</a></h6>
+<h6 id="manuals"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold/#/manual_tfgrid3/threefold__manual3_home">Manuals</a></h6>
+<h6 id="threefold-glossary"><a rel="nofollow noreferrer" target="_blank" href="https://library.threefold.me/info/threefold/#/threefold__definitions_concepts">ThreeFold Glossary</a></h6>
+<p>
+                
+            </div>
+        
+     
+    
+        <!-- Hides empty columns if displayed vertically in small screen -->
+        
+            <div class="flex-1 m-4 lg:m-0">
+                <!-- handles mermaid markdown content display -->
+                
+                    </p>
+<h5 id="about-us">ABOUT US</h5>
+<br>
+<h6><a target="_self" onclick="window.location.href='/mission'">ThreeFold</a></h6>
+<h6><a target="_self" onclick="window.location.href='/partners'">Partners</a></h6>
+<h6><a target="_self" onclick="window.location.href='/blog'">Blog</a></h6>
+<h6><a target="_self" onclick="window.location.href='/newsroom'">NewsRoom</a></h6>
+<h6 id="forum"><a rel="nofollow noreferrer" target="_blank" href="https://forum.threefold.io/">Forum</a></h6>
+<h6><a target="_self" onclick="window.location.href='/support'">Support</a></h6>
+                
+            </div>
+        
+    
+</div>
+
+            </div>
+              
+              </div>
+              <div  class="mt-12 mx-auto border-t border-gray-200 pt-8">
+                <p data-v-14efe4a7="" class="text-base leading-6 text-gray-400 text-center">
+                © 2022 ThreeFold, All rights reserved.
+                <a target="_blank" href="https://library.threefold.me/info/legal/#/legal__terms_conditions_websites" class="leading-6 text-gray-500 hover:text-gray-900">Terms &amp; Conditions |
+                </a><a target="_blank" href="https://library.threefold.me/info/legal/#/legal__privacypolicy" class="leading-6 text-gray-500 hover:text-gray-900">Privacy Policy |
+                </a><a href="/tfLabs" class="leading-6 text-gray-500 hover:text-gray-900">ThreeFold Labs IT</a></p>
+              </div>
+    
+            </div>
+            
+          </div>
+
+
+          
+        </footer>
+        </body>
+        </html>
+        
+  </div>
+  <script type="text/javascript" src="https://threefoldfoundation.github.io/www_threefold_io/js/custom.js"></script>
+</body>
+
+</html>

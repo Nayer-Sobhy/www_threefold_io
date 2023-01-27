@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - adnan_fatayerji</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/people/adnan-fatayerji/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2019-03-06T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/people/adnan-fatayerji/atom.xml</id>
+	<entry xml:lang="en">
+		<title>The need for a sustainable digital currency</title>
+		<published>2019-03-06T00:00:00+00:00</published>
+		<updated>2019-03-06T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/new-digital-currency/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/new-digital-currency/</id>
+		<content type="html">&lt;h2 id=&quot;the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot; aria-label=&quot;Anchor link for: the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot;&gt;🔗&lt;&#x2F;a&gt;The world needs a new stable &amp;amp; green digital currency, which is usable globally&lt;&#x2F;h2&gt;
+&lt;p&gt;Digital currencies are on the way to global adoption. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges. Benefits of digital currencies include direct peer-to-peer transactions (requiring no intermediaries such as banks), greater trust (secured by cryptography and mathematics), lower friction charges, faster transaction times, and no single point of failure.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+However, cryptocurrencies commonly face some major problems, such as:
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lack of scalability&lt;&#x2F;strong&gt;: The main blockchains today are based on “proof of work” - generating very large and complex prime numbers called “hashes” to record ledger transactions. These proof of work blockchains cannot scale to meet the increasing blockchain transaction volumes. In fact, Ethereum, one of the most popular and well known blockchains has announced it will change from “proof of work” to “proof of stake.”&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Crazy energy requirements&lt;&#x2F;strong&gt;: Computing complex proof of work hashes requires enormous amounts of processing power. Actually, a large portion of today’s hashrate is produced by very large dedicated billion dollar data centers called miners. It is estimated that the energy consumed by digital currency mining is approximately equivalent to the power consumption of the entire country of Denmark.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Certain perceived reputational issues&lt;&#x2F;strong&gt;: Numerous commentators - particularly in the early years of bitcoin - speculated that unregulated digital currencies could be used to fund illicit activities.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;A general absence of intrinsic value&lt;&#x2F;strong&gt;: The major digital currencies today are not backed by real assets - therefore their value is more surrounded by hype.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Limited utility&lt;&#x2F;strong&gt;: Today digital currencies are predominantly held by miners and investors. There is very limited use of digital currencies to buy goods and services.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+These are some of the problems we see with cryptocurrencies. The world needs a new stable and green digital currency, which is usable globally. Enter ThreeFold Token.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;To learn more about the token, please dive into &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;token&quot;&gt;our wiki&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

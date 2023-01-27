@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - threefold_token</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/tags/threefold-token/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-09-08T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/tags/threefold-token/atom.xml</id>
+	<entry xml:lang="en">
+		<title>How to Access the ThreeFold Token and Provide Liquidity on Stellar</title>
+		<published>2022-09-08T00:00:00+00:00</published>
+		<updated>2022-09-08T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/access-threefold-token-and-provide-liquidity-on-stellar/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/access-threefold-token-and-provide-liquidity-on-stellar/</id>
+		<content type="html">&lt;p&gt;As we previously shared, we believe in the organic and sustainable growth of ThreeFold Token and the Internet of Internets vision. And one of our key goals is to strengthen the foundation of the ecosystem by enhancing the stability and liquidity of the ThreeFold Token (TFT). So today, we’re embarking on a little journey to find out how to access TFT and how to provide liquidity on Stellar via &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;albedo.link&#x2F;&quot;&gt;Albedo&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;what-are-liquidity-pools&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-are-liquidity-pools&quot; aria-label=&quot;Anchor link for: what-are-liquidity-pools&quot;&gt;🔗&lt;&#x2F;a&gt;What are liquidity pools?&lt;&#x2F;h4&gt;
+&lt;p&gt;Liquidity pools are an integral part of DeFi systems and can be understood as a “&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.blockchain-council.org&#x2F;defi&#x2F;crypto-liquidity-pools&#x2F;&quot;&gt;collection of tokens or digital assets stored in a smart contract&lt;&#x2F;a&gt;” on a decentralized exchange (DEX). Liquidity pools allow users to buy or sell such assets in a decentralized way and are used to enhance decentralized trading, lending&#x2F;borrowing and other DeFi services. Users get rewarded with a cut of the fees generated in the process to incentivize them to become liquidity providers.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;what-does-it-mean-to-drive-liquidity-on-stellar&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-does-it-mean-to-drive-liquidity-on-stellar&quot; aria-label=&quot;Anchor link for: what-does-it-mean-to-drive-liquidity-on-stellar&quot;&gt;🔗&lt;&#x2F;a&gt;What does it mean to drive liquidity on Stellar?&lt;&#x2F;h4&gt;
+&lt;p&gt;Stellar offers multiple great solutions and basically everything we need, so it’s crucial for us to start building our own liquidity there. Since every asset and currency starts with zero liquidity when issued on Stellar, it is up to the community to put capital onto the Stellar Network and to put that capital to use for trading, e.g. by adding liquidity to pools with TFT. The more liquidity we provide on Stellar, the more we contribute to creating and sustaining a healthy market for TFT there – while simultaneously attracting others to get involved in TFT.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;about-stellar&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#about-stellar&quot; aria-label=&quot;Anchor link for: about-stellar&quot;&gt;🔗&lt;&#x2F;a&gt;About Stellar &lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;thriving_with_stellar&#x2F;&quot;&gt;Stellar&lt;&#x2F;a&gt; is an open network for storing, moving and trading any kind of money transparently and efficiently, with a thriving ecosystem on top and a huge community. Find out all about Stellar, its role for the TFT ecosystem, how to buy TFT on Stellar, and more &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;thriving_with_stellar&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;about-albedo&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#about-albedo&quot; aria-label=&quot;Anchor link for: about-albedo&quot;&gt;🔗&lt;&#x2F;a&gt;About Albedo &lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;albedo.link&#x2F;&quot;&gt;Albedo&lt;&#x2F;a&gt; acts as a single access point to the Stellar ecosystem. It’s a free, open-source, secure and simple browser wallet for the Stellar Network. Albedo allows other Stellar apps to request transaction signing or identity verification – without ever requiring the exposure of users’ secret keys. It’s a nice and simple browser-based keystore with wallet-, swap- and liquidity pool functionalities. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Together, we will now go through the process of accessing TFT and providing liquidity on Stellar by using Albedo and its key features. All it takes are four simple steps:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Set up Albedo&lt;&#x2F;li&gt;
+&lt;li&gt;Get TFT&lt;&#x2F;li&gt;
+&lt;li&gt;Choose another asset&lt;&#x2F;li&gt;
+&lt;li&gt;Add liquidity to a pool&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;step-1-set-up-albedo&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-1-set-up-albedo&quot; aria-label=&quot;Anchor link for: step-1-set-up-albedo&quot;&gt;🔗&lt;&#x2F;a&gt;Step 1 – Set up Albedo&lt;&#x2F;h2&gt;
+&lt;p&gt;Albedo is not just a wallet. It’s a &lt;strong&gt;keystore&lt;&#x2F;strong&gt; that interconnects applications across the Stellar universe and signs a transaction or verifies your identity for you, without running the risk of exposing your secret key or having to create new accounts for every Stellar application. &lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-1-1-open-albedo&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-1-1-open-albedo&quot; aria-label=&quot;Anchor link for: step-1-1-open-albedo&quot;&gt;🔗&lt;&#x2F;a&gt;Step 1.1: Open Albedo&lt;&#x2F;h3&gt;
+&lt;p&gt;Albedo works as a &lt;strong&gt;web app and browser extension&lt;&#x2F;strong&gt;, meaning you can either access it in your browser or install the extension on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;chrome.google.com&#x2F;webstore&#x2F;detail&#x2F;kbojmmmibkfijmjgnfgfpngmmgkkpncl&quot;&gt;Chrome&lt;&#x2F;a&gt; or &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;addons.mozilla.org&#x2F;en-US&#x2F;firefox&#x2F;addon&#x2F;albedo-signer-for-stellar&#x2F;&quot;&gt;Firefox&lt;&#x2F;a&gt;. Once you’ve either opened Albedo in your browser or installed the extension, just follow the instructions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For this step-by-step guide, I’ve chosen to open Albedo in my browser instead of using the extension.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-1-2-set-up-your-albedo-account&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-1-2-set-up-your-albedo-account&quot; aria-label=&quot;Anchor link for: step-1-2-set-up-your-albedo-account&quot;&gt;🔗&lt;&#x2F;a&gt;Step 1.2: Set up your Albedo account&lt;&#x2F;h3&gt;
+&lt;p&gt;First, click on the “Create Albedo account”-button. Next, click “Proceed” on the bottom of the Welcome page.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Now, you can choose between between three main options:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Log in&lt;&#x2F;li&gt;
+&lt;li&gt;Import account&lt;&#x2F;li&gt;
+&lt;li&gt;Create account&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you already have an Albedo account, either directly &lt;strong&gt;log in&lt;&#x2F;strong&gt; or – if it’s the first time you’re using Albedo on a new device – click on the “Import Account”-button to &lt;strong&gt;import the 24 word passphrase or secret key&lt;&#x2F;strong&gt; and access your account.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;import_wallet.png&quot; alt=&quot;Import Wallet&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’re new to Albedo, you’ll need to create an Albedo account first in order to use the keystore. Choose a &lt;strong&gt;safe password&lt;&#x2F;strong&gt; for this account and hit “Create account”.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;set_account_password.png&quot; alt=&quot;Set Account Password&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;You just set up your Albedo account! Make sure to carefully read the instructions on keeping your &lt;strong&gt;recovery phrase&lt;&#x2F;strong&gt; safe, before continuing.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;recovery_phrase.png&quot; alt=&quot;Recovery Phrase&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Now you can check out your new account and play around with the settings, e.g. to change your account’s name. You also get an overview of all the possible ways to use Albedo.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;albedo_overview.png&quot; alt=&quot;Albedo Overview&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-1-3-activate-account-on-ledger&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-1-3-activate-account-on-ledger&quot; aria-label=&quot;Anchor link for: step-1-3-activate-account-on-ledger&quot;&gt;🔗&lt;&#x2F;a&gt;Step 1.3: Activate account on ledger&lt;&#x2F;h3&gt;
+&lt;p&gt;In order to make your Albedo account fully functional, you’ll need to initially activate the account on the ledger by sending at least &lt;strong&gt;1.6 XLM&lt;&#x2F;strong&gt; to your account’s address. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;step-2-get-tft&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-2-get-tft&quot; aria-label=&quot;Anchor link for: step-2-get-tft&quot;&gt;🔗&lt;&#x2F;a&gt;Step 2 – Get TFT&lt;&#x2F;h2&gt;
+&lt;p&gt;The time has come to fund your Albedo account with TFT. Simply swap other assets for TFT if you’re already holding some in your Albedo account or transfer TFT from other wallets.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Good to know: Albedo doesn’t provide a direct fiat gateway. Visit our TFT knowledge base to discover all the ways you can &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy?id=how-to-buy-amp-sell-tft&quot;&gt;buy TFT&lt;&#x2F;a&gt;, including fiat options.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-2-2-a-deposit-tft-to-your-albedo-account&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-2-2-a-deposit-tft-to-your-albedo-account&quot; aria-label=&quot;Anchor link for: step-2-2-a-deposit-tft-to-your-albedo-account&quot;&gt;🔗&lt;&#x2F;a&gt;Step 2.2.A: Deposit TFT to your Albedo account&lt;&#x2F;h3&gt;
+&lt;p&gt;If you’re holding TFT in a different wallet, simply transfer the tokens and send them to your Albedo account. Simply open your wallet and send TFT to your Albedo address. It’s best to copy your Albedo address which is displayed in the top-left corner by clicking on the copy-symbol – it’s not only faster but also safer as copying prevents you from making typos.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;copy_wallet_address.png&quot; alt=&quot;Copy Wallet Address&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-2-2-b-swap-xlm-usdc-for-tft-within-albedo&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-2-2-b-swap-xlm-usdc-for-tft-within-albedo&quot; aria-label=&quot;Anchor link for: step-2-2-b-swap-xlm-usdc-for-tft-within-albedo&quot;&gt;🔗&lt;&#x2F;a&gt;Step 2.2.B: Swap XLM&#x2F;USDC for TFT within Albedo&lt;&#x2F;h3&gt;
+&lt;p&gt;You could also stay within Albedo by buying XLM or USDC first and then swapping them for TFT.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;swap_for_tft.png&quot; alt=&quot;Swap for TFT&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Important note&lt;&#x2F;strong&gt;: I recommend buying XLM regardless of whether you’re choosing option A or B, as you’re going to &lt;strong&gt;need XLM to pay for the transaction fees&lt;&#x2F;strong&gt; within the Stellar Network anyways.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-2-3-activate-assets&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-2-3-activate-assets&quot; aria-label=&quot;Anchor link for: step-2-3-activate-assets&quot;&gt;🔗&lt;&#x2F;a&gt;Step 2.3: Activate assets&lt;&#x2F;h3&gt;
+&lt;p&gt;Please note that you have to add a trustline for any asset you want to store in your Albedo account in order to activate it. Just go to “Balance” in your account overview. On the bottom of the page, you’ll find the “Add trustline”-button.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;activate_assets.png&quot; alt=&quot;Activate Assets&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Click on “Add trustline”, then press the “Choose an asset” on the next page and type TFT into the “Select an asset”-field.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;choose_asset_trustline.png&quot; alt=&quot;Choose Asset Trustline&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Caution: make sure to select the right TFT&lt;&#x2F;strong&gt; – the one with our logo that’s linked with our website threefold.io – as shown in the image below.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;select_asset_trustline.png&quot; alt=&quot;Select Asset Trustline&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Now you can activate the selected asset by pressing “Add trustline”.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;add_trustline.png&quot; alt=&quot;Add Trustline&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;step-3-choose-another-asset&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-3-choose-another-asset&quot; aria-label=&quot;Anchor link for: step-3-choose-another-asset&quot;&gt;🔗&lt;&#x2F;a&gt;Step 3 – Choose another asset&lt;&#x2F;h2&gt;
+&lt;p&gt;At this point, you already have TFT in your Albedo account, so it’s time to choose a second asset to combine with TFT as a trading pair like XLM or USDC. You can get XLM or USDC on many exchanges and then deposit it to your Albedo wallet.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Repeat the same procedure of buying&#x2F;depositing&#x2F;swapping and activating for this second asset – the other part of the trading pair you’ve chosen to provide liquidity to in a pool. We chose USDC.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;step-4-add-liquidity-to-a-pool&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-4-add-liquidity-to-a-pool&quot; aria-label=&quot;Anchor link for: step-4-add-liquidity-to-a-pool&quot;&gt;🔗&lt;&#x2F;a&gt;Step 4 – Add liquidity to a pool&lt;&#x2F;h2&gt;
+&lt;p&gt;For this guide, we’ll be depositing TFT and USDC in order to provide liquidity to the pool. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;So after creating and activating your account and assets on Albedo, you’re now holding TFT and USDC. You’re ready to add liquidity to the TFT &amp;lt;&amp;gt; USDC pool on Albedo.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-4-1-select-assets-amount&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-4-1-select-assets-amount&quot; aria-label=&quot;Anchor link for: step-4-1-select-assets-amount&quot;&gt;🔗&lt;&#x2F;a&gt;Step 4.1: Select assets &amp;amp; amount&lt;&#x2F;h3&gt;
+&lt;p&gt;Head to the “Liquidity” section in order to select the two assets you’d like to provide liquidity to and to set the amount of TFT and USDC you would like to provide to this pool.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;select_assets_and_amount.png&quot; alt=&quot;Select Assets and Amount&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-4-2-deposit-liquidity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#step-4-2-deposit-liquidity&quot; aria-label=&quot;Anchor link for: step-4-2-deposit-liquidity&quot;&gt;🔗&lt;&#x2F;a&gt;Step 4.2: Deposit liquidity&lt;&#x2F;h3&gt;
+&lt;p&gt;Now you’re ready to provide liquidity! Click on the “Deposit liquidity to the pool”-button located at the bottom of your screen to add the selected assets to the pool.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;deposit_liquidity_to_pool.png&quot; alt=&quot;Deposit Liquidity to Pool&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Congrats, you’ve just added liquidity to the TFT &amp;lt;&amp;gt; USDC pool!&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Now you’re a liquidity provider on Stellar! Other ways to contribute to Stellar’s liquidity pools are &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;xbull.app&#x2F;&quot;&gt;xBull Wallet&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellarx.com&#x2F;&quot;&gt;StellarX&lt;&#x2F;a&gt;. No matter which of the interfaces you use, they all enable you to add liquidity to the same underlying pool on the &lt;strong&gt;StellarDEX&lt;&#x2F;strong&gt; for the trading pair you chose.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As exciting as this is, please don’t forget: With great decentralization comes great responsibility! So, do your own research on how liquidity pools work and make sure you understand the risks related to impermanent loss. Also, read &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__threefold_wallets?id=important-notes&quot;&gt;this advice&lt;&#x2F;a&gt; on keeping your TFT safe.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Feel free to ask any questions either in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;chats&lt;&#x2F;a&gt; or the forum’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;threefold-token&#x2F;22&quot;&gt;token section&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note that the ThreeFold Token (&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__threefold_token&quot;&gt;TFT&lt;&#x2F;a&gt;) is not an investment instrument. Also, this is not investment advice, everyone is free to make their own choices. So, do your own research and read our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;legal&#x2F;#&#x2F;legal__disclaimer&quot;&gt;disclaimer&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The ThreeFold Token is Built for Growth &amp; Key to the Internet of Internets</title>
+		<published>2022-08-31T00:00:00+00:00</published>
+		<updated>2022-08-31T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/threefold-token-built-for-growth/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/threefold-token-built-for-growth/</id>
+		<content type="html">&lt;p&gt;Today, the blockchain space is flooded with as many as 22,000 coins and tokens and for several months now, the market has been struggling at large with some coins even collapsing. A thorough shakeout could expose those tokens and coins purely focused on making quick profits and creating hype, and mitigate pump-and-dump schemes. Now’s the time for projects like us to shine – projects with tokens that serve a higher purpose and come with sound tokenomics.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tft-an-accessible-utility-token&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tft-an-accessible-utility-token&quot; aria-label=&quot;Anchor link for: tft-an-accessible-utility-token&quot;&gt;🔗&lt;&#x2F;a&gt;TFT – An Accessible Utility Token&lt;&#x2F;h2&gt;
+&lt;p&gt;We’re an Internet infrastructure project building the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt; together with a growing community around the world. So, TFT is not just any token. TFT is our native utility token, and as such, is backed by the continuous growth of the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Generally speaking, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__newtotokens?id=threefold-token-for-beginners&quot;&gt;utility tokens&lt;&#x2F;a&gt; are created to give digital access to specific products or services. While they do provide value in different ways, they cannot be considered “money” as directly as coins can be.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As the utility token and medium of exchange of the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tfgrid&#x2F;threefold__grid_intro&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt;, TFT represents Internet capacity. It supports a truly decentralized Internet for all and is leveraged to access and scale our open-source peer-to-peer Internet infrastructure. TFT is and will remain our main token, it’s our global currency. In a nutshell, TFT is our way of incentivizing an open ecosystem where anyone can connect and utilize Internet capacity without any intermediaries.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We’ve made a lot of progress in making the ThreeFold Token more accessible and in creating a healthy financial ecosystem for it. Moreover, the team is building our own DeFi solutions. You can learn more about our efforts towards providing a native financial system for the Internet of Internets &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;future_tft_ecosystem&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;If you’re new to ThreeFold, I recommend giving our “&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__newtotokens&quot;&gt;ThreeFold Token for Beginners&lt;&#x2F;a&gt;” page a read.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;limited-supply-and-strong-scarcity-mechanisms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#limited-supply-and-strong-scarcity-mechanisms&quot; aria-label=&quot;Anchor link for: limited-supply-and-strong-scarcity-mechanisms&quot;&gt;🔗&lt;&#x2F;a&gt;Limited Supply and Strong Scarcity Mechanisms&lt;&#x2F;h2&gt;
+&lt;p&gt;First of all, the supply of TFT is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__tft_limited_supply&quot;&gt;limited&lt;&#x2F;a&gt; to a total number of 4 billion. New TFT are only minted when new Internet capacity is added to the ThreeFold Grid – we call this process of connecting capacity &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__farming_intro&quot;&gt;farming&lt;&#x2F;a&gt;. The tokens are minted using our so-called &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__proof_of_capacity&quot;&gt;Proof of Capacity&lt;&#x2F;a&gt; algorithm. We’re also exploring the possibility of providing farmers with booster rewards for certain achievements in areas like reliability and uptime, quality of bandwidth, level of utilization. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In line with our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;planet_first_people_first&#x2F;&quot;&gt;planet-first people-first philosophy&lt;&#x2F;a&gt;, we’ve implemented a Voluntary Carbon Credits system in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions, as outlined &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;To incentivize the long-term growth of the ecosystem, a burning mechanism permanently removes TFT from the circulating supply, as this ensures scarcity and continuous &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__farming_reward&quot;&gt;farming rewards&lt;&#x2F;a&gt;. Burning will increase proportionally as the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__proof_of_utilization&quot;&gt;utilization&lt;&#x2F;a&gt; of the Grid grows, ensuring the amount of TFT in the market is limited and leading to a healthy economic system.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Also, many existing token holders expressed their confidence and support by &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__vesting_overview&quot;&gt;vesting&lt;&#x2F;a&gt; their TFT in 2021, further limiting the number of TFT circulating. Moreover, chances are that a growing number of token owners will hold onto their TFT – because they expect the token to rise in value – which will increase scarcity. Ultimately, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__threefold_token&quot;&gt;TFT&lt;&#x2F;a&gt; has the potential to become a valuable commodity, offering a more reliable alternative to other digital currencies like Bitcoin. The hoarding of TFT means that these tokens won’t be available to be used on the Grid, additionally reducing the amount of available TFT.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;And there are more factors potentially reinforcing scarcity. Staking is the mechanism to let the community invest and benefit from the growth of the Grid. Once the validator nodes can be deployed, validator owners and community members will be able to stake TFT on the validators which will secure the blockchain. To unlock voting rights and rewards, a certain amount of TFT has to be staked. Eventually, rewards for the validator owners could account for up to 50% of the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__threefold_token&quot;&gt;TFT&lt;&#x2F;a&gt; supply.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The combination of the token’s scarcity mechanisms with our staking and validator programs will lead to an increased scarcity of TFT on the market – which, in turn, will allow our future DeFi solutions to sell TFT at a higher value. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Visit our wiki to dive deeper into our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__tokenomics&quot;&gt;tokenomics&lt;&#x2F;a&gt; and to find more details on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__grid_valuation&quot;&gt;value of TFT&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tft-s-role-for-the-internet-of-internets&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tft-s-role-for-the-internet-of-internets&quot; aria-label=&quot;Anchor link for: tft-s-role-for-the-internet-of-internets&quot;&gt;🔗&lt;&#x2F;a&gt;TFT’s Role for the Internet of Internets&lt;&#x2F;h2&gt;
+&lt;p&gt;We don’t believe in hype or speculation, and we don’t spend any of our scarce resources on supporting speculation. We believe in the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt; which will interconnect us all, while providing us with digital sovereignty, privacy and meaningful experiences. We believe in the organic and sustainable growth of ThreeFold Token and the Internet of Internets vision.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Along with building community-owned Internets, our ecosystem is reimagining education, business, governance and more for a fair, inclusive and regenerative future – opening up a new world of possibilities. And in order to connect such an ecosystem of Internets, a healthy and fair financial system with a strong, stable currency is key.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As the glocal concept will be rolled out, the ThreeFold Token will unfold its &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-the-real-value-of-tft&#x2F;3143&quot;&gt;potential&lt;&#x2F;a&gt; and flourish. The Internet of Internets empowers people to build their own regional Internet infrastructures and will become a huge stimulator for the TFT economy. Every Regional Internet will have its own self-sustaining liquidity pool, validators, and regional digital currencies – with TFT acting as the reserve currency of the entire decentralized system. It is the currency needed to transfer between all the different Regional Internets via liquidity pools. TFT is also the currency of the main ThreeFold Blockchain.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Catch a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;future_tft_ecosystem&#x2F;&quot;&gt;glimpse of the future&lt;&#x2F;a&gt; of the TFT ecosystem to learn more!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-internet-of-internets-as-a-catalyst-for-token-growth&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-internet-of-internets-as-a-catalyst-for-token-growth&quot; aria-label=&quot;Anchor link for: the-internet-of-internets-as-a-catalyst-for-token-growth&quot;&gt;🔗&lt;&#x2F;a&gt;The Internet of Internets as a Catalyst for Token Growth&lt;&#x2F;h2&gt;
+&lt;p&gt;ThreeFold is not only for believers in open source and decentralization. ThreeFold, and TFT, are needed. TFT is &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-the-real-value-of-tft&#x2F;3143&quot;&gt;much more&lt;&#x2F;a&gt; than a simple token. It energizes the ThreeFold Grid and the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;four_phases_of_threefold&#x2F;&quot;&gt;expansion&lt;&#x2F;a&gt; of a truly decentralized Internet. There are many new ecosystem developments, tech advancements and building blocks for the Internet of Internets happening all around.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The realization of the Internet of Internets combined with the previously mentioned burning and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__tft_limited_supply&quot;&gt;scarcity&lt;&#x2F;a&gt; mechanisms will trigger basic supply-and-demand mechanisms. The limited token supply will meet a rising demand for TFT. The token will be needed to buy and reserve current or future Internet capacity and services on our Grid as well as for driving the rollout and expansion of the Internet of Internets – establishing the global Internets of Internets alone will require billions of TFT. In addition to that, TFT will be needed to access the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;lets-test-out-freeflow-twin-beta-formerly-uhuru&#x2F;3299&#x2F;12&quot;&gt;FreeFlow Twin&lt;&#x2F;a&gt; (formerly known as Uhuru) and to deploy workloads on the Grid, e.g. through weblets on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-focus-series-tf-playground-v3-7-0&#x2F;3315&#x2F;3&quot;&gt;TF Playground&lt;&#x2F;a&gt;. All in all, there will be a natural economic demand for TFT.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;For farmers, developers and community members looking to build a better world, there has never been a better time to join the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;movement&lt;&#x2F;a&gt; and take action. This is an exciting time to be part of the global ThreeFold community.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Subscribe to our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefoldnews&quot;&gt;news channel&lt;&#x2F;a&gt; and to our newsletter via the mail icon on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;&quot;&gt;our website&lt;&#x2F;a&gt; to stay up-to-date on everything that’s happening with TFT and the Internet of Internets!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note that the ThreeFold Token (&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__threefold_token&quot;&gt;TFT&lt;&#x2F;a&gt;) is not an investment instrument. TFT represents IT capacity on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__threefold_grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt;, farmers create TFT, developers use TFT. Also, this is not investment advice, everyone is free to make their own choices. So, do your own research and read our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;legal&#x2F;#&#x2F;legal__disclaimer&quot;&gt;disclaimer&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Glimpse into the Future of the TFT Ecosystem</title>
+		<published>2022-08-11T00:00:00+00:00</published>
+		<updated>2022-08-11T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/future-tft-ecosystem/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/future-tft-ecosystem/</id>
+		<content type="html">&lt;p&gt;The emergence of blockchain technology presented the world with new exciting opportunities – from independent digital currencies and decentralized financial (DeFi) applications to smart contracts, consensus-driven voting systems, and decentralized autonomous organizations (DAOs). Above all, blockchain technology held, and still holds, the promise of decentralization and transparency.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;But somewhere along the way, much of the blockchain and crypto space started to return to principles and methods of the old financial system. Many projects out there seem to choose hype and fast profits over long-term growth and providing real value. Now, unsurprisingly, we’re experiencing a serious bear market, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cointelegraph.com&#x2F;news&#x2F;2022-bear-market-has-been-the-worst-on-record-glassnode&quot;&gt;the worst&lt;&#x2F;a&gt; crypto has seen to date.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;That doesn’t have to be a bad thing, though. And it won’t be, for projects like us who provide real value, bring impactful solutions, and take a different approach. The monetary system is clearly failing, we shouldn’t need to rely on central banks – or even centralized exchanges for that matter. And we don’t have to!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We believe in decentralization. And we believe that the future is decentralized. DeFi is great and fortunately, many decentralized alternatives already exist, with thriving ecosystems and communities. There are many options to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;buy and sell TFT&lt;&#x2F;a&gt; in a decentralized way, including multiple options within the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;thriving_with_stellar&#x2F;&quot;&gt;Stellar ecosystem&lt;&#x2F;a&gt; – and we’re also exploring meaningful partnership opportunities with Algorand. Both Stellar and Algorand already provide everything we need for a healthy financial ecosystem and offer various functions crucial for the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796&quot;&gt;TFT&lt;&#x2F;a&gt; ecosystem – from order books to wallets to AMM liquidity pools and on&#x2F;off ramp options. And both have huge, thriving communities.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Beyond these great decentralized options, we’ve decided to develop our own DeFi solutions to support the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;four_phases_of_threefold&#x2F;&quot;&gt;growth and expansion&lt;&#x2F;a&gt; of the Internet of Internets and an abundance-based future where we are truly sovereign: community-based liquidity pools and the P2P DeFi Wallet. These DeFi solutions will be the foundation of the financial system for the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Let’s take a look at both of the innovative features and when to expect them.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-are-threefold-liquidity-pools&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-are-threefold-liquidity-pools&quot; aria-label=&quot;Anchor link for: what-are-threefold-liquidity-pools&quot;&gt;🔗&lt;&#x2F;a&gt;What are ThreeFold Liquidity Pools?&lt;&#x2F;h2&gt;
+&lt;p&gt;ThreeFold’s community-based liquidity pools are a means of enabling the people and organizations within the ThreeFold ecosystem to exchange &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tft&quot;&gt;TFT&lt;&#x2F;a&gt; and to provide liquidity in a safe and decentralized way. They will become the main point of entry and exit for TFT. And everyone can be a part of this.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-the-p2p-defi-wallet&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-is-the-p2p-defi-wallet&quot; aria-label=&quot;Anchor link for: what-is-the-p2p-defi-wallet&quot;&gt;🔗&lt;&#x2F;a&gt;What is the P2P DeFi Wallet?&lt;&#x2F;h2&gt;
+&lt;p&gt;As the name P2P DeFi Wallet already gives away, this new wallet is a DeFi platform based on peer-to-peer principles. It will enable anyone to buy and sell TFT, and to trade it for other digital currencies in a highly secure and safe way within the wallet – no need to integrate with other DeFi applications or exchanges. This prevents TFT from market manipulation and protects our community from abuse by financial bots. This wallet provides a solid, stable financial base for our token.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-are-these-new-defi-solutions-important-for-the-threefold-ecosystem&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-are-these-new-defi-solutions-important-for-the-threefold-ecosystem&quot; aria-label=&quot;Anchor link for: why-are-these-new-defi-solutions-important-for-the-threefold-ecosystem&quot;&gt;🔗&lt;&#x2F;a&gt;Why Are These New DeFi Solutions Important for the ThreeFold Ecosystem?&lt;&#x2F;h2&gt;
+&lt;p&gt;Blockchain ecosystems like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;thriving_with_stellar&#x2F;&quot;&gt;Stellar&lt;&#x2F;a&gt; and Algorand are amazing and offer everything we need to organically grow the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796?u=hannahcordes&quot;&gt;ThreeFold Token&lt;&#x2F;a&gt;. And yet, we need additional mechanisms for liquidity providing which are designed to support the Internet of Internets. Many AMM DeFi pools are great and a step forward but not sufficient for certain use cases, e.g. DeFi pools usually don’t support bigger exchange trades, as the price would be too affected. Classic order book trading on-chain comes with its own set of limitations as well.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Along with building community-owned Internets, our ecosystem is reimagining education, business, governance and more for a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;planet_first_people_first&#x2F;&quot;&gt;fair, inclusive and regenerative future&lt;&#x2F;a&gt; – opening up a new world of possibilities. And in order to connect such an ecosystem of Internets, a healthy and fair financial system is key.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The liquidity pools and our P2P DeFi Wallet will work together. They are designed to improve the stability and liquidity of TFT, and will allow us to acquire as many tokens as possible from external sources. Buying back as many TFT as possible will not only lead to the rise and stabilization of the value of TFT – it will also allow us to build a protected treasury that supports our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;co-owned future&lt;&#x2F;a&gt;, as the TFT in the pools will be used to provide the community with liquidity as we grow.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The liquidity pools and the new wallet are key to building our own liquid, peer-to-peer financial system based on Web 4 principles – powering a new economic model and offering a fair, equally accessible and decentralized financial system for the Internet of Internets. Additionally, the liquidity coming from the pools and the wallet will enable us to accelerate the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;four_phases_of_threefold&#x2F;&quot;&gt;expansion and Web 4 phases&lt;&#x2F;a&gt; of our journey towards building the future we want to live in.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The combination of TFT’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796&quot;&gt;scarcity mechanisms&lt;&#x2F;a&gt; with our staking and validator programmes, will lead to an increased scarcity of TFT on the market – which, in turn, will allow the liquidity pools and wallet to sell TFT at a higher value.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-future-of-the-tft-ecosystem&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-future-of-the-tft-ecosystem&quot; aria-label=&quot;Anchor link for: the-future-of-the-tft-ecosystem&quot;&gt;🔗&lt;&#x2F;a&gt;The Future of the TFT Ecosystem&lt;&#x2F;h2&gt;
+&lt;p&gt;We believe in the organic growth of our token and the Internet of Internets vision. So, building our own sustainable, peer-to-peer DeFi system will mark a new chapter for the ThreeFold movement. And the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt; concept will become a huge stimulator for the TFT economy, as every Regional Internet will have its own self-sustaining liquidity pool, validators, and regional TFTs – with TFT acting as the reserve currency of the entire decentralized system.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Developing our own DeFi solutions for the Internet of Internets will complement the opportunities of ecosystems like Stellar and Algorand, and enrich the TFT ecosystem. The community-based liquidity pools and P2P wallet are another major step in bringing a fair financial model that will create more opportunities and empower people from all over the world to co-create a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;planet_first_people_first&#x2F;&quot;&gt;better system for all&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We are excited for these new solutions which are expected by early next year. &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;Join the movement&lt;&#x2F;a&gt; to stay updated on the TFT ecosystem! &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Learn more:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.docsend.com&#x2F;view&#x2F;3mu3cddgj7znuixj&quot;&gt;Liquidity Litepaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-the-real-value-of-tft&#x2F;3143&quot;&gt;What is the real value of TFT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;status-and-timing-of-liquidity-pools-and-p2p-defi-wallet&#x2F;3228&quot;&gt;Status and timing of liquidity pools and P2P DeFi Wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Thriving with Stellar – The Role of Stellar for the TFT Ecosystem &amp; How to Buy TFT on Stellar</title>
+		<published>2022-08-04T00:00:00+00:00</published>
+		<updated>2022-08-04T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/thriving-with-stellar/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/thriving-with-stellar/</id>
+		<content type="html">&lt;h2 id=&quot;about-stellar-its-role-for-the-threefold-token&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#about-stellar-its-role-for-the-threefold-token&quot; aria-label=&quot;Anchor link for: about-stellar-its-role-for-the-threefold-token&quot;&gt;🔗&lt;&#x2F;a&gt;About Stellar &amp;amp; Its Role for the ThreeFold Token&lt;&#x2F;h2&gt;
+&lt;p&gt;Launched in 2014, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;&quot;&gt;Stellar&lt;&#x2F;a&gt; is an open network for storing, moving and trading any kind of money transparently and efficiently. The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;learn&#x2F;intro-to-stellar&quot;&gt;decentralized system&lt;&#x2F;a&gt; enables users “to create, send, and trade digital representations of all forms of money” in a faster, cheaper and more energy-efficient way – facilitating millions of transactions on a daily basis.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;news&#x2F;post&#x2F;stellar&#x2F;&quot;&gt;2020&lt;&#x2F;a&gt;, ThreeFold decided to move the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__token_what&quot;&gt;ThreeFold Token&lt;&#x2F;a&gt; (TFT) to Stellar from Rivine (a transactional blockchain created by ThreeFold), which still is the main blockchain for the minting of TFT and the distribution of farming rewards. Internet capacity provisioning and workload deployments are executed via &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;tf_chain&#x2F;&quot;&gt;TF Chain&lt;&#x2F;a&gt;. Therefore, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;bridges_connecting_threefold_ecosystem&#x2F;&quot;&gt;bridges&lt;&#x2F;a&gt; between Stellar and TF Chain were established to facilitate payments.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Learn more about the blockchains TFT is available on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;bridges_connecting_threefold_ecosystem&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-we-chose-stellar-what-the-network-offers&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-we-chose-stellar-what-the-network-offers&quot; aria-label=&quot;Anchor link for: why-we-chose-stellar-what-the-network-offers&quot;&gt;🔗&lt;&#x2F;a&gt;Why we chose Stellar &amp;amp; What the Network offers&lt;&#x2F;h2&gt;
+&lt;p&gt;We were and still are big fans of Stellar. Over the last two years, we’ve had a great experience with Stellar. And we believe everything we need for a healthy financial ecosystem is already available on Stellar.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The Stellar Network is faster, more cost-effective and more energy-efficient than usual blockchain-based systems. It’s a huge, highly reliable network that integrates a multitude of digital currencies and provides good liquidity. In addition to that, we share the same values and a similar vision: Stellar and ThreeFold are both open source, looking to empower humanity and striving towards building fair, inclusive systems.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Stellar has a lot to offer, including:&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;on-off-ramps&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#on-off-ramps&quot; aria-label=&quot;Anchor link for: on-off-ramps&quot;&gt;🔗&lt;&#x2F;a&gt;On&#x2F;Off Ramps&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Stellar helps exchanges with enabling compliant &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;resources.stellar.org&#x2F;stellar-for-exchanges&quot;&gt;on&#x2F;off ramps&lt;&#x2F;a&gt; and thereby opens up exchanges’ access to new markets, users and services&lt;&#x2F;li&gt;
+&lt;li&gt;Stellar does so through native and interoperable on&#x2F;off-ramps within the Stellar Network, called anchors&lt;&#x2F;li&gt;
+&lt;li&gt;All exchanges have to do is integrate assets like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;usdc&quot;&gt;Stellar USDC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;order-books&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#order-books&quot; aria-label=&quot;Anchor link for: order-books&quot;&gt;🔗&lt;&#x2F;a&gt;Order Books&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Stellar has a built-in decentralized exchange, SDEX, which enables users to place orders to buy or sell one Stellar-network asset for another&lt;&#x2F;li&gt;
+&lt;li&gt;These orders are aggregated into so-called &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;stellar.org&#x2F;blog&#x2F;introducing-automated-market-makers-on-stellar&quot;&gt;order books&lt;&#x2F;a&gt; and prioritized for execution based on price&lt;&#x2F;li&gt;
+&lt;li&gt;The order book model is very established – it’s the same model used by traditional exchanges where users trade forex or cryptocurrencies&lt;&#x2F;li&gt;
+&lt;li&gt;In general, order books on decentralized money chains are pretty straightforward, while basically offering the same functionalities as centralized exchanges&lt;&#x2F;li&gt;
+&lt;li&gt;The order book on Stellar is relatively small but as people start using it it will get bigger, there is no downside compared to Liquid&lt;&#x2F;li&gt;
+&lt;li&gt;TFT is also available on order books on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;usdc&quot;&gt;Stellar USDC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;automated-market-makers-amms&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#automated-market-makers-amms&quot; aria-label=&quot;Anchor link for: automated-market-makers-amms&quot;&gt;🔗&lt;&#x2F;a&gt;Automated Market Makers (AMMs)&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;As of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;developers-blog&#x2F;protocol-18-upgrade-complete&quot;&gt;November 2021&lt;&#x2F;a&gt;, Stellar natively supports the creation of AMMs to improve liquidity and to thereby make cross-border payments fast, cheap, and highly usable&lt;&#x2F;li&gt;
+&lt;li&gt;AMMs &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;stellar.org&#x2F;blog&#x2F;introducing-automated-market-makers-on-stellar&quot;&gt;coexist alongside&lt;&#x2F;a&gt; the SDEX as an alternate source of liquidity&lt;&#x2F;li&gt;
+&lt;li&gt;They democratize access by making the process of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;stellar.org&#x2F;blog&#x2F;amms-in-the-stellar-ecosystem&quot;&gt;providing liquidity&lt;&#x2F;a&gt; accessible, simple, and inclusive while making asset conversion more efficient&lt;&#x2F;li&gt;
+&lt;li&gt;While users trade against other users’ existing orders in the order book model, users trade against a liquidity pool with AMMs&lt;&#x2F;li&gt;
+&lt;li&gt;AMMs on Stellar are a great opportunity to provide easily accessible liquidity at scale, especially for markets that are new and&#x2F;or overlooked by traditional market makers, as issuers of an asset on Stellar don’t have to rely on market makers anymore – with AMMs, they can set up liquidity pools and enable individuals to provide liquidity&lt;&#x2F;li&gt;
+&lt;li&gt;Small fees incur when trading against a liquidity pool to incentivize liquidity providers&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;wallets&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#wallets&quot; aria-label=&quot;Anchor link for: wallets&quot;&gt;🔗&lt;&#x2F;a&gt;Wallets &lt;&#x2F;h4&gt;
+&lt;p&gt;Stellar provides a number of different &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;ecosystem&#x2F;projects?tab=wallets#Wallets&quot;&gt;wallets&lt;&#x2F;a&gt; with various functionalities, both hardware and software wallets, to make it really simple for users to enter the Stellar Network – from LOBSTR and Solar to StellarX and Trezor.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;So, as you can see, Stellar offers multiple great solutions and basically everything we need. It’s all there – order books, AMMs, wallets, and more – and it’s decentralized! Now, we only have to start building our own liquidity on Stellar.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Since every asset and currency starts with zero liquidity when issued on Stellar, it is up to the community to put capital onto the Stellar Network and to put that capital to use for trading, e.g. by creating orders on the order books, to build liquidity on Stellar – i.e. to create and sustain a healthy market for TFT. Therefore, we encourage you all to choose Stellar as the primary platform to trade TFT. If all of us together put our liquidity there, we’ll be able to create a very healthy TFT ecosystem, and thereby also attract others to get involved in TFT. Actually, this is a great chance for us to take back control of and strengthen the token – without any interferences or manipulations from centralized exchanges. Together, we build.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;usdc&quot;&gt;Stellar USDC&lt;&#x2F;a&gt; brings the world’s fastest-growing USD stablecoin to Stellar, an incredibly efficient and fast network. Through Stellar USDC, a fully-backed and trusted digital US Dollar asset, dollars can now move anywhere and to anyone, across borders, and be immediately converted into and out of the world’s currencies. Learn more about how it works &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;usdc-get-started&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-buy-tft-with-stellar&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-to-buy-tft-with-stellar&quot; aria-label=&quot;Anchor link for: how-to-buy-tft-with-stellar&quot;&gt;🔗&lt;&#x2F;a&gt;How to Buy TFT with Stellar&lt;&#x2F;h2&gt;
+&lt;p&gt;Basically, selling and buying TFT is possible via all the above and below mentioned interfaces and wallets within the Stellar Network through &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;usdc&quot;&gt;Stellar USDC&lt;&#x2F;a&gt;. We currently recommend the following ways to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__tft_stellar_dex&quot;&gt;buy TFT on Stellar&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.freighter.app&#x2F;&quot;&gt;Freighter&lt;&#x2F;a&gt; is a non-custodial Stellar wallet extension that enables you to sign Stellar transactions via your browser&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__lobstr_wallet&quot;&gt;LOBSTR&lt;&#x2F;a&gt; is a leading platform for managing all assets issued on the Stellar Network. It’s a simple and secure Stellar wallet that allows you to buy TFT trading pairs with a credit card and MoneyGram&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__tft_stellarterm&quot;&gt;StellarTerm&lt;&#x2F;a&gt; is an open-source client that allows users to easily send, receive and trade assets on the Stellar Network&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__solar_wallet&quot;&gt;Solar&lt;&#x2F;a&gt; is a secure, open and free Stellar wallet with features like multi-signature accounts, asset management, and more&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__tft_interstellar&quot;&gt;Interstellar&lt;&#x2F;a&gt; provides a complete digital currency experience to easily create, send, receive, swap and trade digital currencies and other tokenonized assets&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Visit the linked library pages to find detailed step-by-step guides for all methods. Please note we are working on making these resources as clear as possible. So, feel free to ask any questions around how to buy TFT with Stellar on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;threefold-token&#x2F;getting-tft&#x2F;33&quot;&gt;the forum&lt;&#x2F;a&gt;, or bring suggestions.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-s-next-for-tft&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#what-s-next-for-tft&quot; aria-label=&quot;Anchor link for: what-s-next-for-tft&quot;&gt;🔗&lt;&#x2F;a&gt;What’s next for TFT&lt;&#x2F;h2&gt;
+&lt;p&gt;One of our key objectives is to make TFT more accessible. Already, there are many options to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;buy and sell TFT&lt;&#x2F;a&gt; – like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;gettft.com&#x2F;&quot;&gt;gettft.com&lt;&#x2F;a&gt; or Stellar’s DEX, and more coming soon. We’re also exploring the feasibility and synergies for a meaningful partnership with Algorand – including making TFT available on Algorand order books. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;And the team is doing some incredible work on developing our own financial technologies, including the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;liquidity.threefold.me&#x2F;&quot;&gt;Liquidity Pool concept and the P2P Wallet&lt;&#x2F;a&gt;, both expected by early next year. We’ll be sharing more about what these solutions will look like soon here on the blog.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Until then, check out some of these key resources around the ThreeFold Token:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;ThreeFold Token &amp;amp; Liquidity&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;what-is-the-real-value-of-tft&#x2F;3143&quot;&gt;What is the real value of TFT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796&quot;&gt;The Potential of the ThreeFold Token (TFT)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;tokens_home.md&quot;&gt;TFT Knowledge Base&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.docsend.com&#x2F;view&#x2F;3mu3cddgj7znuixj&quot;&gt;Liquidity Whitepaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;How to Buy &amp;amp; Sell TFT&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy?id=how-to-buy-amp-sell-tft&quot;&gt;How to Buy &amp;amp; Sell TFT – Overview&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__tft_stellar_dex?id=buy-tft-on-stellar&quot;&gt;Buy TFT on Stellar&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note that the ThreeFold Token (&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__threefold_token&quot;&gt;TFT&lt;&#x2F;a&gt;) is not an investment instrument. Also, this is not investment advice, everyone is free to make their own choices. So, do your own research and read our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;legal&#x2F;#&#x2F;legal__disclaimer&quot;&gt;disclaimer&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🗞 On the Upcoming Liquid Delisting</title>
+		<published>2022-07-26T00:00:00+00:00</published>
+		<updated>2022-07-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-delisting/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-delisting/</id>
+		<content type="html">&lt;p&gt;As believers in truly decentralized models, we have long and often-discussed and strategized on how to exist without centralized exchanges. On August 21 2022, TFT will be delisted from the Liquid Exchange, the result of their acquisition earlier this year. Find our full thoughts &lt;a href=&quot;%5Bhttps:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tft-will-be-delisted-on-liquid-what-now-and-what-next&#x2F;3197&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Building the Future We Want to Live In – A Four Step Journey</title>
+		<published>2022-06-01T00:00:00+00:00</published>
+		<updated>2022-06-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/four-phases-of-threefold/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/four-phases-of-threefold/</id>
+		<content type="html">&lt;p&gt;What started out as an idea for a better Internet about a decade ago has evolved into a global movement that’s building a decentralized, open and inclusive future through &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;the Internet of Internets&lt;&#x2F;a&gt;. The journey towards our ultimate vision of a better future for all is a big one, but can be divided into four digestible phases: creation, expansion, Web 4 and velocity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;1-the-phase-of-creation&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#1-the-phase-of-creation&quot; aria-label=&quot;Anchor link for: 1-the-phase-of-creation&quot;&gt;🔗&lt;&#x2F;a&gt;1 The Phase of Creation&lt;&#x2F;h2&gt;
+&lt;p&gt;For the past six years, we’ve been building up an incredible full-stack, open-source, decentralized Internet infrastructure, all from the ground-up. From creating our own decentralized operating system, to building a Quantum Safe Storage System, a complete far edge cloud computing platform and planetary peer-to-peer network all accessible via a unique Smart Contract for IT on the ThreeFold Blockchain, we’re proud to have the most complete edge infrastructure to power the next-generation Internet era. A new world is coming, and our technology has the potential to revolutionize digitization on a global scale, across sectors. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The creation phase was about developing the key tech components and an initial deployment of our infrastructure worldwide. The ThreeFold Grid is now live in its third generation and the stack is fully functional. As of today, people from all across the world have connected more than &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&#x2F;status&#x2F;1529903015938998272&quot;&gt;3,000 nodes&lt;&#x2F;a&gt; across +78 countries to create the world’s largest decentralized Internet infrastructure, and new capacity is being connected every day.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In addition to fully comprehensive decentralized edge cloud solutions, the ThreeFold ecosystem is also developing a range of applications and experiences across IoT, metaverse, blockchain, DeFi, banking, education and beyond.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The phase of creation is almost complete. The ThreeFold team is currently working on the Digital Twin solution that will allow the ecosystem to tap into Web 4 principles – a paradigm that overcomes the limitations of Web 2 and the inefficiencies of Web 3. By advancing our technology further, ThreeFold will be in a unique position to open new frontiers and support emerging global trends.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2-the-phase-of-expansion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#2-the-phase-of-expansion&quot; aria-label=&quot;Anchor link for: 2-the-phase-of-expansion&quot;&gt;🔗&lt;&#x2F;a&gt;2 The Phase of Expansion&lt;&#x2F;h2&gt;
+&lt;p&gt;The second phase is all about the growth of the ThreeFold Grid and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;connecting_the_dots&#x2F;&quot;&gt;connecting the dots&lt;&#x2F;a&gt;. From individual farmers and farming cooperatives connecting Internet capacity independently to our global network, to building Community Clouds and Regional Internets for countries, various pathways to Grid growth have been established by the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt; concept.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The Internet of Internets will interconnect us all, while providing us with digital sovereignty, privacy and meaningful experiences. It focuses on incentivizing local communities to build their own resilient Community Clouds to support their city, town or village with the foundation to build their decentralized future.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Depending on their geographic proximity, Community Clouds will be able to form Regional Internets. Each Regional Internet will be equipped with their own blockchain, validators and liquidity providers as well as local digital experiences in order to remain independent from the rest of the world. In that sense, whatever would happen to the Internet infrastructure outside of the borders of that region would not affect local connectivity and digital economies. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Ultimately, Regional Internets will be interconnected by the ThreeFold Hub on a global level to create the Internet of Internets. This model is infinitely scalable. Instead of relying on one global network and blockchain, ThreeFold will allow for many independent and interoperable Internet infrastructures that support local communities with a platform to build their own blockchain, DeFi, metaverse, IoT, eCommerce solutions, and much more. Each layer has its own distinct purpose and enables seamless ecosystem-wide interactions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;paradise_hills&#x2F;&quot;&gt;the Paradise Hills partnership&lt;&#x2F;a&gt; as the first proof of concept for Community Clouds and our team working with governments in multiple countries, we’re following the glocal approach of applying the global Internet of Internets concept locally with regional context. With our growing community and ecosystem supporting us, and building new relationships, we’re well set to turn the Internet of Internets into reality in the upcoming years.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The phase of expansion will probably never end. ThreeFold is infinitely scalable, and there are many reasons to continue growing the ThreeFold Grid as it is best positioned to service the emerging demand for edge computing and sovereign Internet infrastructure for decades to come.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;3-the-phase-of-web-4&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#3-the-phase-of-web-4&quot; aria-label=&quot;Anchor link for: 3-the-phase-of-web-4&quot;&gt;🔗&lt;&#x2F;a&gt;3 The Phase of Web 4&lt;&#x2F;h2&gt;
+&lt;p&gt;In parallel with the expansion phase, the rollout of the Web 4 phase is expected to kick off later this year to re-imagine business, governance, finance, education and more in order to provide better alternatives for people, enterprises and governments. Essentially, the Internet of Internets is laying the foundational infrastructure, and Web 4 technology will open a world of new possibilities around peer-to-peer and self-sovereign systems.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The Web 4 phase will empower people to become 100% self-sovereign with a range of decentralized alternatives to Facebook, WhatsApp, YouTube, Chrome, Zoom and much more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;A multitude of valuable and meaningful experiences are being built by the ThreeFold ecosystem and partners to empower people with equal chances to learn, create, and thrive in a decentralized digital economy – what we like to call an abundance-based future for humanity.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The key to all of this is ThreeFold’s open-source Digital Twin technology. It provides a unique digital identity that can serve as the key to an open, self-sovereign and complete digital future. The Digital Twin technology allows ThreeFold to flip the current centralized client-server model upside down, empowering people to become the masters of their own destiny. No more data being collected by servers and sold to third-parties – you become the center of your digital life. There will be more on Digital Twin and its potential to change everything coming very soon.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Along with strategic partnerships being formed across the four corners of the globe, the Web 4 phase will support the ThreeFold Foundation’s vision of providing access to a better Internet paradigm to a billion people by 2030.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;4-the-phase-of-velocity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#4-the-phase-of-velocity&quot; aria-label=&quot;Anchor link for: 4-the-phase-of-velocity&quot;&gt;🔗&lt;&#x2F;a&gt;4 The Phase of Velocity&lt;&#x2F;h2&gt;
+&lt;p&gt;The rise of the Internet of Internets and the build-up of powerful experiences on Web 4 technology will bring the ecosystem to its fourth phase – Velocity. At that moment in time, it will be all about utilization, economic growth and the acceleration of our collective vision.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__tokenomics&quot;&gt;ThreeFold tokenomics&lt;&#x2F;a&gt; have been designed to support a decentralized Internet economy that incentivizes participants to host nodes, validate the blockchain and build applications on the ThreeFold Grid. The moment utilization kicks in at a large scale on Web 4, the ThreeFold Ecosystem will be ready to reach millions – and eventually, billions – of users through powerful digital experiences that provide a better alternative than today’s paradigm. As of today, 35% of ThreeFold Token transactions under Proof of Utilization are burned to create a deflationary economy. This will create additional &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__grid_valuation&quot;&gt;value&lt;&#x2F;a&gt; for the token ecosystem as it will reduce the circulating supply in relation to the increasing demand for ThreeFold’s infrastructure. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Simply put, the fourth phase will drive significant utilization of the ThreeFold Token and support in positioning it as the Bitcoin for Internet capacity. It will open up a decentralized Internet economy full of opportunities, empowerment and meaningful experiences for people all around the world. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;bringing-abundance-opportunity-to-the-world&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#bringing-abundance-opportunity-to-the-world&quot; aria-label=&quot;Anchor link for: bringing-abundance-opportunity-to-the-world&quot;&gt;🔗&lt;&#x2F;a&gt;Bringing Abundance &amp;amp; Opportunity to the World&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;“A dream you dream alone is only a dream. A dream you dream together is reality.” – John Lennon&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We’ve reached a pivotal moment in the evolution of ThreeFold to support our world in solving some of its greatest challenges. A complete and resilient Internet infrastructure owned by local communities is an essential way to build a circular and participatory economy. Considering that the Internet is the second largest and fastest growing economy in the world, the Internet of Internets represents a foundation for a decentralized and abundant world. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_of_internets&#x2F;&quot;&gt;Internet of Internets&lt;&#x2F;a&gt; model supports ThreeFold in achieving its vision of providing Internet access to more than a billion people worldwide. And we believe that if we work together, we can connect all of humanity responsibly. Driven by our planet-first, people-first philosophy, the ThreeFold movement is shaping the world we want to live in and laying the foundation for an open, inclusive and abundance-based future.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The current phase of expansion is vital to turn our vision into reality and to fulfill our mission. Let’s build this world of opportunity and abundance together.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;Join&lt;&#x2F;a&gt; the ThreeFold movement now&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;what_is_farming&#x2F;&quot;&gt;Be&lt;&#x2F;a&gt; the Internet&lt;&#x2F;li&gt;
+&lt;li&gt;Help us &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;realizing_the_promise&#x2F;&quot;&gt;realize our vision&lt;&#x2F;a&gt; for a better future&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>May 2022&#x27;s ThreeFold Product Updates</title>
+		<published>2022-05-16T00:00:00+00:00</published>
+		<updated>2022-05-16T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/may-2022-product-updates/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/may-2022-product-updates/</id>
+		<content type="html">&lt;p&gt;📣 &lt;strong&gt;May’s ThreeFold Product Updates&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The ThreeFold Grid is currently running on V3.0.0 Alpha-5. In case you missed it on our forum, see what the team is working on for V3.0.0 Alpha-6, including updates to Zero OS, the Playground, the Wallet, Planetary Network, TF Chain, and the Get TFT Platform.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Dive into &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-tfgrid-v3-a-6-plan-may-2022&#x2F;2808?u=hannahcordes&quot;&gt;the full update&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Big thanks, as always, to the team for their continuous efforts to enhance and optimize the grid and grid services!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Planting the Seeds: ThreeFold&#x27;s Plans to Regenerate the Planet</title>
+		<published>2022-05-05T00:00:00+00:00</published>
+		<updated>2022-05-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/planting-the-seeds/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/planting-the-seeds/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;‘Being sustainable’ has become a buzzword – a claim to boost our image rather than an honest endeavour. It is hard to trust people and brands today when we fear to fall into the trap of greenwashing. However, we have no choice but to change our collective behaviour, consumption patterns and business practices if we want to combat climate change and the collapse of biodiversity.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Last November, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-021-03431-4&quot;&gt;COP26&lt;&#x2F;a&gt; shed light on how indecisive our global institutions and governments are in the face of an unprecedented climate crisis. We now have to come to terms with the fact that carbon neutrality is no longer enough. Rising carbon emissions have been linked to an increasing amount of heat waves, droughts, floods and hurricanes globally. It is our collective responsibility to reverse the unintended consequences of our actions. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Did you know that warnings about the risks and harms of excessive carbon emissions date back as far as the 1960s to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.climatefiles.com&#x2F;climate-change-evidence&#x2F;presidents-report-atmospher-carbon-dioxide&#x2F;&quot;&gt;a report&lt;&#x2F;a&gt; by former US President Johnson’s Science Advisory Committee? We’ve clearly been inactive and ignorant for far too long. There’s always another crisis, another challenge to tackle. But we cannot afford to ignore climate change and biodiversity loss any longer.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;waves_of_crises.png&quot; alt=&quot;Waves of Crises&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We need to tackle the climate crisis with the same urgency, force and determination we do with other crises. And we finally need to face the reality and severity of the climate crisis! After all, Greta Thunberg is right: “Nature does not bargain and you cannot compromise with the laws of physics.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The time has come for us to put our planet first. It is our duty to regenerate our planet and to support the right practices and organizations aligned with our vision of tomorrow. Now’s the time for regenerative action.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-to-save-our-planet&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-to-save-our-planet&quot; aria-label=&quot;Anchor link for: how-to-save-our-planet&quot;&gt;🔗&lt;&#x2F;a&gt;How to save our planet&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;“The greatest threat to our planet is the belief that someone else will save it.” – Robert Swan&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;By taking action and making the right choices for our planet and humanity, we can prevent the truly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2021&#x2F;12&#x2F;23&#x2F;1042973&#x2F;climate-change-action-progress-clean-energy&#x2F;&quot;&gt;severe levels of global warming&lt;&#x2F;a&gt; and restore the health of our planet. Once emitted, carbon dioxide can persist in the atmosphere for several hundreds, possibly thousands, of years. So, it all starts with reducing global emissions to the lowest level possible. In addition to that, we’ll need to compensate for those emissions that cannot be avoided as well as for all of the carbon and other greenhouse gases we’ve emitted in the past.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As most technological solutions for carbon removal remain expensive and early stage, nature-based solutions are the way forward. And trees, as the world’s largest plants, are an effective way to store carbon.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;So, what are we doing at ThreeFold? How are we contributing to restoring the health of our planet? How are we taking climate action?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-commitment&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#our-commitment&quot; aria-label=&quot;Anchor link for: our-commitment&quot;&gt;🔗&lt;&#x2F;a&gt;Our commitment&lt;&#x2F;h2&gt;
+&lt;p&gt;We believe our planet needs regenerative solutions at a large scale. Our motto is: planet first, people second, profit as a result. Without a healthy planet, humanity can’t survive and no economy can exist.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;While the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;threefold__tfgrid_home&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt; is already much more &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;for_our_planet&#x2F;&quot;&gt;energy efficient&lt;&#x2F;a&gt; than the traditional Internet, there will always be energy consumption and emissions that cannot be avoided – and thus have to be compensated for. We’re not just going for the carbon neutrality of the ThreeFold Grid but for carbon negativity (or as we prefer to call it, planet positivity), i.e. offsetting its emissions three times through planting and protecting trees.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;And we decided to empower our community to take part in our regeneration efforts in a low-threshold way. ThreeFold Farmers will automatically compensate for their 3Nodes’ carbon footprint three times, and everybody will be able to use the ThreeFold Grid’s regenerative Internet capacity while simultaneously supporting impact initiatives.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As we shared in our Planet-Positive Farming Series, we’re setting the plan for a planet-positive Internet by implementing a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097?u=hannahcordes&quot;&gt;Voluntary Carbon Credits&lt;&#x2F;a&gt; (VCC) system and supporting &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;supporting-initiatives-to-regenerate-the-planet&#x2F;2110?u=hannahcordes&quot;&gt;planet-positive initiatives&lt;&#x2F;a&gt; with our trusted partners from &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;driving-regeneration-with-tag&#x2F;2120?u=hannahcordes&quot;&gt;Take Action Global&lt;&#x2F;a&gt; (TAG). &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;driving-regeneration-with-take-action-global&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#driving-regeneration-with-take-action-global&quot; aria-label=&quot;Anchor link for: driving-regeneration-with-take-action-global&quot;&gt;🔗&lt;&#x2F;a&gt;Driving regeneration with Take Action Global&lt;&#x2F;h2&gt;
+&lt;p&gt;We’re aiming to realize the initial promise of the Internet while also regenerating the planet. Our decentralized Internet infrastructure is already highly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_energy_consumption&#x2F;&quot;&gt;energy efficient&lt;&#x2F;a&gt; – we’re using about 10 times less energy than any comparable alternative. In December 2021, we &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.prnewswire.com&#x2F;news-releases&#x2F;threefold-and-take-action-global-partner-to-bring-internet-access-to-1-billion-people-across-the-globe-301446693.html&quot;&gt;announced&lt;&#x2F;a&gt; our commitment to achieve a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;sustainability&#x2F;90&quot;&gt;carbon double win&lt;&#x2F;a&gt; for the ThreeFold Grid.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Together with &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;partners&#x2F;take_action_global&#x2F;&quot;&gt;TAG&lt;&#x2F;a&gt; – experts on climate action and education who were &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&#x2F;status&#x2F;1493980240275812352?s=20&amp;amp;t=uW8aclYr82-xqQkEsCeGWw&quot;&gt;acknowledged&lt;&#x2F;a&gt; for their incredible work by the Anthem Awards – we kicked off a pilot program for tree planting. After measuring the carbon footprint of the Grid and individual &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&quot;&gt;3Nodes&lt;&#x2F;a&gt;, we knew what it would take to go beyond climate neutrality and fulfill our planet-positive commitment.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With our tree planting initiatives in Sierra Leone, Malawi and Cambodia, we’re planting enough trees in 2022 to lay the foundation for achieving and sustaining a carbon double win for our Internet infrastructure. Already, students and teachers in the three countries have planted more than 5,300 trees. Find out more about the pilot program &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;driving-regeneration-with-tag&#x2F;2120?u=hannahcordes&quot;&gt;here&lt;&#x2F;a&gt; and head to the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;earthproject.org&#x2F;treeplanting&quot;&gt;EarthProject&lt;&#x2F;a&gt; page for the tree-planting details and how you yourself can get involved.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;tree_planting_1.png&quot; alt=&quot;Tree Planting 1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;.&#x2F;tree_planting_2.png&quot; alt=&quot;Tree Planting 2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Once we’ve laid the foundation for the ThreeFold Grid’s carbon double win, we will continue to produce Voluntary Carbon Credits to finance further impact initiatives, such as fostering climate education and renewable energy grid developments to enhance the life of communities.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;a-regenerative-internet-for-the-planet-and-the-people&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#a-regenerative-internet-for-the-planet-and-the-people&quot; aria-label=&quot;Anchor link for: a-regenerative-internet-for-the-planet-and-the-people&quot;&gt;🔗&lt;&#x2F;a&gt;A regenerative Internet for the planet and the people&lt;&#x2F;h2&gt;
+&lt;p&gt;We all need to take responsibility and to pull our own weight. But we’re in this together. And together, this will happen. After kicking off our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;driving-regeneration-with-tag&#x2F;2120?u=hannahcordes&quot;&gt;pilot program&lt;&#x2F;a&gt; a month ahead of schedule, we’re well set to achieve the carbon double win for the ThreeFold Grid – driving the regeneration of our planet.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We are pioneering the creation of an &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;internet_energy_consumption&#x2F;&quot;&gt;energy-efficient&lt;&#x2F;a&gt; and regenerative Internet built and owned by the people. The ThreeFold ecosystem consists of like-minded individuals and partners that share our values and support us in our mission. United in our shared beliefs in open source, peer-to-peer, equality and inclusion, we come together to build a better Internet. And we’re being acknowledged for our work – we’re &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;evenements.optionfinance.fr&#x2F;les-debats-finance-impact-rse&#x2F;content&#x2F;candidats-sia&quot;&gt;nominated&lt;&#x2F;a&gt; for the Sustainable Investment in Action &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;sustainableinvestmentinaction.com&#x2F;awards-conferences-2022&#x2F;&quot;&gt;Awards&lt;&#x2F;a&gt; in the category “Basic Needs”.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;We’re making it easy for everyone to join us – all you have to do is connect a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&quot;&gt;3Node&lt;&#x2F;a&gt; to the ThreeFold Grid and you’ll effortlessly regenerate the earth through providing Internet capacity – a process we call ‘farming’ because it’s a greener, purposeful &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;farming_a_greener_alternative_to_crypto_mining&#x2F;&quot;&gt;alternative&lt;&#x2F;a&gt; to crypto mining.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Are you ready to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;join us&lt;&#x2F;a&gt; in our mission?&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;And don’t forget:&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;“What we do today will determine what the world looks like tomorrow.” – Marie von Ebner-Eschenbach&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;P.S.: If you have ideas or suggestions for further planet-positive initiatives or potential partnerships, let us know on our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;c&#x2F;ecosystem-developments&#x2F;sustainability&#x2F;90&quot;&gt;forum&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Looking for TFT Fiat Gateway Beta Testers</title>
+		<published>2022-04-27T00:00:00+00:00</published>
+		<updated>2022-04-27T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/fiat-gateway-testing/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/fiat-gateway-testing/</id>
+		<content type="html">&lt;p&gt;📣 &lt;strong&gt;TFT Fiat Gateway Beta Testing Program&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In ongoing efforts to make the ThreeFold Token (TFT) more accessible, it will now be possible to buy TFT with a credit or debit card via the Get TFT platform!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The beta testing program incentivizes the validation of the experience, from the community. As a gesture of gratitude, participants will earn a 500 TFT “cash back,” provided by ThreeFold.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Get involved &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tft-fiat-gateway-beta-testing-program&#x2F;2746&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; 🙏&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>April 2022&#x27;s ThreeFold Product Updates</title>
+		<published>2022-04-22T00:00:00+00:00</published>
+		<updated>2022-04-22T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/april-2022-product-updates/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/april-2022-product-updates/</id>
+		<content type="html">&lt;p&gt;📣 &lt;strong&gt;April 2022’s ThreeFold Product Updates&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt; 
+&lt;p&gt;We are happy to announce that ThreeFold Grid V3.0.0 Alpha-5 is officially released! There are a many upgrades, improvements and fixes to various TF Grid components including the TFT shop, the Playground, Zero-OS, the wallet, and more.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Dive into the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-product-updates-tfgrid-v3-a-5-april-2022&#x2F;2713&quot;&gt;full update&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Major kudos to the developer team and all those involved in building, project managing, testing, and bringing these updates live!&lt;&#x2F;em&gt; 👏&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Farming – A Greener Alternative to Crypto Mining</title>
+		<published>2022-04-21T00:00:00+00:00</published>
+		<updated>2022-04-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/farming-a-greener-alternative-to-crypto-mining/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/farming-a-greener-alternative-to-crypto-mining/</id>
+		<content type="html">&lt;p&gt;In &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cointelegraph.com&#x2F;bitcoin-for-beginners&#x2F;the-history-of-bitcoin-when-did-bitcoin-start&quot;&gt;October 2008&lt;&#x2F;a&gt;, when the financial crisis was in full swing, an anonymous individual or group under the pseudonym ‘Satoshi Nakamoto’ published a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;bitcoin.pdf&quot;&gt;white paper&lt;&#x2F;a&gt; on Bitcoin, a “peer-to-peer electronic cash system” that ended up disrupting the financial system and sparked the creation of an entirely new industry: crypto mining.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Considering that many people view Bitcoin as a commodity, similar to gold, it only makes sense that the process of generating new Bitcoins would become referred to as ‘mining’. In a way, mining is an incentive mechanism to reach consensus in the verification of transactions in a decentralized network. While crypto mining originated from Bitcoin, the system has spread quite widely across the blockchain space.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;More than a decade later, Bitcoin keeps intriguing individuals and organizations all around the world, and has become &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cointelegraph.com&#x2F;news&#x2F;is-bitcoin-a-waste-of-energy-pros-and-cons-about-bitcoin-mining&quot;&gt;one of the most popular&lt;&#x2F;a&gt; financial assets. Nevertheless, criticism and doubts around Bitcoin and crypto mining remain. The most popular cryptocurrency is also frequently brought to the spotlight around its potential affiliations to money laundering, financing of terrorism and cybercrime, as well as the energy the mining process of its cryptocurrency consumes. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;According to the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cbeci.org&#x2F;&quot;&gt;Bitcoin Electricity Consumption Index&lt;&#x2F;a&gt; of the University of Cambridge, the annual consumption of Bitcoin is currently estimated to amount to nearly 140 TWh. The United Arab Emirates (113 TWh) or the Netherlands (109 TWh) had a lower annual energy consumption than Bitcoin &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;blog.zorinaq.com&#x2F;bitcoin-electricity-consumption&#x2F;&quot;&gt;in 2020&lt;&#x2F;a&gt;. Moreover, news outlets like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2017&#x2F;nov&#x2F;27&#x2F;bitcoin-mining-consumes-electricity-ireland&quot;&gt;The Guardian&lt;&#x2F;a&gt; or &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;technology-56012952&quot;&gt;BBC News&lt;&#x2F;a&gt; reported on Bitcoin exceeding the energy consumption of further countries, including Ireland and Argentina. Within the last year, headlines like “&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;interactive&#x2F;2021&#x2F;09&#x2F;03&#x2F;climate&#x2F;bitcoin-carbon-footprint-electricity.html&quot;&gt;Bitcoin Uses More Electricity Than Many Countries&lt;&#x2F;a&gt;” in the New York Times or “&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.ft.com&#x2F;content&#x2F;1aecb2db-8f61-427c-a413-3b929291c8ac&quot;&gt;Bitcoin’s growing energy problem: ‘It’s a dirty currency’&lt;&#x2F;a&gt;” in the Financial Times were in no short supply.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Among the most popular quotes on the topic is Bill Gates’ statement in the New York Times in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2021&#x2F;03&#x2F;09&#x2F;business&#x2F;dealbook&#x2F;bill-gates-bitcoin.html&quot;&gt;March 2021&lt;&#x2F;a&gt;: “Bitcoin uses more electricity per transaction than any other method known to mankind, and so it’s not a great climate thing.” Not that this statement or the awareness of the issue would have prevented Microsoft from launching &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;identity.foundation&#x2F;ion&#x2F;&quot;&gt;ION&lt;&#x2F;a&gt;, a decentralized digital identity system, to run on the Bitcoin network.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;but-why-is-bitcoin-mining-so-energy-intensive-anyways&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#but-why-is-bitcoin-mining-so-energy-intensive-anyways&quot; aria-label=&quot;Anchor link for: but-why-is-bitcoin-mining-so-energy-intensive-anyways&quot;&gt;🔗&lt;&#x2F;a&gt;But why is Bitcoin mining so energy intensive anyways?&lt;&#x2F;h2&gt;
+&lt;p&gt;At the heart of Bitcoin’s energy-intensive model is the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;learn&#x2F;2020&#x2F;12&#x2F;16&#x2F;what-is-proof-of-work&#x2F;&quot;&gt;Proof-of-Work (PoW)&lt;&#x2F;a&gt; protocol. &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.investopedia.com&#x2F;tech&#x2F;how-does-bitcoin-mining-work&#x2F;&quot;&gt;Bitcoin mining&lt;&#x2F;a&gt;, the process of creating new Bitcoins using PoW, requires solving complex cryptographic equations to receive the rewards associated with the creation of the next block in the blockchain. PoW is carried out by computers, known as ‘miners’. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In the early days, a simple computer was enough to mine Bitcoin. However, the difficulty of the mining algorithm increased as the network grew larger and more people started competing to earn the next block’s rewards. On average, it takes &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;bitcoin.pdf&quot;&gt;about 10 minutes&lt;&#x2F;a&gt; to solve such an equation and to mine a new block. Today, Bitcoin mining has become a costly and elaborate endeavour – accessible only to large investors that can support powerful supercomputers – at the cost of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.technologyreview.com&#x2F;2022&#x2F;04&#x2F;18&#x2F;1049331&#x2F;bitcoin-cryptocurrency-cryptomining-new-york&#x2F;&quot;&gt;local communities&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;It’s only sensible that miners are beefing up their machines to increase their chances. In fact, the sector became so competitive that &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;pulse&#x2F;sustainable-crypto-mining-becoming-reality-nameet-potnis&#x2F;&quot;&gt;Intel created&lt;&#x2F;a&gt; dedicated chips and specialized manufacturers for mining servers like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.bitmain.com&#x2F;&quot;&gt;Bitmain&lt;&#x2F;a&gt; were established. With up to 3,250 Watts indicated by manufacturers, the power consumption of such devices averages 28,470 kWh per year if operated continuously. In comparison, the annual consumption of a freezer is estimated between 200 and 500 kWh per year. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Additionally, operating a single mining machine is hardly the way to succeed. The biggest Bitcoin miners have fleets of hundreds of machines in so-called ‘mining farms’, carefully maintained and constantly ventilated, to prevent them from overheating. Some of the largest, like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.rockdalemdd.org&#x2F;news&#x2F;whinstone-us-breaks-ground-build-world%E2%80%99s-largest-bitcoin-mining-facility-rockdale-texas&quot;&gt;Northern Data&lt;&#x2F;a&gt; in Texas, have an energy consumption of 1 GWh per year, the equivalent of the energy produced by about &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.energy.gov&#x2F;eere&#x2F;articles&#x2F;how-much-power-1-gigawatt&quot;&gt;3.1 million&lt;&#x2F;a&gt; photovoltaic (solar) panels. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In critical times where humanity is facing serious global challenges in relation to climate change and the collapse of biodiversity, we must rethink the basics of how to decentralize our world. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;are-there-more-energy-conscious-solutions&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#are-there-more-energy-conscious-solutions&quot; aria-label=&quot;Anchor link for: are-there-more-energy-conscious-solutions&quot;&gt;🔗&lt;&#x2F;a&gt;Are there more energy-conscious solutions?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;learn&#x2F;2020&#x2F;12&#x2F;30&#x2F;what-is-proof-of-stake&#x2F;&quot;&gt;Proof-of-Stake (PoS)&lt;&#x2F;a&gt; mechanisms have proven to be &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.investopedia.com&#x2F;tech&#x2F;how-does-bitcoin-mining-work&#x2F;#toc-downsides-of-mining&quot;&gt;less energy intensive&lt;&#x2F;a&gt; than PoW. With PoS, miners lock up (‘stake’) a blockchain’s cryptocurrency on escrow accounts to be granted mining rights. In exchange for this participation, miners receive an interest proportional to their stake as reward. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;PoS-based blockchains are faster and much more energy efficient than PoW-based blockchains. However, the implementation of a PoS protocol poses its own challenges. For example, it is known for incentivizing hoarding, rather than utilization, and driving centralization. The mining industry is attempting to shift perceptions and move away from its climate-polluting, power-hungry image by powering large mining activities with renewable energies or by offsetting their emissions with carbon credits.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;While this might sound great at first, it does not resolve the underlying issue of incredibly high energy consumption. Should we really allocate relatively scarce renewable energy resources to such energy-intensive endeavours? Or should we rather look for more efficient alternatives – considering we have all the technology to create more energy-efficient models from scratch – and then support what energy consumption remains with renewable energy? &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;threefold-farming-offers-a-greener-paradigm&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-farming-offers-a-greener-paradigm&quot; aria-label=&quot;Anchor link for: threefold-farming-offers-a-greener-paradigm&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold Farming offers a greener paradigm&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;what_is_farming&#x2F;&quot;&gt;ThreeFold Farming&lt;&#x2F;a&gt; is a decentralized, energy-efficient and meaningful alternative to mining. &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796&quot;&gt;ThreeFold Tokens&lt;&#x2F;a&gt; (TFT) are minted whenever new Internet capacity in terms of compute, storage or network is added to the ThreeFold Grid by connecting computers, known as 3Nodes. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;By contributing decentralized Internet capacity to the ThreeFold Grid, independent people and organizations called ‘farmers’ earn TFT in return – based on a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__proof_of_capacity?id=why-proof-of-capacity&quot;&gt;Proof-of-Capacity&lt;&#x2F;a&gt;  (PoC) algorithm. PoC is autonomously carried out by ThreeFold’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;for_our_planet&#x2F;&quot;&gt;extremely efficient&lt;&#x2F;a&gt; operating system. First, Zero-OS scans the computer’s resources. Then the operating system registers the computing power and Internet storage on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;tf_chain&#x2F;&quot;&gt;ThreeFold Blockchain&lt;&#x2F;a&gt;, making the resources available to the entire network – thereby creating a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;coincheckup.com&#x2F;blog&#x2F;threefold-is-the-decentralized-web-the-future-of-the-internet&#x2F;&quot;&gt;decentralized model&lt;&#x2F;a&gt; for Internet capacity provisioning. The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.docsend.com&#x2F;view&#x2F;wsru3f9tmeaq62wq&quot;&gt;energy consumption&lt;&#x2F;a&gt; of a 3Node can vary, depending on the amount of Compute Units (CUs) and Storage Units (SUs) it holds. “The average consumption for a Titan 3Node is around 26.71 KwH per hour”, says ThreeFold’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;people&#x2F;alexandre_hannelas&#x2F;&quot;&gt;Alexandre Hannelas&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Farming supports the realization of an open-source peer-to-peer Internet free from centralized servers and authorities. Similarly to Bitcoin, the management of transactions and the issuing of TFT is carried out collectively by the network to create a decentralized Internet economy. In a way, what &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;bitcoin_threefold&#x2F;&quot;&gt;Bitcoin did to money&lt;&#x2F;a&gt;, ThreeFold does to the Internet – while using much &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;for_our_planet&#x2F;&quot;&gt;less energy&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;“By using blockchain for what it’s good at and other pioneering technologies, such as peer-to-peer networking, to complement it, we built the most efficient Internet infrastructure in the world, and by far.” – Kristof de Spiegeleer.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Developing sustainable solutions for our planet is essential to ThreeFold’s ethos which puts our planet and people first. A famous quote, we love and frequently refer to at ThreeFold, is Albert Einstein’s “We cannot solve our problems with the same thinking we used when we create them.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Our planet needs regenerative solutions at a large scale, and ThreeFold aims to deliver on our promise providing better solutions for our planet and people through our technology. Based on the ThreeFold Grid’s average energy consumption, we’re planting trees with our partner &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;driving-regeneration-with-tag&#x2F;2120?u=hannahcordes&quot;&gt;Take Action Global&lt;&#x2F;a&gt; to offset the Grid’s carbon emissions three times in the form of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097?u=hannahcordes&quot;&gt;Voluntary Carbon Credits&lt;&#x2F;a&gt; (VCC). Our VCC system was implemented in the PoC algorithm, so every 3Node mints additional TFT to offset its own carbon emissions based on the power utilization of the individual 3Node per month. The &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-on-track-to-be-planet-positive&#x2F;2097&quot;&gt;process&lt;&#x2F;a&gt; is fully automated and executed by the ThreeFold Blockchain.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;ThreeFold’s global community of farmers is on a mission to regenerate our planet through the planet-positive ThreeFold Farming which supports tree planting and other &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;supporting-initiatives-to-regenerate-the-planet&#x2F;2110?u=hannahcordes&quot;&gt;impact initiatives&lt;&#x2F;a&gt; by default. We’re on track to provide a planet-positive Internet and support our partners in their initiatives in fields like climate education, climate action and economic inclusion worldwide.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Farming is about so much more than crypto mining. It’s about building a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;authority-magazine&#x2F;the-future-is-now-kristoff-de-spiegeleer-of-threefold-on-how-their-technological-innovation-will-7acc0e51c365&quot;&gt;better Internet&lt;&#x2F;a&gt; and shaping the world we want to live in. Together with a community of like-minded people, we’re taking action for a better world.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If not us, who? If not now, when?&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Join the global ThreeFold &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;movement&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tfgrid&#x2F;farming&#x2F;threefold__farming_intro&quot;&gt;Start farming&lt;&#x2F;a&gt; today and become a part of the new Internet while regenerating the planet.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>April 19th Community Call Recording</title>
+		<published>2022-04-21T00:00:00+00:00</published>
+		<updated>2022-04-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/community-call-april-19-recording/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/community-call-april-19-recording/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;This Week’s Community Call Recording!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt; 
+&lt;p&gt;For anyone who missed the community call earlier this week, please find the recording and slides &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-april-19-2022-community-call-recording-presentation&#x2F;2714&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Many thanks to those who were able to be there with us in-person!&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Please note the content of this call is for information purposes only and is subject to change as the project evolves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>GetTFT.com is Live</title>
+		<published>2022-01-25T00:00:00+00:00</published>
+		<updated>2022-01-25T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/gettft/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/gettft/</id>
+		<content type="html">&lt;p&gt;🚨 &lt;strong&gt;Get TFT Directly with BTC!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;In our ongoing efforts to make TFT more accessible to the world, we’re happy to share that anyone can now buy TFT directly with the world’s most popular cryptocurrency, BTC (Bitcoin).&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;get-tft-directly-with-btc&#x2F;1825&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;There’s been lots of positive attention around TFT over the last weeks despite the downward market. People are waking up to ThreeFold and showing their belief in the People’s Internet!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Get to Know the ThreeFold Token</title>
+		<published>2022-01-21T00:00:00+00:00</published>
+		<updated>2022-01-21T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/potential-of-tft/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/potential-of-tft/</id>
+		<content type="html">&lt;p&gt;🤝 &lt;strong&gt;Get to know the ThreeFold Token (TFT)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;TFT is the utility token of the People’s Internet, backed by the continuous growth of the ThreeFold Grid and driven by strong tokenomics. It has real-world value that meet real-world demands. And the world is starting to take notice.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;the-potential-of-the-threefold-token-tft&#x2F;1796&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;Now’s the time to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;get TFT&lt;&#x2F;a&gt;! This post is a great share for anyone interested in getting involved in the project!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>New Year Deep Dive Session 6</title>
+		<published>2022-01-18T00:00:00+00:00</published>
+		<updated>2022-01-18T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdive6/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdive6/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Today, we hosted our final deep dive meeup for now. We’ll pick up community sessions in a few weeks. In the meantime, we’ll catch you on the chats and in the forum!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuesday January 18 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 6: ThreeFold DAO, Validator Nodes, &amp;amp; COSMOS&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-6-threefold-dao-validator-nodes-cosmos&#x2F;1784&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>New Year Deep Dive Sessions 4 &amp; 5</title>
+		<published>2022-01-13T00:00:00+00:00</published>
+		<updated>2022-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdives45/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdives45/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;This week we continued with two more deep dive meetups. Don’t miss our final deep dive next week, covering the ThreeFold DAO, Validator Nodes, &amp;amp; the COSMOS integration!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Wednesday January 12 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 4: Deplpying Decentralized Solutions on TF Grid 3&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-4-deploying-decentralized-solutions-on-tf-grid-3&#x2F;1751&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Thursday January 13 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 5: ThreeFold Grid Architecture&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-5-threefold-grid-architecture&#x2F;1756&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Crypto Daily Calls ThreeFold a Hidden Gem</title>
+		<published>2022-01-13T00:00:00+00:00</published>
+		<updated>2022-01-13T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/hidden-gem/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/hidden-gem/</id>
+		<content type="html">&lt;p&gt;🗞 &lt;strong&gt;ThreeFold in the News&lt;&#x2F;strong&gt; 🗞&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;“With ThreeFold’s plans for 2022, we can expect major developments in the blockchain industry and beyond to happen on their infrastructure this year.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Just like Bitcoin is decentralizing global financial systems, ThreeFold will decentralize the Internet and cloud at large. With a solid team of cloud experts behind and many partners looking at building on top of their decentralized Internet with their mainnet launch, the moment to buy TFT is now.”&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;em&gt;While The Market Is Struggling, This Hidden Gem Is About To Take Off, via Crypto Daily.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Full article &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cryptodaily.co.uk&#x2F;2022&#x2F;01&#x2F;while-the-market-is-struggling-this-hidden-gem-is-about-to-take-off&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;If you’re looking for ways to get TFT, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold&#x2F;#&#x2F;tokens&#x2F;threefold__how_to_buy&quot;&gt;look no further&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>New Year Deep Dive Sessions 1, 2, &amp; 3</title>
+		<published>2022-01-06T00:00:00+00:00</published>
+		<updated>2022-01-06T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdives123/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/deepdives123/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;A lot happened in 2021 and many things are changing! To kick the year off, we’re hosting six community meetups to deep dive into key topics related to ThreeFold. Here are the first three sessions from this week.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuesday January 4 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 1: TF Grid 3.0, Weblets, And Demos&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-1-tf-grid-3-weblets-demos&#x2F;1673&#x2F;3&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Wednesday January 5 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 2: TF Grid &amp;amp; TFT Growth Simulator + Tokenomics&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-2-tf-grid-tft-growth-simulator-tokenomics&#x2F;1682&#x2F;2&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;Thursday January 6 2022&lt;&#x2F;li&gt;
+&lt;li&gt;Session 3: TF Grid 3.x Launch Plan&lt;&#x2F;li&gt;
+&lt;li&gt;Recording &amp;amp; Presentation Link: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tf-deep-dive-session-3-tf-grid-3-x-launch-plan&#x2F;1694&quot;&gt;Here&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>2021 Review, 2022 Preview</title>
+		<published>2022-01-02T00:00:00+00:00</published>
+		<updated>2022-01-02T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/2021-review-2022-preview/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/2021-review-2022-preview/</id>
+		<content type="html">&lt;p&gt;🎆 &lt;strong&gt;ThreeFold’s 2021 Review &amp;amp; 2022 Preview!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefolds-2021-review-and-2022-preview&#x2F;1641&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As 2022 kicks off, let’s take a look back at the year that was and what to expect throughout Q1 – TF Grid 3 Mainnet, validator nodes, the ThreeFold DAO, and more!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>A Journey through the Decentralization and Blockchain Space – Part Two: Akash</title>
+		<published>2021-10-05T00:00:00+00:00</published>
+		<updated>2021-10-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/project-comparison-2-akash/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/project-comparison-2-akash/</id>
+		<content type="html">&lt;p&gt;As announced in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;project_comparison_1_dfinity&#x2F;&quot;&gt;the first episode of this series&lt;&#x2F;a&gt;, I’d like to shed some light on the complex decentralization and blockchain space and look into what fellow projects have to offer. There are various projects decentralizing parts of the internet. So in this second blog post, we’ll be exploring Akash and their solutions to find out what we have in common and where we differ. Follow me on the second step of my journey to better understand the space we operate in and how ThreeFold stands out.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;akash-how-the-project-compares-to-threefold&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#akash-how-the-project-compares-to-threefold&quot; aria-label=&quot;Anchor link for: akash-how-the-project-compares-to-threefold&quot;&gt;🔗&lt;&#x2F;a&gt;Akash &amp;amp; how the project compares to ThreeFold&lt;&#x2F;h2&gt;
+&lt;p&gt;Founded in 2015, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;akash.network&quot;&gt;Akash&lt;&#x2F;a&gt; is an open-source and blockchain-based cloud computing platform. They &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;akash.network&#x2F;about#vision&quot;&gt;strive&lt;&#x2F;a&gt; for an open, permissionless, and sovereign cloud that allows anyone to reserve computing resources without any intermediaries. Their cloud platform provides a simple way for deploying and scaling cloud applications. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;The Akash Network is a decentralized, on-chain marketplace for leasing cloud computing resources, while the Akash Container Platform is an off-chain platform for cloud management services (deployment, hosting, and management of workloads) on Kubernetes, the industry standard for container orchestration. We also integrated Kubernetes into our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;info&#x2F;cloud#&#x2F;cloud__cloud_intro&quot;&gt;P2P Cloud&lt;&#x2F;a&gt; solution, but we didn’t stop there. On ThreeFold’s cloud solution, developers additionally have the option to deploy virtual machines or to discover the future of cloud computing with &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;zflist&quot;&gt;ZFlist&lt;&#x2F;a&gt; – a game-changing Docker-compatible solution that is distributed across many mini VMs, positioning itself as the ideal infrastructure for edge workloads. And all data produced by these workloads can be stored in our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;zdbfs&quot;&gt;Quantum Safe File System&lt;&#x2F;a&gt; solution that is highly compatible with most storage tools (e.g. S3) and protocols (e.g. IPFS).&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With Akash, developers would get access to what is probably the best decentralized computing cloud on the market, whereas ThreeFold offers a full stack cloud infrastructure that unites compute, storage, and network. Having integrated all leading industry-standard tools, ThreeFold’s &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;cloud.threefold.io&#x2F;&quot;&gt;cloud solution&lt;&#x2F;a&gt; allows for a seamless migration of any digital workload – even from centralized cloud providers like &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;threefold_cloud_vs_centralized_providers_like_aws_azure&#x2F;&quot;&gt;AWS or Microsoft Azure&lt;&#x2F;a&gt;. This empowers developers from all over the world to deploy their applications and workloads on a fully decentralized infrastructure, without having to learn new tools. Developers using Akash, however, may still need to rely on other decentralized projects to decentralize the storage and network components of their solutions.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Akash sees their &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;docs.akash.network&quot;&gt;USP&lt;&#x2F;a&gt; in hosting containers that allow any type of cloud-native application to be hosted without vendor lock-in or having to learn new protocols, a vision shared and extended by ThreeFold as the project is already compatible with most of the industry standards. With the integration of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-grid-3-0-supports-terraform&#x2F;1184&quot;&gt;Terraform&lt;&#x2F;a&gt; into the upcoming third release of the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;johnkoetsier&#x2F;2020&#x2F;06&#x2F;20&#x2F;largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet&#x2F;&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt;, developers will be capable of hosting any existing or future Linux workload seamlessly.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;network-and-development-possibilities&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#network-and-development-possibilities&quot; aria-label=&quot;Anchor link for: network-and-development-possibilities&quot;&gt;🔗&lt;&#x2F;a&gt;Network and development possibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Akash is one of the most robust decentralized compute solutions out there and is one of the key players in driving the DeCloud movement. On its platform, computing resources can be leased on the Akash Marketplace, driven by its blockchain based on the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cosmos&#x2F;cosmos-sdk&quot;&gt;Cosmos SDK&lt;&#x2F;a&gt;. It’s already being used by a range of blockchains and applications. On their marketplace, users can determine the terms and price for their deployments and have cloud providers bid for the opportunity in a reversed auction. Nevertheless, the project still relies on centralized data centers as they seek to prevent unutilized capacity &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blog.orchid.com&#x2F;akash-networks-greg-osuri-on-decentralizing-cloud-computing&#x2F;&quot;&gt;from centralized cloud computing services&lt;&#x2F;a&gt; to go to waste, leveraging about 85% of this underutilized cloud capacity from data centers. So, while Akash is preventing capacity from being wasted, they also highly depend on centralized capacity – and so do the workloads using their platform.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;With ThreeFold, developers are enabled to tailor the terms for storing their workloads to fit their needs, benefiting from full decentralization and edge possibilities. Moreover, developers get access to the most distributed peer-to-peer infrastructure in the world – the ThreeFold, currently present in &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;explorer.grid.tf&quot;&gt;more than 50 countries&lt;&#x2F;a&gt;. Another unique attribute of the ThreeFold Grid is that the capacity within the network is provided by many people and organizations, forming an infrastructure that can be described as the “&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;tf_grid_peoples_internet&#x2F;&quot;&gt;People’s Internet&lt;&#x2F;a&gt;.” It is the first full-stack blockchain-enabled cloud to be made open source, allowing anyone to connect cloud capacity to the network by downloading &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;zero-os&quot;&gt;Zero-OS&lt;&#x2F;a&gt;, our stateless and lightweight operating system powering the &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;grid&quot;&gt;ThreeFold Grid&lt;&#x2F;a&gt;. Once booted, the servers run and can’t be accessed physically. As they’re self-healing, they don’t require any maintenance. All in all, this model flips traditional IT upside down, allowing anyone to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;join_the_peoples_internet&#x2F;&quot;&gt;join&lt;&#x2F;a&gt; the ThreeFold ecosystem. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Both projects also reward their communities for providing capacity. Akash planned to launch a limited edition for an own node device, called Supermini, with plug-and-play functionalities similar to our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;threefold#&#x2F;technology&#x2F;technology?id=_3nodes&quot;&gt;3Node&lt;&#x2F;a&gt;. &lt;em&gt;However, Akash &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;akash.network&#x2F;blog&#x2F;supermini-update&quot;&gt;just announced&lt;&#x2F;a&gt; that they’ll be postponing the launch of their Supermini indefinitely, meaning they won’t be offering anything comparable to our 3Node anytime soon.&lt;&#x2F;em&gt; Our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;farm&quot;&gt;3Node&lt;&#x2F;a&gt; is a general purpose computer that acts as  a low-level provider for IT capacity. It is booted with our unique operating system Zero-OS and enables even people without technical skills to participate. We’re collaborating with certified hardware partners and plan to extend our reach in the near future to allow even more people to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;join_the_peoples_internet&#x2F;&quot;&gt;join&lt;&#x2F;a&gt; the ThreeFold Grid. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tokenomics-and-incentive-models&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#tokenomics-and-incentive-models&quot; aria-label=&quot;Anchor link for: tokenomics-and-incentive-models&quot;&gt;🔗&lt;&#x2F;a&gt;Tokenomics and incentive models&lt;&#x2F;h2&gt;
+&lt;p&gt;Both, Akash Token (AKT) and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tft&quot;&gt;ThreeFold Token&lt;&#x2F;a&gt; (TFT), are utility tokens fuelling an open-source cloud. While the Akash Tokens (AKT) represent a unit of compute on the Akash Network, ThreeFold Tokens (TFT) represent a unit of compute, storage or network on the ThreeFold Grid. Akash’s payment model allows users to pay for what they need, when they need it, using a reverse auction. In order to create a deployment, users have to provide a deposit first. As payments are effected passively, it is crucial for users to keep their deposits funded to maintain the lease of their capacity reservations. With our &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;tf-chain&quot;&gt;ThreeFold Blockchain&lt;&#x2F;a&gt;, which will be released on Testnet 3.0 soon, a &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;introducing-tf-chain-an-updated-billing-model&#x2F;1277&quot;&gt;new billing model&lt;&#x2F;a&gt; is being introduced. This model allows users to authorize &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;tech&#x2F;smart-contract&quot;&gt;smart contracts&lt;&#x2F;a&gt; to automatically deduct their wallets (similarly to a direct debit transaction), depending on how much capacity they use. Additionally, we’re implementing a new discount model, which will provide users with discounted capacity pricings according to the amount of ThreeFold Tokens stored in a user’s wallet.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#conclusion&quot; aria-label=&quot;Anchor link for: conclusion&quot;&gt;🔗&lt;&#x2F;a&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;All in all, Akash does a great job with regards to decentralizing cloud capacity. However, it doesn’t challenge the status-quo in terms of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;security-privacy-on-the-threefold-grid-and-second-best-alternatives-out-there-today&#x2F;1290&quot;&gt;data privacy&lt;&#x2F;a&gt;. At ThreeFold, we’re determined to empower users, to give them back control and ownership of their data in an &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;critical-security-updates-for-apple-and-google-underline-need-for-secure-it-ecosystem&#x2F;1271&quot;&gt;entirely secure&lt;&#x2F;a&gt;, peer-to-peer IT ecosystem. While Akash and ThreeFold seem like competitors on a cloud level, we see ourselves more as a potential &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-is-the-substrate-for-decloud&#x2F;1295&quot;&gt;decentralized substrate&lt;&#x2F;a&gt; for Akash to scale to the edges of our world. Akash developers would surely benefit from the lightweight and stateless features of our Zero-OS which could provide them with a more efficient and private infrastructure to test, build, and collaborate on workloads. &lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;Akash and ThreeFold share the same goal – to bring secure, performant, and data-sovereign cloud solutions for humanity to thrive. As Sam &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;threefold-is-the-substrate-for-decloud&#x2F;1295&quot;&gt;put in a nutshell&lt;&#x2F;a&gt;: ThreeFold is the ideal substrate for projects like Akash to run on, instead of depending on traditional cloud providers – as we provide the low-level primitives for a decentralized world. So, we believe &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-is-threefold-different-from-akash-and-holochain&#x2F;804&#x2F;2&quot;&gt;Akash and ThreeFold&lt;&#x2F;a&gt; are complementary in many ways and could  join forces to further push the boundaries of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;africa.businessinsider.com&#x2F;local&#x2F;markets&#x2F;ambitious-startup-to-disrupt-the-internet-and-cloud&#x2F;b38rwj4&quot;&gt;cloud decentralization&lt;&#x2F;a&gt; together.&lt;&#x2F;p&gt;
+&lt;br&#x2F;&gt;
+&lt;p&gt;As we truly believe in collaboration, we invite all other projects in the space to join us in our quest to decentralize the entire Internet and Cloud stack to restore the neutrality we once took for granted. Thanks for taking this journey with me and don’t forget to stay tuned for the next stop: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;blog&#x2F;project_comparison_3_filecoin&#x2F;&quot;&gt;Filecoin&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>TFT on 1inch.io</title>
+		<published>2021-09-01T00:00:00+00:00</published>
+		<updated>2021-09-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tft-1inch/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tft-1inch/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;The ThreeFold Token is now available on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;1inch.io&#x2F;&quot;&gt;1inch.io&lt;&#x2F;a&gt;!&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;1inch connects many third party DEXes and has its own liquidity pools as well, to provide the best possible pricing for end users. It is an easy entry to the DeFi space.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+🎒 &lt;strong&gt;Learn how to get TFT on the Binance Smart Chain using 1inch &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-buy-tft-on-binance-smart-chain-using-1inch-io&#x2F;1189&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Liquid Receives $120 Million in Debt Financing From FTX</title>
+		<published>2021-08-26T00:00:00+00:00</published>
+		<updated>2021-08-26T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-ftx/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-ftx/</id>
+		<content type="html">&lt;p&gt;Related to last week’s Liquid news:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;strong&gt;Today, Liquid announced “the closing of a US$120,000,000 debt financing” from FTX Trading Ltd, owner and operator of top tier exchange FTX&lt;&#x2F;strong&gt;, and “that they have entered good faith discussions in pursuit of further collaborative opportunities.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+While we cannot speculate on what these further collaborative opportunities might be and how they could impact tokens listed on Liquid, it is certainly good news for Liquid to have such support from FTX.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Full coverage &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;liquid-exchange-receives-120-000-000-in-debt-financing-from-top-tier-ftx&#x2F;1159&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Introducing the TFT Development Plan</title>
+		<published>2021-08-23T00:00:00+00:00</published>
+		<updated>2021-08-23T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tft-development-plan/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tft-development-plan/</id>
+		<content type="html">&lt;p&gt;There have been many questions in the community about &lt;strong&gt;the plan around the ThreeFold Token&lt;&#x2F;strong&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Please take a look at &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;tft-development-plan&#x2F;1149&quot;&gt;this post&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; and provide your comments, questions, and feedback.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;We hope you see what we see… Now’s the time to buy TFT. If you need some help getting TFT on BSC, please see the forum post &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;t&#x2F;how-to-buy-tft-on-binance-smart-chain-using-pancake-swap-protocol&#x2F;902&quot;&gt;here&lt;&#x2F;a&gt;. And as always, we’re here to help!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Liquid Hacked, TFT Not Affected</title>
+		<published>2021-08-19T00:00:00+00:00</published>
+		<updated>2021-08-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-hack-one/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/liquid-hack-one/</id>
+		<content type="html">&lt;p&gt;We wanted to update the community that Liquid, an exchange on which TFT is listed, &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Liquid_Global&#x2F;status&#x2F;1428176357515612165?s=09&quot;&gt;shared this morning&lt;&#x2F;a&gt; that warm wallets on the exchange were compromised in a hack.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;strong&gt;It appears that Stellar-based assets (e.g. TFT) were not stolen.&lt;&#x2F;strong&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Please take note:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚫 To ensure safety of funds, please do not deposit any crypto assets to your Liquid wallets until further notice.&lt;&#x2F;li&gt;
+&lt;li&gt;🚫 Liquid has halted all crypto withdrawals while we assess the impact.&lt;&#x2F;li&gt;
+&lt;li&gt;✅ Fiat withdrawals and deposits remain available.&lt;&#x2F;li&gt;
+&lt;li&gt;✅ Other services on Liquid, including trading and Liquid Earn, remain available.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+You can find the full incident report &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;blog.liquid.com&#x2F;warm-wallet-incident&quot;&gt;here&lt;&#x2F;a&gt;.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Liquid is investigating and will provide updates as they have them. We’ve also reached out to them directly and will share more as we know. 🙏&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Update on the Binance Smart Chain Integration</title>
+		<published>2021-05-05T00:00:00+00:00</published>
+		<updated>2021-05-05T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/bsc-update/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/bsc-update/</id>
+		<content type="html">&lt;p&gt;Last week we announced our plan to make the ThreeFold Token more accessible through multichain integrations – with Binance Smart Chain up first!
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;strong&gt;Today we are happy to update that the BSC integration is going just as planned and next week, TFT will be available there.&lt;&#x2F;strong&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;strong&gt;Please note that our next announcement will include the official contract address and the pair contract. If you don’t see it from us, it’s not authentic.&lt;&#x2F;strong&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+We can’t wait for this integration to be live and to share the good news and details with you, our beautiful community. Thanks for your support!
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;em&gt;If you have questions, please be reminded of &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;t.me&#x2F;threefold&quot;&gt;our two-way chat&lt;&#x2F;a&gt; and &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;forum.threefold.io&#x2F;&quot;&gt;our forum&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Announces Plans to go Multichain</title>
+		<published>2021-04-29T00:00:00+00:00</published>
+		<updated>2021-04-29T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-goes-multichain/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/threefold-goes-multichain/</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Peer-to-Peer Internet ThreeFold Goes Multichain to Accelerate Token Accessibility&lt;&#x2F;strong&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;em&gt;ThreeFold is set to integrate BSC in the next couple of weeks, with Ethereum and Huobi’s ECO Chain following in Q2.&lt;&#x2F;em&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;em&gt;This will allow ThreeFold to be more accessible to the DeFi world and provide ThreeFold Farmers and users with more platforms to exchange TFT.&lt;&#x2F;em&gt;
+&lt;br &#x2F;&gt;
+&lt;br &#x2F;&gt;
+&lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;threefold_io&#x2F;status&#x2F;1387762711417786368&quot;&gt;Our tweet&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt; and &lt;strong&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;bitcoinist.com&#x2F;peer-to-peer-internet-threefold-goes-multichain-to-accelerate-token-accessibility&#x2F;&quot;&gt;the full release&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;!-- TODO: Add Tags and Categories --&gt;</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>ThreeFold Q1 Highlights</title>
+		<published>2021-04-02T00:00:00+00:00</published>
+		<updated>2021-04-02T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfq12021recap/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/tfq12021recap/</id>
+		<content type="html">&lt;p&gt;Here’s a quick look at the first three months of 2021 for ThreeFold:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+🚀 The TF Grid technology made huge steps forward (v2.4, v2.5, eVDC, QSFS, Marketplace, &amp;amp; more)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+👯‍♀️ Our digital avatar called Digital Twin nears testing phase
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+✅ 3Node Pre-Order Batch 1 of 2021 has closed (welcome, new farmers!)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Find the full update &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;threefold.io&#x2F;info&#x2F;threefold#&#x2F;threefold__q12021recap&quot;&gt;here&lt;&#x2F;a&gt;, with more details.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Seeking participation with the TFT plan</title>
+		<published>2021-02-03T00:00:00+00:00</published>
+		<updated>2021-02-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/token-plan-guidance/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/token-plan-guidance/</id>
+		<content type="html">&lt;p&gt;We have a good plan in place to stimulate token growth but we have some key decisions to make &amp;amp; we are creating a group to help us finalize. We have already invited &#x2F; included a number of farmers, token holders, ambassadors, and outside industry experts – and now we want to open it up to the wider community.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+If you’re interested in being a part of this guidance committee, please get in touch with @samtaggart on Telegram and he will ask some questions to ensure we get a well-rounded group of people.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Please reply by the end of today 6pm CET, if you’d like to be a part. A call will be scheduled for Friday or Saturday.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Please take note of a few things:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The plan WILL be with the best interest for the long-term growth of the token&lt;&#x2F;li&gt;
+&lt;li&gt;The plan WILL be in the best interest of farmers and token holders&lt;&#x2F;li&gt;
+&lt;li&gt;The plan WILL be in line with our values&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+As a reminder, please know that neither Sam nor any member of the ThreeFold team will ever reach out to you requesting TFT or any other form of currency. 🙏
+&lt;p&gt;If you are skeptical about any interaction or need support, please use the live chat function on our website.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Why ThreeFold chose Stellar</title>
+		<published>2020-06-03T00:00:00+00:00</published>
+		<updated>2020-06-03T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/why-threefold-chose-stellar/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/why-threefold-chose-stellar/</id>
+		<content type="html">&lt;p&gt;At ThreeFold, together with a beautiful ecosystem of partners, we are co-creating a peer-to-peer Internet that empowers equality, freedom, and sustainability.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+To be honest, we were always focused on building and utilizing &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;threefoldtech&#x2F;rivine&quot;&gt;our own transactional blockchain&lt;&#x2F;a&gt;. We wanted to make sure we did it in the right way, upholding our values - but then we realized that the solution was already out there.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Stellar is an open-source network for currencies and payments. Stellar makes it possible to create, send and trade digital representations of all forms of money - dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Stellar has no owner; if anything it’s owned by the public. The software runs across a decentralized, open network and handles millions of transactions each day. Like Bitcoin and Ethereum, Stellar relies on blockchain to keep the network in sync, but the end-user experience is more like cash - Stellar is much faster, cheaper, and more energy-efficient than typical blockchain-based systems.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In the spirit of collaboration, something we believe in heavily, we knew the right decision was to abandon our own transactional blockchain and to move our ThreeFold Token (TFT) to Stellar.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;why-did-we-choose-stellar&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#why-did-we-choose-stellar&quot; aria-label=&quot;Anchor link for: why-did-we-choose-stellar&quot;&gt;🔗&lt;&#x2F;a&gt;Why did we choose Stellar?&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology-wise it’s a very strong platform - energy-friendly &amp;amp; fast.&lt;&#x2F;li&gt;
+&lt;li&gt;There is good liquidity on the Stellar Network; it’s super easy to go from XLM to TFT.&lt;&#x2F;li&gt;
+&lt;li&gt;By utilizing the Stellar Network, we are part of a large blockchain platform&#x2F;network. There is good integration with other digital currencies.&lt;&#x2F;li&gt;
+&lt;li&gt;Perhaps most importantly, we share like-minded values.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The Stellar Network is supported by the Stellar Development Foundation (SDF). From &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.stellar.org&#x2F;foundation&quot;&gt;their website&lt;&#x2F;a&gt;, “SDF and Stellar seek to unlock the world’s economic potential by making money more fluid, markets more open, and people more empowered.”
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The ThreeFold and Stellar Foundations have very aligned goals, particularly around empowerment of all people around the world - to create equal access to the Internet and to a global, inclusive financial system. Both solutions are built on open-source technology, both aim to unlock the world’s economic potential, and most of all, both empower people in developing countries and all around the globe.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+That is why ThreeFold is proud to be a part of the Stellar Network.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>An Intro to the ThreeFold Token</title>
+		<published>2020-01-04T00:00:00+00:00</published>
+		<updated>2020-01-04T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/intro-to-the-tf-token/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/intro-to-the-tf-token/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The ThreeFold Token is the currency of the new Internet. It is a decentralized digital currency that represents a unit of reservation of capacity (compute, storage) on the largest peer-to-peer network of capacity on earth.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Capacity is a new high-demand market, and the TFT will be the medium of exchange for this commodity on the peer-to-peer internet brought by ThreeFold. TFT synergistically connects the world of cloud and blockchain markets to the most scalable universal substrate without compromising, performance, security and privacy.
+&lt;h2 id=&quot;how-are-threefold-tokens-created&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#how-are-threefold-tokens-created&quot; aria-label=&quot;Anchor link for: how-are-threefold-tokens-created&quot;&gt;🔗&lt;&#x2F;a&gt;How are ThreeFold Tokens created?&lt;&#x2F;h2&gt;
+&lt;p&gt;No ThreeFold Tokens have ever been minted. ThreeFold Tokens are generated through a process called “Farming”. Farming happens when active internet capacity is added to the ThreeFold Grid. Independent farmers earn ThreeFold Tokens (TFT) by providing neutral and decentralized internet capacity, thus expending the usable Grid. Therefore no central entity controls the internet.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;5-good-reasons-to-buy-threefold-tokens&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#5-good-reasons-to-buy-threefold-tokens&quot; aria-label=&quot;Anchor link for: 5-good-reasons-to-buy-threefold-tokens&quot;&gt;🔗&lt;&#x2F;a&gt;5 good reasons to buy ThreeFold Tokens&lt;&#x2F;h2&gt;
+&lt;ol&gt;
+&lt;li&gt;TFTs are exclusively generated when new capacity is added to the TF Grid. There are no centralized issuers. Tokens have not been created out of thin air.&lt;&#x2F;li&gt;
+&lt;li&gt;While the ThreeFold Grid can expand, a maximum of 4 Billion TFTs can ever be in circulation. This limit ensures stability of value and incentivization for all stakeholders.&lt;&#x2F;li&gt;
+&lt;li&gt;TFT lives on the Stellar Blockchain. TFT holders benefit from a big ecosystem of proven wallets and mediums of exchange.&lt;&#x2F;li&gt;
+&lt;li&gt;By employing Stellar technology, TFT transactions and smart contracts are powered by one of the most energy-efficient blockchains available. Furthermore, TFT is the medium of exchange on the greenest internet network in the world.&lt;&#x2F;li&gt;
+&lt;li&gt;The market for farming, cultivating and trading TFT is open to all. Anyone with internet connection, power supply and necessary hardware can become a Farmer or trade ThreeFold tokens (TFT).&lt;&#x2F;li&gt;
+&lt;li&gt;By buying, holding, and utilizing ThreeFold Tokens, you are actively supporting the expansion of the ThreeFold Grid and its use cases — creating a more sustainable, fair, and equally accessible Internet.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;&lt;em&gt;To learn more about the token, please dive into &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;token&quot;&gt;our wiki&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Important note: TFTs are not an investment instrument. It is the medium of exchange on the ThreeFold Grid, and is a mechanism to enable the Internet we believe is possible.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Co-create the new Internet. Participate with TFT!</title>
+		<published>2019-06-01T00:00:00+00:00</published>
+		<updated>2019-06-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/tft-on-liquid-and-btcalpha/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/tft-on-liquid-and-btcalpha/</id>
+		<content type="html">&lt;h2 id=&quot;do-you-believe-that-the-world-needs-change&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#do-you-believe-that-the-world-needs-change&quot; aria-label=&quot;Anchor link for: do-you-believe-that-the-world-needs-change&quot;&gt;🔗&lt;&#x2F;a&gt;Do you believe that the world needs change?&lt;&#x2F;h2&gt;
+&lt;p&gt;Do you believe in decentralization? Equality? Sustainability?
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Do you believe in circular economies, where everyone is invited to partake and succeed?
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The ThreeFold Token is the currency of the new Internet and brings true solutions to all the above questions. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+It supports the ThreeFold Foundation - an open ecosystem that is shaping a better world by empowering game-changing technology. ThreeFold is growing a green and conscious peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be autonomous, and providing equal chances to learn, partake and succeed.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ready-to-support-a-new-internet&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ready-to-support-a-new-internet&quot; aria-label=&quot;Anchor link for: ready-to-support-a-new-internet&quot;&gt;🔗&lt;&#x2F;a&gt;Ready to support a new Internet?&lt;&#x2F;h2&gt;
+&lt;p&gt;By buying and holding TFT, anyone can support the ThreeFold Foundation’s ability to achieve its next technological and growth milestones (see &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;tdeoverview&quot;&gt;Token Distribution Event&lt;&#x2F;a&gt; for use-cases). From funding the next technological innovations to supporting the growth of ThreeFold use-cases built on top of the ThreeFold Grid, TFT powers the expansion of the new Internet. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The time has come for us to step up and shape the world we believe is possible. Join us and lets co-create our futures together.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Get TFT on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;app.liquid.com&#x2F;exchange&#x2F;TFTBTC&quot;&gt;Liquid&lt;&#x2F;a&gt; now.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Get TFT on &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;btc-alpha.com&#x2F;en&#x2F;exchange&#x2F;TFT_BTC&quot;&gt;BTC-Alpha&lt;&#x2F;a&gt; now.&lt;&#x2F;em&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+On behalf of our planet, humanity and the ThreeFold Community, we thank you for considering empowering a better world.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;If you need more guidance on buying TFT, please head &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;how_to_buy&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The need for a sustainable digital currency</title>
+		<published>2019-03-06T00:00:00+00:00</published>
+		<updated>2019-03-06T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/new-digital-currency/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/new-digital-currency/</id>
+		<content type="html">&lt;h2 id=&quot;the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot; aria-label=&quot;Anchor link for: the-world-needs-a-new-stable-green-digital-currency-which-is-usable-globally&quot;&gt;🔗&lt;&#x2F;a&gt;The world needs a new stable &amp;amp; green digital currency, which is usable globally&lt;&#x2F;h2&gt;
+&lt;p&gt;Digital currencies are on the way to global adoption. Today, there are approximately 130+ billion dollars worth of digital currencies in circulation and approximately 1 billion dollars traded on a daily basis on open market exchanges. Benefits of digital currencies include direct peer-to-peer transactions (requiring no intermediaries such as banks), greater trust (secured by cryptography and mathematics), lower friction charges, faster transaction times, and no single point of failure.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+However, cryptocurrencies commonly face some major problems, such as:
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lack of scalability&lt;&#x2F;strong&gt;: The main blockchains today are based on “proof of work” - generating very large and complex prime numbers called “hashes” to record ledger transactions. These proof of work blockchains cannot scale to meet the increasing blockchain transaction volumes. In fact, Ethereum, one of the most popular and well known blockchains has announced it will change from “proof of work” to “proof of stake.”&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Crazy energy requirements&lt;&#x2F;strong&gt;: Computing complex proof of work hashes requires enormous amounts of processing power. Actually, a large portion of today’s hashrate is produced by very large dedicated billion dollar data centers called miners. It is estimated that the energy consumed by digital currency mining is approximately equivalent to the power consumption of the entire country of Denmark.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Certain perceived reputational issues&lt;&#x2F;strong&gt;: Numerous commentators - particularly in the early years of bitcoin - speculated that unregulated digital currencies could be used to fund illicit activities.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;A general absence of intrinsic value&lt;&#x2F;strong&gt;: The major digital currencies today are not backed by real assets - therefore their value is more surrounded by hype.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Limited utility&lt;&#x2F;strong&gt;: Today digital currencies are predominantly held by miners and investors. There is very limited use of digital currencies to buy goods and services.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+These are some of the problems we see with cryptocurrencies. The world needs a new stable and green digital currency, which is usable globally. Enter ThreeFold Token.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;To learn more about the token, please dive into &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;library.threefold.me&#x2F;info&#x2F;tfgrid&#x2F;#&#x2F;token&quot;&gt;our wiki&lt;&#x2F;a&gt;.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The need for ThreeFold&#x27;s neutral internet</title>
+		<published>2017-06-01T00:00:00+00:00</published>
+		<updated>2017-06-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/new-neutral-internet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/new-neutral-internet/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+**The Internet is growing like crazy and is now a trillion dollar problem. Together we can build a new neutral Internet.**
+&lt;h2 id=&quot;an-introduction-to-the-problems&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#an-introduction-to-the-problems&quot; aria-label=&quot;Anchor link for: an-introduction-to-the-problems&quot;&gt;🔗&lt;&#x2F;a&gt;An introduction to the problems&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities.&lt;&#x2F;li&gt;
+&lt;li&gt;To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large-scale data centers that each consume 200 MWe of electricity: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1UPUZYG&quot;&gt;see source&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Today, about 4 billion people have no access to the Internet due to the high costs of connectivity and capacity. We believe these people have the fundamental right to have low-cost access to digital resources such as online identity solutions, education, health information and more. For this to happen, solutions that can lower the cost by a factor of 10 are required.&lt;&#x2F;li&gt;
+&lt;li&gt;Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.&lt;&#x2F;li&gt;
+&lt;li&gt;Current blockchain technology is not scalable and not sustainable. Example: the Bitcoin blockchain alone uses more energy today than Croatia.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;current-internet-and-cloud-capacity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#current-internet-and-cloud-capacity&quot; aria-label=&quot;Anchor link for: current-internet-and-cloud-capacity&quot;&gt;🔗&lt;&#x2F;a&gt;Current Internet and Cloud capacity&lt;&#x2F;h2&gt;
+&lt;p&gt;Today, the cloud computing industry represents a 100 billion dollar industry - mostly owned by about 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirements in the next decade will dramatically exceed existing infrastructure - requiring many more data centers and billions, if not trillions in investments.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The spectacular growth and advancements in cloud computing that occurred over the last decade resulted in large part from “hyper-scale” efficiencies - i.e. centralizing Internet infrastructure in very large billion dollar data centers.  However, demand for Internet capacity already surpassed the available infrastructure with emerging technologies such as Big Data, the Internet of Things (IoT) and Artificial Intelligence (AI) Technology. The existing hyperscale cloud architecture cannot cope with this growing demand as the requirements for land, power and funding are becoming outrageous.&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The challenges facing the Internet includes the following:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trillions of Investment Required&lt;&#x2F;strong&gt;. In the next decade, the global Internet infrastructure requires another 4,000 data centers (250M - 1B dollar investment each) to meet demand which would cost trillions - this money could be better used in education, healthcare, or sustainable innovations. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Impossible to scale the networks connecting users to the hyperscale data centers&lt;&#x2F;strong&gt;. Since hyperscale data centers are built in large “central” locations, the network leading to these data centers is congested. Even more, remote regions that are less connected to the Internet cannot benefit from these data centers’ IT services.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Non-local data and capacity&lt;&#x2F;strong&gt;. Governments around the world are becoming more and more concerned about data leaving their borders. To tackle this centralization issue, they would need local IT infrastructure. Also, IoT workloads need local capacity to deliver constant real-time computing and storage requirements - for certain applications and workloads (e.g. driverless cars), latency is not an option. Hyperscale data centers can simply not match these requirements.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Not secure &#x2F; at risk of choke point failures&lt;&#x2F;strong&gt;. There are plenty of recent well-publicized problems around security, outages and loss of data. The reason for this is that centralized hyperscale architectures are inherently insecure - and failures at a single hyperscale location can cause widespread contagion and outages.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-threefold-solution&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-threefold-solution&quot; aria-label=&quot;Anchor link for: the-threefold-solution&quot;&gt;🔗&lt;&#x2F;a&gt;The ThreeFold Solution&lt;&#x2F;h2&gt;
+&lt;p&gt;Our solution to these trillion dollar problems is to migrate Internet capacity to the Edge (closer to user location) - i.e. a “hyper-distributed” network architecture, located close to users (in cities, schools, offices, homes and even vehicles).
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, they will scale to meet the increased capacity demands going forward. However, if the current hyperscale capacity can be decentralized to improve energy consumption and reduce costs, this would be a huge global success.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By 2025, 60% of new Internet infrastructure will be decentralized and located at the edge of operator networks by using alternative locations which have stable (renewable) power and reliable connectivity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;threefold-s-technology-main-benefits&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-s-technology-main-benefits&quot; aria-label=&quot;Anchor link for: threefold-s-technology-main-benefits&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold’s technology main benefits:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;&#x2F;strong&gt;: The ThreeFold Grid is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Decentralized&lt;&#x2F;strong&gt;: The solution enables to bring capacity closer to where users are located, enabling a Cloud at the Edge.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainability&lt;&#x2F;strong&gt;: The technology removes the need to build huge power hungry datacenters and by decentralizing the architecture enables up-to 1000% energy savings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Making IT a true utility&lt;&#x2F;strong&gt;:  We always approached IT as Energy. Today we provide 3x more uptime and between 3-10x more cost effectiveness.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Neutrality&lt;&#x2F;strong&gt;: The solution enables 100% neutral &amp;amp; private Internet IT capacity. Our blockchain technology provides security, neutrality &amp;amp; scale.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-threefold-zero-node&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-threefold-zero-node&quot; aria-label=&quot;Anchor link for: the-threefold-zero-node&quot;&gt;🔗&lt;&#x2F;a&gt;The ThreeFold Zero-Node&lt;&#x2F;h2&gt;
+&lt;p&gt;The Zero-Node provides compute, network and storage capacity to the internet and ThreeFold’s blockchain. This capacity can be used for any possible workload. Here are some characteristics of ThreeFold’s Zero node:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Modularity&lt;&#x2F;strong&gt;: Scaling from 8 vCPUs and 3.5 TB of storage (smallest) to clusters with 8000 vCPUs and 2 PB of storage (large), there is a range of possibilities at hand.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainability&lt;&#x2F;strong&gt;: Storing the hardware uses about 10x less energy, and about 2-3x for other workloads.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Decentralized&lt;&#x2F;strong&gt;: The Zero Operating System (“Zero OS”) is ideally suited for Edge networking - where automation, self-healing and hyper-distribution are must-haves.
+&lt;ul&gt;
+&lt;li&gt;The Zero-Nodes are deployed as close as possible to the consumers of Internet IT capacity (IoT, residential, business, government, education, …).&lt;&#x2F;li&gt;
+&lt;li&gt;This results in massive bandwidth savings, we estimate to be able to keep 99% of the required bandwidth locally which has a huge impact on cost.&lt;&#x2F;li&gt;
+&lt;li&gt;This is the only viable solution to be able to provide internet to the 3.2 billion people waiting.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Self healing&lt;&#x2F;strong&gt;: The architecture is designed to ensure that workloads and data can be accessed at all times. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Neutral &amp;amp; private&lt;&#x2F;strong&gt;: A lot of work has done using blockchain (technology which powers crypto currency) to guarantee privacy and net neutrality.
+&lt;ul&gt;
+&lt;li&gt;Designed around simplicity to be used by everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;The technology provides anyone with the autonomy to deliver complex IT applications without the need for complex integration services.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Empowers equality&lt;&#x2F;strong&gt;: Our technology should be usable by the “other billions” that remain unconnected. Due to the low cost-points, low energy requirements and reduced need of backbone network capacity.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>

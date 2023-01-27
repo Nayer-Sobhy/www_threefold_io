@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>ThreeFold - kristof_de_spiegeleer</title>
+	<subtitle>Our global digital backbone</subtitle>
+	<link href="https://threefoldfoundation.github.io/www_threefold_io/people/kristof-de-spiegeleer/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://threefoldfoundation.github.io/www_threefold_io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-19T00:00:00+00:00</updated>
+	<id>https://threefoldfoundation.github.io/www_threefold_io/people/kristof-de-spiegeleer/atom.xml</id>
+	<entry xml:lang="en">
+		<title>📄 Message to our community</title>
+		<published>2023-01-19T00:00:00+00:00</published>
+		<updated>2023-01-19T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/newsroom/message-to-community/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/newsroom/message-to-community/</id>
+		<content type="html">&lt;p&gt;Find within &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;jan23update.threefold.me&quot;&gt;an important message to our community&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Edge Cloud, not Grid Cloud</title>
+		<published>2018-08-22T00:00:00+00:00</published>
+		<updated>2018-08-22T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/edge-cloud-not-grid-cloud/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/edge-cloud-not-grid-cloud/</id>
+		<content type="html">&lt;h2 id=&quot;edge-cloud-not-grid-cloud&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#edge-cloud-not-grid-cloud&quot; aria-label=&quot;Anchor link for: edge-cloud-not-grid-cloud&quot;&gt;🔗&lt;&#x2F;a&gt;Edge Cloud, not Grid Cloud?&lt;&#x2F;h2&gt;
+&lt;p&gt;The term Edge Cloud or, to be more precise, Edge Computing is one of the most exciting technology terms of these days. &lt;&#x2F;p&gt;
+&lt;iframe width=&quot;750&quot; height=&quot;421&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;7uA9aoIfMZo&quot; frameborder=&quot;0&quot; allow=&quot;aautoplay; encrypted-media;&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;h2 id=&quot;edge-computing-definition&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#edge-computing-definition&quot; aria-label=&quot;Anchor link for: edge-computing-definition&quot;&gt;🔗&lt;&#x2F;a&gt;Edge Computing Definition&lt;&#x2F;h2&gt;
+&lt;p&gt;According to Wikipedia, “&lt;strong&gt;Edge computing&lt;&#x2F;strong&gt; is a distributed computing paradigm in which computation is largely or entirely performed on distributed device nodes known as smart devices or edge devices as opposed to primarily taking place in a centralized cloud environment. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In summary, this means that the cloud is divided into smaller pieces and distributed to the edge of the network. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;drivers-for-edge-computing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#drivers-for-edge-computing&quot; aria-label=&quot;Anchor link for: drivers-for-edge-computing&quot;&gt;🔗&lt;&#x2F;a&gt;Drivers for Edge Computing&lt;&#x2F;h2&gt;
+&lt;p&gt;Some latency-sensitive applications require fast response times to work correctly. A good example is self-driving cars. A lot of decisions in autonomous vehicles have to be made instantaneously; the decision to react to the unexpected while driving at high speed cannot afford to be slowed down by data traveling long distances to be processed. To improve the system’s reliability, additional hops, and any further points of failure must be eliminated. Moving to compute as far out as possible to the Edge is the logical choice.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+More generically, real-world situations are increasingly relying on an IT component to be involved in some form of decision making where time is of the essence.  The current IT setup is that we have highly concentrated IT setups in data centers connected by fast networks to the rest of the world. This setup is rapidly becoming obsolete as we need to have the fastest possible response for everyday activities, which cannot sustain the time delay caused by (extended) network connections.  Having actual data processing and storage facilities close to these real-world situations is the next IT capacity evolution.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+These thousands of situations are mostly in the IoT area. Still, other killer applications like streaming would greatly benefit from being served from the Edge rather than a distant central location.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;edge-computing-market-facts&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#edge-computing-market-facts&quot; aria-label=&quot;Anchor link for: edge-computing-market-facts&quot;&gt;🔗&lt;&#x2F;a&gt;Edge Computing Market Facts&lt;&#x2F;h2&gt;
+&lt;p&gt;Due to the billions of IoT devices driven by various use cases like autonomous driving,  a massive demand for Edge Computing is evolving rapidly. According to the Digital Journal, the Edge Computing market is growing extremely fast. With a  CAGR of over 35.0% and the market is expected to reach  USD 33.75 billion by the end of 2023.
+&lt;br&#x2F;&gt;
+Source: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;www.digitaljournal.com&#x2F;pr&#x2F;3394129&quot;&gt;http:&#x2F;&#x2F;www.digitaljournal.com&#x2F;pr&#x2F;3394129&lt;&#x2F;a&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Edge Computing and Grid Computing are often used in the same context and sometimes are confused. For this article, we’d like to define the terms going forward as follows: 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Grid Computing means a computer network of 100% distributed computer resources like processing power, memory, and data storage of similar or different types to which authorized people can run their computation workloads. That means that Grid Compute nodes are mostly in data centers and maybe dispersed over more extensive regions but are typically still far from the Edge. Compared to Edge Computing,  Grid Computing environments are owned by more than one individual or company, and thus, controlled by many.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Edge computing has risen from a need to have data processing and storage as close as possible to real-world situations.  The situation could be as simple as recording biometric data by a smartwatch to support the required information for a self-driving car to function as intended.  The necessity comes from having local computing and storage capacity - it can be used by multiple use cases (situations) but does not have to.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-benefits-of-edge-computing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-benefits-of-edge-computing&quot; aria-label=&quot;Anchor link for: the-benefits-of-edge-computing&quot;&gt;🔗&lt;&#x2F;a&gt;The Benefits of Edge Computing&lt;&#x2F;h2&gt;
+&lt;p&gt;Edge computing comes with specific benefits that are mandatory for the next evolution in the IT industry.  We have optimized the central model to such a degree that the network connects the central capacity to use cases in the field, the next bottleneck.  Edge computing is solving several challenges faced by real-world situations with the following benefits:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;speed&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#speed&quot; aria-label=&quot;Anchor link for: speed&quot;&gt;🔗&lt;&#x2F;a&gt;Speed&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Speed&lt;&#x2F;strong&gt; is probably the most crucial benefit of edge computing, as there are plenty of use cases that require near-real-time computing.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;scalability&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#scalability&quot; aria-label=&quot;Anchor link for: scalability&quot;&gt;🔗&lt;&#x2F;a&gt;Scalability&lt;&#x2F;h3&gt;
+&lt;p&gt;The scalability of edge computing also makes it incredibly &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.vxchnge.com&#x2F;blog&#x2F;edge-computing-use-cases&quot;&gt;versatile&lt;&#x2F;a&gt;. By partnering with local data centers further out on the Edge, companies can easily target desirable markets without investing in expensive infrastructure expansion. Edge data centers allow them to service end-users efficiently with little physical distance or latency. They also do not constrain companies with a substantial footprint, allowing them to shift to other markets rapidly should economic conditions change.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;availability-and-security&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#availability-and-security&quot; aria-label=&quot;Anchor link for: availability-and-security&quot;&gt;🔗&lt;&#x2F;a&gt;Availability and Security&lt;&#x2F;h3&gt;
+&lt;p&gt;Traditional cloud computing architecture is, by definition, centralized, which makes it especially vulnerable to &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.vxchnge.com&#x2F;blog&#x2F;how-to-protect-data-centers-from-a-new-generation-of-ddos-attacks&quot;&gt;distributed denial of service (DDoS)&lt;&#x2F;a&gt; attacks and power outages. Edge computing distributes processing, storage, and applications across a wide range of devices, nodes and data centers, which makes it difficult for any single disruption to take down the network which is why logically and geographically dispersed systems are often used for DDoS mitigation like in Content Delivery Networks (CDN)
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By pushing everything to the cloud, you’re leaving your business open to ISP failures and cloud server downtime. Many mission-critical operations like railroads and chemical plants won’t even use the cloud today. Their server farms are the only way to guarantee uptime.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;process-optimisation&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#process-optimisation&quot; aria-label=&quot;Anchor link for: process-optimisation&quot;&gt;🔗&lt;&#x2F;a&gt;Process optimisation&lt;&#x2F;h3&gt;
+&lt;p&gt;Another big benefit is process optimization. If self-driving cars were to use the cloud instead of the Edge, they’d be pushing all the data they gather up to the cloud. But if the Edge makes local decisions, the cloud may not need all that data immediately – or even at all.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;requirements-for-edge-computing&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#requirements-for-edge-computing&quot; aria-label=&quot;Anchor link for: requirements-for-edge-computing&quot;&gt;🔗&lt;&#x2F;a&gt;Requirements for Edge Computing&lt;&#x2F;h2&gt;
+&lt;p&gt;When compute and storage capabilities exist on the Edge, we need to overcome several challenges around capacity distribution.  Most traditional IT technologies do not allow this as they live in large data centers where there is a lot of “care” for these technologies.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The most significant generic hurdle to overcome is that there is going to be a lot less “care” for the technology to rely on at the Edge.  These “devices” have to be self-sufficient to no small degree.  If we want to sum up some of the specifics of edge technology, this will come out:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A typical edge device or node must run an OS that comes in at a low cost or, ideally, for free like some open source offerings. This enhances the proliferation of capacity at the Edge. &lt;&#x2F;li&gt;
+&lt;li&gt;Container technology must be embedded in the OS at the lowest possible level to create the maximum benefit of efficiency from the edge hardware: classic Virtual Machine environments are just too inefficient and resource consuming for edge use cases. There will be Virtual Machine based edge solutions, but these are going to be out there for a certain period, catering for current IT workloads to move to the Edge.  The Edge’s correct move can only happen when traditional IT applications split up into pieces and require a lot less capacity to run.  Hence, it will convert over time to containerized technology.&lt;&#x2F;li&gt;
+&lt;li&gt;Edge Computing hardware will consist of datacenter grade hardware and all sorts of other types of hardware.  The Edge might include some smaller sized data center facilities but also include different types of “homes” for compute and storage equipment.  Think of transportation as a specific use case - capacity on maritime vessels, capacity on trains, and vehicles’ capacity.  Hardware will have to accommodate different use cases,  price levels, form factors, and power consumption. &lt;&#x2F;li&gt;
+&lt;li&gt;Edge hardware needs a lightweight OS that is very close to the hardware components to get the maximum out of compute and storage capacity.  Less is more - for real Edge capacity, local people won’t be able to interact with edge capacity - one further step - there will be no need to have remote people access these devices for maintenance purposes.  The ultimate edge computing solution will have a significant amount of self-sustainability - where there are no more highly technically skilled people required to keep the capacity available, up and running.&lt;&#x2F;li&gt;
+&lt;li&gt;In most cases, Edge means being remote, and having no access to humans or humans are only too expensive for the specific use case. &lt;&#x2F;li&gt;
+&lt;li&gt;Power outages or no network availability will cause system failures. The ideal OS to deal with this revolves around no people; the zero-touch approach should be stateless and needs to have self-healing capabilities run by automation software robots.&lt;br &#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;existing-edge-computing-solutions&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#existing-edge-computing-solutions&quot; aria-label=&quot;Anchor link for: existing-edge-computing-solutions&quot;&gt;🔗&lt;&#x2F;a&gt;Existing Edge Computing Solutions&lt;&#x2F;h2&gt;
+&lt;p&gt;Today there are a few Edge Computing platforms out there that cover some requirements as outlined above. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Microsoft, for instance, launched products like Azure IoT Edge and Azure Data Box Edge to extend their Datacenter based Azure cloud offering to the Edge. &lt;&#x2F;li&gt;
+&lt;li&gt;Another attempt to bring centralized cloud technology to the Edge is the Openstack Edge Computing initiative, which is in the concept phase only so far. &lt;&#x2F;li&gt;
+&lt;li&gt;A new OS for the Edge is CoreOs, also known as Container Linux, which runs on nearly any platform, whether physical, virtual, or private&#x2F;public cloud.&lt;&#x2F;li&gt;
+&lt;li&gt;More recently, there are a few blockchain-driven technologies out there pushing for edge capacity to exist.  Examples are:
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;sia.tech&#x2F;&quot;&gt;SIA&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;sonm.com&#x2F;&quot;&gt;Sonm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;filecoin.io&#x2F;&quot;&gt;Filecoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Content delivery networks with a lot of “capacity” sitting close to end-users are expanding their capabilities beyond content delivery
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.limelight.com&#x2F;products&#x2F;iot-and-edge-cloud&#x2F;&quot;&gt;Limelight&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;https:&#x2F;&#x2F;www.akamai.com&#x2F;&quot;&gt;Akamai&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-holy-grail&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-holy-grail&quot; aria-label=&quot;Anchor link for: the-holy-grail&quot;&gt;🔗&lt;&#x2F;a&gt;The Holy Grail&lt;&#x2F;h2&gt;
+&lt;p&gt;The holy grail would be a self-healing Edge Grid. Edge, because of all the benefits Edge Computing brings to the user: Speed, Scalability, Reliability, Security, Versatility, and Process Optimization. Grid, because it fulfills the distributed workload requirements, a classic centralized cloud would generally be used without a centralized nature and all its disadvantages.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Probably the most critical part of the ideal solution is self-healing. The biggest challenge of an Edge Computing environment is the dependency on local care: humans to maintain hardware and upgrade or fix software components. Self Healing needs to do the job here, which means zero people can be involved. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Only a self-healing mechanism with zero-people involved, completely decentralized, brings down the cost and provides more security to the environment, and makes it highly scalable. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Some of you may think that new blockchain-based technologies may be the holy grail. But they are not.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In most cases, their implementations are too slow, and that’s why it does not make sense to use them for production purposes. Another downside is the complexity of the application caused by stitching together 3rd party technologies. In many cases, these blockchain-based technologies are at a very early stage with beta implementations or even roadmap only type of technology.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The holy grail is something that hasn’t been created before; it needs to be a versatile system that is self-manageable.  A large global conglomerate should not own the capacity - it should be owned by many. Therefore, it should have a commercial model where people individually can decide to partake in building this global edge solution and where there is a defined return on investment for those partakers.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A few groups of people, like us, are creating decentralized solutions for this, owned by the many, and creating services for all. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Solving the Blockchain Dilemma</title>
+		<published>2018-03-07T00:00:00+00:00</published>
+		<updated>2018-03-07T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/blockchain-dilemma/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/blockchain-dilemma/</id>
+		<content type="html">&lt;h2 id=&quot;introduction&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#introduction&quot; aria-label=&quot;Anchor link for: introduction&quot;&gt;🔗&lt;&#x2F;a&gt;Introduction&lt;&#x2F;h2&gt;
+&lt;p&gt;Blockchain technology has the power to change the world of IT. There are a huge number of new initiatives using blockchain technology around the world, with countless use cases.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In general, there are two types of blockchains: proof of work blockchains and proof of stake blockchains. They are consensus algorithms on how transactions are verified and added to the ledger (forever, as blockchains provide an immutable record of events). More on these two types of blockchains below.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockchain-basics&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#blockchain-basics&quot; aria-label=&quot;Anchor link for: blockchain-basics&quot;&gt;🔗&lt;&#x2F;a&gt;Blockchain Basics&lt;&#x2F;h2&gt;
+&lt;p&gt;A blockchain is, as the word says, a chain of blocks of information. These “blocks” contain information on transactions. For instance transactions like the transfer of value of a digital currency (token) from wallet A to wallet B. The “chain” aspect comes when part of the information is stored in a block as a link to the previous block (a unique number). This is a very simple representation of what a blockchain is.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;private-permissioned-or-public-blockchains&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#private-permissioned-or-public-blockchains&quot; aria-label=&quot;Anchor link for: private-permissioned-or-public-blockchains&quot;&gt;🔗&lt;&#x2F;a&gt;Private, Permissioned or Public Blockchains&lt;&#x2F;h2&gt;
+&lt;p&gt;The complexity around a blockchain comes from how the blockchain software is run. The software can run in two different ways: a small (or large) number of nodes controlled by one single entity (private blockchain) a person or a company, or a large (or small) number of nodes controlled by multiple entities (public) that do not know each other and where anyone interested to run a blockchain node can join.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By running blockchain software under the supervision of one entity (private, centralized) you can quite easily make sure the information stored in the blockchain (transactions) are not tempered with by only operating a small number of nodes and deploying them in very safe physical locations (private data-centers, vaults, basements of offices, etc). A private blockchain does not allow unknown entities to join and run the blockchain software.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A permissioned blockchain is operated by known entities such as stakeholders of a given industry. It is a mix of both private and public blockchains. In this type of blockchain network, a participant may not need permission to join the network but needs permission to transact with another network participant.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A public blockchain allows anyone to join the blockchain operation and create a new blockchain node. The blockchain is run by multiple entities (decentralized, public) that have no relationship nor knowledge about each other 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+For these three types of blockchains, there are different mechanisms to protect and guarantee the validity of transactions and make them tamper-proof.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;private-data-and-anonymous-or-pseudo-anonymous-data&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#private-data-and-anonymous-or-pseudo-anonymous-data&quot; aria-label=&quot;Anchor link for: private-data-and-anonymous-or-pseudo-anonymous-data&quot;&gt;🔗&lt;&#x2F;a&gt;Private Data and Anonymous or Pseudo-Anonymous Data?&lt;&#x2F;h2&gt;
+&lt;p&gt;For private blockchains, it is straightforward to see that all data that is stored on private blockchains is private and creates 100% anonymity for its users. The only entity or person that has access to information stored on the blockchain is the blockchain operator. This is comparable to how a bank operates. The bank knows everything about all of its customers and the customers only know about themselves - the non-bank customers do not know a thing.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+On a public blockchain, people can join and operate a blockchain node on which all information of that blockchain is stored. While private blockchains get their security from putting their blockchain nodes in secure buildings operated by trusted people a public blockchain achieves its security from having a large number of nodes that have the same data replicated over and over. A consensus algorithm is required in order to accept new data (new blocks) to the chain.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consensus-protocols-for-public-blockchains&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#consensus-protocols-for-public-blockchains&quot; aria-label=&quot;Anchor link for: consensus-protocols-for-public-blockchains&quot;&gt;🔗&lt;&#x2F;a&gt;Consensus Protocols for Public Blockchains&lt;&#x2F;h2&gt;
+&lt;p&gt;The main consensus protocols used today are Proof-of-Work and Proof-of-Stake.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;proof-of-work-high-cost-in-compute-and-energy&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#proof-of-work-high-cost-in-compute-and-energy&quot; aria-label=&quot;Anchor link for: proof-of-work-high-cost-in-compute-and-energy&quot;&gt;🔗&lt;&#x2F;a&gt;Proof of Work (High Cost in Compute and Energy)&lt;&#x2F;h3&gt;
+&lt;p&gt;The proof of work consensus protocol is best explained as a race. The consensus is achieved by having all participating nodes solve a puzzle. The puzzle is a one-way translation of an amount of information consisting of the following items:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;All the data that present the transactions in the block - all the data is known by all participating nodes&lt;&#x2F;li&gt;
+&lt;li&gt;The number of the previous block. Remember a blockchain links blocks of information together.&lt;&#x2F;li&gt;
+&lt;li&gt;A (variable) number. This number is the part that can be changed.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The “work” is done by changing the variable number and see what the translation of all data brings. The translation of all this data is a new number, and the requirement is that that number needs to be smaller than what is known as the “difficulty level”. The difficulty level number has a fixed amount of numbers but when the first digits of the number are zero the overall number is lower. So a higher difficulty is built by having a number that has more zeros at the start in the difficulty number.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Once the block is completed, all nodes will get the complete block of transactional data, everyone knows the previous block number and will start to change the variable number to get output from the puzzle algorithms comparing it to the required difficulty level.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The node that will find the number first will announce that it has found a solution matching the required difficulty level and the variable number of shared with all nodes in the network to verify that his solution is correct. If a large portion of the nodes has verified the solution to be valid the solution is accepted and the block is added to the chain because consensus is reached.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;proof-of-block-stake-low-cost-in-compute-and-energy&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#proof-of-block-stake-low-cost-in-compute-and-energy&quot; aria-label=&quot;Anchor link for: proof-of-block-stake-low-cost-in-compute-and-energy&quot;&gt;🔗&lt;&#x2F;a&gt;Proof of (Block) Stake (Low Cost in Compute and Energy)&lt;&#x2F;h3&gt;
+&lt;p&gt;With proof of stake consensus algorithms, the consensus algorithm does not solve puzzles in a race to be the first. The first step is to identify and allow a certain number of nodes to be part of the blockchain. This is called a permissioned blockchain because you need to have permission to partake. This permission is given by distributing stakes.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Proof of Stake consensus mechanism is solving a puzzle, but the puzzle contains only static elements - not variables - based on different characteristics:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The block number&lt;&#x2F;li&gt;
+&lt;li&gt;The content (part) of blocks a long time ago (&amp;gt;2000 blocks)&lt;&#x2F;li&gt;
+&lt;li&gt;The transaction number (between the first and the last transaction) in the block of the stake transfer transaction all participating nodes needs to&lt;&#x2F;li&gt;
+&lt;li&gt;The current timestamp
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+All these numbers are fixed but the time stamp and every node in the block stake blockchain will solve this puzzle every second until the output of this puzzle matches the required difficulty level. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+To make sure the one node that has solved the puzzle to match the difficulty level cannot introduce information in the block which allows him to tamper with the next blocks this node cannot use his used stake for a period amount of time for creating new blocks.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The fact that the puzzle-solving includes historic block data and once a node is assigned to create the block and put it on a chain will not be able to use that block state for a period of time makes it very costly to try to tamper with the content of the block (and the next blocks). &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-blockchain-dilemma-problem&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-blockchain-dilemma-problem&quot; aria-label=&quot;Anchor link for: the-blockchain-dilemma-problem&quot;&gt;🔗&lt;&#x2F;a&gt;The Blockchain Dilemma Problem&lt;&#x2F;h2&gt;
+&lt;p&gt;Public and private blockchains have their specific advantages and disadvantages and are very good for specific use cases - but not all. If we list the specifics of both we end up with a table like this:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+| * | Public Blockchains | Private Blockchains |
+|—|—|—|
+| Security | Provided by having a large number of nodes running it | Provided by having them in secure controlled places | 
+| People | Build, managed and controlled by unknown people | Build, managed, and controlled by known people |&lt;br &#x2F;&gt;
+| Speed | Slow by design - all data needs to be copied to all of them | Fast(er) and more efficient by design - a smaller number of copies of the blockchain data |&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+So what if we want to have a secure, performant, and easy to manage blockchain solution?  This is not what can be delivered by either type of blockchains.  We have to create a new type of blockchain that combines the best of both worlds and delivers.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The key element in finding a solution for this problem is to take the human element out of it.  The fact that when you deploy blockchains solutions in locations without human intervention means that you need to create a different deployment mechanism that takes out people touching code, compiling code, deploying code, and in the end operating the machine in which the code runs.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+A way to get around the trusted people problem is to select a platform on which software can be downloaded, compiled, installed, and operated without human intervention.  Such a platform is a unique platform that has not been developed and launched. Such a platform would have to have the following characteristics. To make this system work and solve the blockchain dilemma we need to have three components working together in an orchestrated way.  The three elements are:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zero-OS&lt;&#x2F;strong&gt;: A (simple) operating system that does not allow local and remote logins - a closed operating system that receives instructions to launch or kill applications.  This operating system  needs to be stateless to keep as simple as possible: &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;3Bot&lt;&#x2F;strong&gt;: A virtual system administrator that is able to perform system administration tasks to make the system operate, self-heal and execute instructions from authenticated and authorized sources.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Zero-Chain&lt;&#x2F;strong&gt;: A ledger or database to store information with regards to authentication, operational and financial transactions.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+This system architecture allows for authenticated and trusted virtual system administrators to download, compile and deploy software on a grid of secure Zero-OS nodes with an immutable ledger that records all transactions, operational and financial. This presents a platform on which a public (permissioned) blockchain can be run securely without requiring trusted people to operate the nodes. 
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+In such architecture, we can build and deploy a high-performance secure blockchain which are the combined benefits of a public and private blockchain.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Creating solutions that respect humanity and the planet</title>
+		<published>2017-06-06T00:00:00+00:00</published>
+		<updated>2017-06-06T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/ethical-design-manifesto/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/ethical-design-manifesto/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Organizations should always respect human rights, human effort and human experience. To enable a sustainable and prosperous civilization and world, we need a strong value system.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+*Ideas and texts were inspired from https:&#x2F;&#x2F;ind.ie&#x2F;ethical-design&#x2F;. We added our own twist to it.*
+&lt;h2 id=&quot;respect-human-rights&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#respect-human-rights&quot; aria-label=&quot;Anchor link for: respect-human-rights&quot;&gt;🔗&lt;&#x2F;a&gt;Respect Human Rights&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sustainability&lt;&#x2F;strong&gt;: It is important for a very simple reason: we cannot maintain our quality of life as human beings, the diversity of life on our planet, or Earth’s ecosystems unless we embrace and protect its balance.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Equality&lt;&#x2F;strong&gt;: Everyone should have a right to learn, dream, partake and succeed. Equal access also means affordability, not ownership by big greedy companies.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Decentralization&lt;&#x2F;strong&gt;: To better distribute power, value and opportunities, we need more decentralization. Technologies and solutions should be available everywhere to improve equality and sustainability. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Openness &amp;amp; Interoperability&lt;&#x2F;strong&gt;: Allows technologies to work together in an open way, without limitation, and therefore expands the possibilities for innovation and sharing.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility&lt;&#x2F;strong&gt;: Whatever the location or situation, people should benefit from easy and fast access to information and solutions.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Security &amp;amp; Privacy&lt;&#x2F;strong&gt;: Protect people from being put in situations of danger or exploitation. People should be empowered to be independent and they should be the sole owners of their experiences.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;respect-human-effort&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#respect-human-effort&quot; aria-label=&quot;Anchor link for: respect-human-effort&quot;&gt;🔗&lt;&#x2F;a&gt;Respect Human Effort&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reliability&lt;&#x2F;strong&gt;: Make sure technologies are reliable and last longer.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity&lt;&#x2F;strong&gt;: We need to keep things simple: no unnecessary complexity - less is more.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency&lt;&#x2F;strong&gt;: Let people and companies work together in a 100% transparent way.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration&lt;&#x2F;strong&gt;: It’s all about the greater picture. We are stronger together and have to help each other in reaching our common visions.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;respect-human-experience&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#respect-human-experience&quot; aria-label=&quot;Anchor link for: respect-human-experience&quot;&gt;🔗&lt;&#x2F;a&gt;Respect Human Experience&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ergonomy&lt;&#x2F;strong&gt;: Products and solutions should empower productivity, safety and comfort, while reducing human error.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Inclusiveness&lt;&#x2F;strong&gt;: Design should always be global and inclusive. We are all equal.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Design&lt;&#x2F;strong&gt;: Products should be visually appealing and should achieve it’s purpose.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Transparency&lt;&#x2F;strong&gt;: Organisational records and strategies should be accessible to everyone.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;em&gt;Photo by Renee Fisher on Unsplash.&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The need for ThreeFold&#x27;s neutral internet</title>
+		<published>2017-06-01T00:00:00+00:00</published>
+		<updated>2017-06-01T00:00:00+00:00</updated>
+		<link href="https://threefoldfoundation.github.io/www_threefold_io/blog/new-neutral-internet/" type="text/html"/>
+		<id>https://threefoldfoundation.github.io/www_threefold_io/blog/new-neutral-internet/</id>
+		<content type="html">&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+**The Internet is growing like crazy and is now a trillion dollar problem. Together we can build a new neutral Internet.**
+&lt;h2 id=&quot;an-introduction-to-the-problems&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#an-introduction-to-the-problems&quot; aria-label=&quot;Anchor link for: an-introduction-to-the-problems&quot;&gt;🔗&lt;&#x2F;a&gt;An introduction to the problems&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Internet is no longer the neutral place it used to be. +80% of the Internet capacity is delivered by a handful of companies. This results in a loss of neutrality and openness and breeds inequalities.&lt;&#x2F;li&gt;
+&lt;li&gt;To support the continuous growth of the Internet and connect billions to new Internet Of Things devices, 400 million new servers are needed by 2020. The world therefore needs another 4,000 large-scale data centers that each consume 200 MWe of electricity: &lt;a rel=&quot;nofollow noreferrer&quot; href=&quot;http:&#x2F;&#x2F;bit.ly&#x2F;1UPUZYG&quot;&gt;see source&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Today, about 4 billion people have no access to the Internet due to the high costs of connectivity and capacity. We believe these people have the fundamental right to have low-cost access to digital resources such as online identity solutions, education, health information and more. For this to happen, solutions that can lower the cost by a factor of 10 are required.&lt;&#x2F;li&gt;
+&lt;li&gt;Bandwidth does not follow Moore’s law. The growth of bandwidth required is much higher than the speed at which new capacity can be delivered. This is even more important in emerging markets.&lt;&#x2F;li&gt;
+&lt;li&gt;Current blockchain technology is not scalable and not sustainable. Example: the Bitcoin blockchain alone uses more energy today than Croatia.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;current-internet-and-cloud-capacity&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#current-internet-and-cloud-capacity&quot; aria-label=&quot;Anchor link for: current-internet-and-cloud-capacity&quot;&gt;🔗&lt;&#x2F;a&gt;Current Internet and Cloud capacity&lt;&#x2F;h2&gt;
+&lt;p&gt;Today, the cloud computing industry represents a 100 billion dollar industry - mostly owned by about 20 global cooperations. Experts such as Bell Labs and Cisco believe the capacity requirements in the next decade will dramatically exceed existing infrastructure - requiring many more data centers and billions, if not trillions in investments.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The spectacular growth and advancements in cloud computing that occurred over the last decade resulted in large part from “hyper-scale” efficiencies - i.e. centralizing Internet infrastructure in very large billion dollar data centers.  However, demand for Internet capacity already surpassed the available infrastructure with emerging technologies such as Big Data, the Internet of Things (IoT) and Artificial Intelligence (AI) Technology. The existing hyperscale cloud architecture cannot cope with this growing demand as the requirements for land, power and funding are becoming outrageous.&lt;br &#x2F;&gt;
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+The challenges facing the Internet includes the following:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Trillions of Investment Required&lt;&#x2F;strong&gt;. In the next decade, the global Internet infrastructure requires another 4,000 data centers (250M - 1B dollar investment each) to meet demand which would cost trillions - this money could be better used in education, healthcare, or sustainable innovations. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Impossible to scale the networks connecting users to the hyperscale data centers&lt;&#x2F;strong&gt;. Since hyperscale data centers are built in large “central” locations, the network leading to these data centers is congested. Even more, remote regions that are less connected to the Internet cannot benefit from these data centers’ IT services.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Non-local data and capacity&lt;&#x2F;strong&gt;. Governments around the world are becoming more and more concerned about data leaving their borders. To tackle this centralization issue, they would need local IT infrastructure. Also, IoT workloads need local capacity to deliver constant real-time computing and storage requirements - for certain applications and workloads (e.g. driverless cars), latency is not an option. Hyperscale data centers can simply not match these requirements.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Not secure &#x2F; at risk of choke point failures&lt;&#x2F;strong&gt;. There are plenty of recent well-publicized problems around security, outages and loss of data. The reason for this is that centralized hyperscale architectures are inherently insecure - and failures at a single hyperscale location can cause widespread contagion and outages.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-threefold-solution&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-threefold-solution&quot; aria-label=&quot;Anchor link for: the-threefold-solution&quot;&gt;🔗&lt;&#x2F;a&gt;The ThreeFold Solution&lt;&#x2F;h2&gt;
+&lt;p&gt;Our solution to these trillion dollar problems is to migrate Internet capacity to the Edge (closer to user location) - i.e. a “hyper-distributed” network architecture, located close to users (in cities, schools, offices, homes and even vehicles).
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+Edge networks will not necessarily replace the existing hyperscale capacity powering today’s cloud - rather, they will scale to meet the increased capacity demands going forward. However, if the current hyperscale capacity can be decentralized to improve energy consumption and reduce costs, this would be a huge global success.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;
+By 2025, 60% of new Internet infrastructure will be decentralized and located at the edge of operator networks by using alternative locations which have stable (renewable) power and reliable connectivity.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;threefold-s-technology-main-benefits&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#threefold-s-technology-main-benefits&quot; aria-label=&quot;Anchor link for: threefold-s-technology-main-benefits&quot;&gt;🔗&lt;&#x2F;a&gt;ThreeFold’s technology main benefits:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;&#x2F;strong&gt;: The ThreeFold Grid is distributed and benefits from our ItsYou.Online identity management platform - making it much more secure.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Decentralized&lt;&#x2F;strong&gt;: The solution enables to bring capacity closer to where users are located, enabling a Cloud at the Edge.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainability&lt;&#x2F;strong&gt;: The technology removes the need to build huge power hungry datacenters and by decentralizing the architecture enables up-to 1000% energy savings.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Making IT a true utility&lt;&#x2F;strong&gt;:  We always approached IT as Energy. Today we provide 3x more uptime and between 3-10x more cost effectiveness.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Neutrality&lt;&#x2F;strong&gt;: The solution enables 100% neutral &amp;amp; private Internet IT capacity. Our blockchain technology provides security, neutrality &amp;amp; scale.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;the-threefold-zero-node&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#the-threefold-zero-node&quot; aria-label=&quot;Anchor link for: the-threefold-zero-node&quot;&gt;🔗&lt;&#x2F;a&gt;The ThreeFold Zero-Node&lt;&#x2F;h2&gt;
+&lt;p&gt;The Zero-Node provides compute, network and storage capacity to the internet and ThreeFold’s blockchain. This capacity can be used for any possible workload. Here are some characteristics of ThreeFold’s Zero node:
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Modularity&lt;&#x2F;strong&gt;: Scaling from 8 vCPUs and 3.5 TB of storage (smallest) to clusters with 8000 vCPUs and 2 PB of storage (large), there is a range of possibilities at hand.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Sustainability&lt;&#x2F;strong&gt;: Storing the hardware uses about 10x less energy, and about 2-3x for other workloads.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Decentralized&lt;&#x2F;strong&gt;: The Zero Operating System (“Zero OS”) is ideally suited for Edge networking - where automation, self-healing and hyper-distribution are must-haves.
+&lt;ul&gt;
+&lt;li&gt;The Zero-Nodes are deployed as close as possible to the consumers of Internet IT capacity (IoT, residential, business, government, education, …).&lt;&#x2F;li&gt;
+&lt;li&gt;This results in massive bandwidth savings, we estimate to be able to keep 99% of the required bandwidth locally which has a huge impact on cost.&lt;&#x2F;li&gt;
+&lt;li&gt;This is the only viable solution to be able to provide internet to the 3.2 billion people waiting.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Self healing&lt;&#x2F;strong&gt;: The architecture is designed to ensure that workloads and data can be accessed at all times. &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Neutral &amp;amp; private&lt;&#x2F;strong&gt;: A lot of work has done using blockchain (technology which powers crypto currency) to guarantee privacy and net neutrality.
+&lt;ul&gt;
+&lt;li&gt;Designed around simplicity to be used by everyone.&lt;&#x2F;li&gt;
+&lt;li&gt;The technology provides anyone with the autonomy to deliver complex IT applications without the need for complex integration services.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Empowers equality&lt;&#x2F;strong&gt;: Our technology should be usable by the “other billions” that remain unconnected. Due to the low cost-points, low energy requirements and reduced need of backbone network capacity.
+&lt;br&#x2F;&gt;
+&lt;br&#x2F;&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
